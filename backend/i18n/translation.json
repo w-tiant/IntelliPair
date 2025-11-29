@@ -1,0 +1,10771 @@
+{
+  "beef": {
+    "zh_name": "牛肉",
+    "aliases": [
+      "beef",
+      "牛肉"
+    ],
+    "base_ingredient": "beef"
+  },
+  "onion": {
+    "zh_name": "洋葱",
+    "aliases": [
+      "onion",
+      "洋葱"
+    ]
+  },
+  "potato": {
+    "zh_name": "土豆",
+    "aliases": [
+      "potato",
+      "马铃薯",
+      "土豆"
+    ]
+  },
+  "strawberry": {
+    "zh_name": "草莓",
+    "aliases": [
+      "strawberry",
+      "草莓"
+    ]
+  },
+  "parmesan_cheese": {
+    "zh_name": "帕玛森芝士",
+    "aliases": [
+      "parmesan_cheese",
+      "帕玛森芝士",
+      "帕玛森干酪"
+    ]
+  },
+  "garlic": {
+    "zh_name": "大蒜",
+    "aliases": [
+      "garlic",
+      "大蒜",
+      "蒜"
+    ]
+  },
+  "carrot": {
+    "zh_name": "胡萝卜",
+    "aliases": [
+      "carrot",
+      "胡萝卜"
+    ]
+  },
+  "basil": {
+    "zh_name": "罗勒",
+    "aliases": [
+      "basil",
+      "罗勒"
+    ]
+  },
+  "black_pepper": {
+    "zh_name": "黑胡椒",
+    "aliases": [
+      "black_pepper",
+      "黑胡椒"
+    ]
+  },
+  "magnolia_tripetala": {
+    "zh_name": "三瓣木兰",
+    "aliases": [
+      "magnolia_tripetala",
+      "三瓣木兰"
+    ]
+  },
+  "calyptranthes_parriculata": {
+    "zh_name": "圆锥帽蕊花",
+    "aliases": [
+      "calyptranthes_parriculata",
+      "圆锥帽蕊花"
+    ]
+  },
+  "chamaecyparis_pisifera_oil": {
+    "zh_name": "日本花柏精油",
+    "aliases": [
+      "chamaecyparis_pisifera_oil",
+      "日本花柏精油"
+    ]
+  },
+  "mackerel": {
+    "zh_name": "鲭鱼",
+    "aliases": [
+      "mackerel",
+      "鲭鱼"
+    ]
+  },
+  "mimusops_elengi_flower": {
+    "zh_name": "香榄花",
+    "aliases": [
+      "mimusops_elengi_flower",
+      "香榄花"
+    ]
+  },
+  "hyssop": {
+    "zh_name": "神香草",
+    "aliases": [
+      "hyssop",
+      "神香草",
+      "牛膝草"
+    ]
+  },
+  "buchu": {
+    "zh_name": "布丘",
+    "aliases": [
+      "buchu",
+      "布丘"
+    ]
+  },
+  "eryngium_poterium_oil": {
+    "zh_name": "红斑油",
+    "aliases": [
+      "eryngium_poterium_oil",
+      "红斑油"
+    ]
+  },
+  "peanut_butter": {
+    "zh_name": "花生酱",
+    "aliases": [
+      "peanut_butter",
+      "花生酱"
+    ]
+  },
+  "artemisia_verlo": {
+    "zh_name": "南艾蒿",
+    "aliases": [
+      "artemisia_verlo",
+      "南艾蒿"
+    ]
+  },
+  "agastache_rugosa": {
+    "zh_name": "藿香",
+    "aliases": [
+      "agastache_rugosa",
+      "藿香"
+    ]
+  },
+  "satureia_thymera": {
+    "zh_name": "百里香叶香薄荷",
+    "aliases": [
+      "satureia_thymera",
+      "百里香叶香薄荷"
+    ]
+  },
+  "petitgrain": {
+    "zh_name": "苦橙叶",
+    "aliases": [
+      "petitgrain",
+      "苦橙叶"
+    ]
+  },
+  "orris_root": {
+    "zh_name": "鸢尾根",
+    "aliases": [
+      "orris_root",
+      "鸢尾根"
+    ]
+  },
+  "black_mustard_seed_oil": {
+    "zh_name": "黑芥末籽油",
+    "aliases": [
+      "black_mustard_seed_oil",
+      "黑芥末籽油"
+    ]
+  },
+  "celery_oil": {
+    "zh_name": "芹菜油",
+    "aliases": [
+      "celery_oil",
+      "芹菜油"
+    ]
+  },
+  "red_bean": {
+    "zh_name": "赤豆",
+    "aliases": [
+      "red_bean",
+      "赤豆"
+    ]
+  },
+  "almond": {
+    "zh_name": "杏仁",
+    "aliases": [
+      "almond",
+      "杏仁"
+    ]
+  },
+  "bacon": {
+    "zh_name": "熏肉",
+    "aliases": [
+      "bacon",
+      "熏肉"
+    ]
+  },
+  "lavender": {
+    "zh_name": "薰衣草",
+    "aliases": [
+      "lavender",
+      "薰衣草"
+    ]
+  },
+  "black_chokecherry": {
+    "zh_name": "野樱莓",
+    "aliases": [
+      "black_chokecherry",
+      "野樱莓"
+    ]
+  },
+  "abies_canadensis": {
+    "zh_name": "加拿大铁杉",
+    "aliases": [
+      "abies_canadensis",
+      "加拿大铁杉"
+    ]
+  },
+  "petitgrain_lemon": {
+    "zh_name": " 柠檬叶",
+    "aliases": [
+      "petitgrain_lemon",
+      " 柠檬叶"
+    ]
+  },
+  "keta_salmon": {
+    "zh_name": "酮鲑鱼",
+    "aliases": [
+      "keta_salmon",
+      "酮鲑鱼"
+    ]
+  },
+  "jasmine_tea": {
+    "zh_name": "茉莉茶",
+    "aliases": [
+      "jasmine_tea",
+      "茉莉茶"
+    ]
+  },
+  "grapefruit_peel": {
+    "zh_name": "葡萄柚皮",
+    "aliases": [
+      "grapefruit_peel",
+      "葡萄柚皮"
+    ]
+  },
+  "acacia_flower_oil": {
+    "zh_name": "相思花油",
+    "aliases": [
+      "acacia_flower_oil",
+      "相思花油"
+    ]
+  },
+  "nezara_viridula": {
+    "zh_name": "稻绿蝽",
+    "aliases": [
+      "nezara_viridula",
+      "稻绿蝽"
+    ]
+  },
+  "lemon_tree": {
+    "zh_name": "柠檬树",
+    "aliases": [
+      "lemon_tree",
+      "柠檬树"
+    ]
+  },
+  "litchi": {
+    "zh_name": "荔枝",
+    "aliases": [
+      "litchi",
+      "荔枝"
+    ]
+  },
+  "filbert": {
+    "zh_name": "榛子",
+    "aliases": [
+      "filbert",
+      "榛子"
+    ]
+  },
+  "yellow_passion_fruit_juice": {
+    "zh_name": "黄色百香果果汁",
+    "aliases": [
+      "yellow_passion_fruit_juice",
+      "黄色百香果果汁"
+    ]
+  },
+  "jasmine": {
+    "zh_name": "茉莉花",
+    "aliases": [
+      "jasmine",
+      "茉莉花"
+    ]
+  },
+  "congo_geranium": {
+    "zh_name": "刚果天竺葵",
+    "aliases": [
+      "congo_geranium",
+      "刚果天竺葵"
+    ]
+  },
+  "maple_syrup": {
+    "zh_name": "枫糖浆",
+    "aliases": [
+      "maple_syrup",
+      "枫糖浆"
+    ]
+  },
+  "vervain_leaf": {
+    "zh_name": "马鞭草叶",
+    "aliases": [
+      "vervain_leaf",
+      "马鞭草叶"
+    ]
+  },
+  "smoke": {
+    "zh_name": "烟熏风味",
+    "aliases": [
+      "smoke",
+      "烟熏风味",
+      "烟熏味",
+      "液体烟熏"
+    ]
+  },
+  "toasted_oat": {
+    "zh_name": "烤燕麦",
+    "aliases": [
+      "toasted_oat",
+      "烤燕麦"
+    ]
+  },
+  "reunion_geranium": {
+    "zh_name": "波旁天竺葵",
+    "aliases": [
+      "reunion_geranium",
+      "波旁天竺葵"
+    ]
+  },
+  "kabosu_peel_oil": {
+    "zh_name": "卡波苏果皮油",
+    "aliases": [
+      "kabosu_peel_oil",
+      "卡波苏果皮油"
+    ]
+  },
+  "soybean": {
+    "zh_name": "大豆",
+    "aliases": [
+      "soybean",
+      "大豆"
+    ]
+  },
+  "wintergreen_leaf": {
+    "zh_name": "冬青叶",
+    "aliases": [
+      "wintergreen_leaf",
+      "冬青叶"
+    ]
+  },
+  "eucalyptus_hemilampra": {
+    "zh_name": "桉树Hemilampra",
+    "aliases": [
+      "eucalyptus_hemilampra",
+      "桉树Hemilampra"
+    ]
+  },
+  "jammus_citronella_oil": {
+    "zh_name": "沙发司citronella油",
+    "aliases": [
+      "jammus_citronella_oil",
+      "沙发司citronella油"
+    ]
+  },
+  "spike": {
+    "zh_name": "穗花薰衣草",
+    "aliases": [
+      "spike",
+      "穗花薰衣草"
+    ]
+  },
+  "blueberry": {
+    "zh_name": "蓝莓",
+    "aliases": [
+      "blueberry",
+      "蓝莓"
+    ]
+  },
+  "musk": {
+    "zh_name": "麝香",
+    "aliases": [
+      "musk",
+      "麝香"
+    ]
+  },
+  "callitris_glauca": {
+    "zh_name": "澳洲柏 ",
+    "aliases": [
+      "callitris_glauca",
+      "澳洲柏 "
+    ]
+  },
+  "red_currant": {
+    "zh_name": "红加仑",
+    "aliases": [
+      "red_currant",
+      "红加仑"
+    ]
+  },
+  "myrrh": {
+    "zh_name": "没药",
+    "aliases": [
+      "myrrh",
+      "没药"
+    ]
+  },
+  "pecan": {
+    "zh_name": "胡桃",
+    "aliases": [
+      "pecan",
+      "胡桃"
+    ]
+  },
+  "cicuta_virosa_oil": {
+    "zh_name": "西库塔奶酪油",
+    "aliases": [
+      "cicuta_virosa_oil",
+      "西库塔奶酪油"
+    ]
+  },
+  "purple_passion_fruit_juice": {
+    "zh_name": "紫色百香果果汁",
+    "aliases": [
+      "purple_passion_fruit_juice",
+      "紫色百香果果汁"
+    ]
+  },
+  "caja_fruit": {
+    "zh_name": "黄槟榔",
+    "aliases": [
+      "caja_fruit",
+      "黄槟榔",
+      "巴西李",
+      "卡加"
+    ]
+  },
+  "juniper_leaf_oil": {
+    "zh_name": "杜松叶油",
+    "aliases": [
+      "juniper_leaf_oil",
+      "杜松叶油"
+    ]
+  },
+  "madagascar_cinnamon_leaf_oil": {
+    "zh_name": "马达加斯加肉桂叶油",
+    "aliases": [
+      "madagascar_cinnamon_leaf_oil",
+      "马达加斯加肉桂叶油"
+    ]
+  },
+  "smoked_sausage": {
+    "zh_name": "熏制香肠",
+    "aliases": [
+      "smoked_sausage",
+      "熏制香肠"
+    ]
+  },
+  "wort": {
+    "zh_name": "麦芽汁",
+    "aliases": [
+      "wort",
+      "麦芽汁"
+    ]
+  },
+  "celery_seed": {
+    "zh_name": "芹菜种子",
+    "aliases": [
+      "celery_seed",
+      "芹菜种子"
+    ]
+  },
+  "pinus_sylvestris": {
+    "zh_name": "欧洲赤松",
+    "aliases": [
+      "pinus_sylvestris",
+      "欧洲赤松"
+    ]
+  },
+  "chayote": {
+    "zh_name": "佛手瓜",
+    "aliases": [
+      "chayote",
+      "佛手瓜"
+    ]
+  },
+  "beet_juice": {
+    "zh_name": "甜菜汁",
+    "aliases": [
+      "beet_juice",
+      "甜菜汁"
+    ]
+  },
+  "dolphin": {
+    "zh_name": "鲯鳅",
+    "aliases": [
+      "dolphin",
+      "鲯鳅",
+      "鬼头刀"
+    ]
+  },
+  "honey": {
+    "zh_name": "蜂蜜",
+    "aliases": [
+      "honey",
+      "蜂蜜"
+    ]
+  },
+  "agarwood": {
+    "zh_name": "阿加伍德",
+    "aliases": [
+      "agarwood",
+      "阿加伍德"
+    ]
+  },
+  "litsea_odorifera": {
+    "zh_name": "香木姜子",
+    "aliases": [
+      "litsea_odorifera",
+      "香木姜子"
+    ]
+  },
+  "mentha_crispa": {
+    "zh_name": "Mentha Crispa",
+    "aliases": [
+      "mentha_crispa",
+      "Mentha Crispa"
+    ]
+  },
+  "american_peppermint_oil": {
+    "zh_name": "美国薄荷油",
+    "aliases": [
+      "american_peppermint_oil",
+      "美国薄荷油"
+    ]
+  },
+  "cottage_cheese": {
+    "zh_name": "干酪",
+    "aliases": [
+      "cottage_cheese",
+      "干酪"
+    ]
+  },
+  "bulgarian_clary_sage": {
+    "zh_name": "保加利亚克拉里·圣贤",
+    "aliases": [
+      "bulgarian_clary_sage",
+      "保加利亚克拉里·圣贤"
+    ]
+  },
+  "solidago_odora": {
+    "zh_name": "Solidago Odora",
+    "aliases": [
+      "solidago_odora",
+      "Solidago Odora"
+    ]
+  },
+  "hop": {
+    "zh_name": "跳",
+    "aliases": [
+      "hop",
+      "跳"
+    ]
+  },
+  "paraguay_petitgrain": {
+    "zh_name": "巴拉圭叶精油",
+    "aliases": [
+      "paraguay_petitgrain",
+      "巴拉圭叶精油"
+    ]
+  },
+  "smoked_summer_sausage": {
+    "zh_name": "熏制的夏季香肠",
+    "aliases": [
+      "smoked_summer_sausage",
+      "熏制的夏季香肠"
+    ]
+  },
+  "myrocarpus_fastigiatus": {
+    "zh_name": "Myrocarpus fastigiatus",
+    "aliases": [
+      "myrocarpus_fastigiatus",
+      "Myrocarpus fastigiatus"
+    ]
+  },
+  "eucalyptus_dives": {
+    "zh_name": "澳洲胡椒薄荷",
+    "aliases": [
+      "eucalyptus_dives",
+      "澳洲胡椒薄荷"
+    ]
+  },
+  "picea_orientalis": {
+    "zh_name": "高加索云杉",
+    "aliases": [
+      "picea_orientalis",
+      "高加索云杉"
+    ]
+  },
+  "tulip": {
+    "zh_name": "郁金香",
+    "aliases": [
+      "tulip",
+      "郁金香"
+    ]
+  },
+  "ligusticum_acutilobum_oil": {
+    "zh_name": "韧带脂质油",
+    "aliases": [
+      "ligusticum_acutilobum_oil",
+      "韧带脂质油"
+    ]
+  },
+  "nutmeg_oil": {
+    "zh_name": "肉豆蔻油",
+    "aliases": [
+      "nutmeg_oil",
+      "肉豆蔻油"
+    ]
+  },
+  "tahiti_vanilla": {
+    "zh_name": "大溪地香草",
+    "aliases": [
+      "tahiti_vanilla",
+      "大溪地香草"
+    ]
+  },
+  "matricaria_parthenium_oil": {
+    "zh_name": "小白菊精油",
+    "aliases": [
+      "matricaria_parthenium_oil",
+      "小白菊精油"
+    ]
+  },
+  "valencia_orange_juice": {
+    "zh_name": "瓦伦西亚橙汁",
+    "aliases": [
+      "valencia_orange_juice",
+      "瓦伦西亚橙汁"
+    ]
+  },
+  "wine": {
+    "zh_name": "葡萄酒",
+    "aliases": [
+      "wine",
+      "葡萄酒"
+    ]
+  },
+  "piper_famechoni": {
+    "zh_name": "法美可尼胡椒",
+    "aliases": [
+      "piper_famechoni",
+      "法美可尼胡椒"
+    ]
+  },
+  "carphephorus_corymbosus_leaf": {
+    "zh_name": "伞房卡佛草叶",
+    "aliases": [
+      "carphephorus_corymbosus_leaf",
+      "伞房卡佛草叶"
+    ]
+  },
+  "tsuga_canadensis_oil": {
+    "zh_name": "加拿大铁杉精油",
+    "aliases": [
+      "tsuga_canadensis_oil",
+      "加拿大铁杉精油",
+      "加拿大铁杉油"
+    ]
+  },
+  "orange_juice": {
+    "zh_name": "橙汁",
+    "aliases": [
+      "orange_juice",
+      "橙汁"
+    ]
+  },
+  "fagara_zanthoxyloides_oil": {
+    "zh_name": "非洲花椒精油",
+    "aliases": [
+      "fagara_zanthoxyloides_oil",
+      "非洲花椒精油"
+    ]
+  },
+  "petitgrain_lemon_oil": {
+    "zh_name": "小柠檬油",
+    "aliases": [
+      "petitgrain_lemon_oil",
+      "小柠檬油"
+    ]
+  },
+  "guava_peel": {
+    "zh_name": "番石榴皮",
+    "aliases": [
+      "guava_peel",
+      "番石榴皮"
+    ]
+  },
+  "bitter_orange": {
+    "zh_name": "酸橙",
+    "aliases": [
+      "bitter_orange",
+      "酸橙"
+    ]
+  },
+  "roasted_sesame_seed": {
+    "zh_name": "烤芝麻",
+    "aliases": [
+      "roasted_sesame_seed",
+      "烤芝麻"
+    ]
+  },
+  "avocado": {
+    "zh_name": "牛油果",
+    "aliases": [
+      "avocado",
+      "牛油果"
+    ]
+  },
+  "clary_sage": {
+    "zh_name": "香紫苏",
+    "aliases": [
+      "clary_sage",
+      "香紫苏"
+    ]
+  },
+  "blackberry_juice": {
+    "zh_name": "黑莓汁",
+    "aliases": [
+      "blackberry_juice",
+      "黑莓汁"
+    ]
+  },
+  "tomato_juice": {
+    "zh_name": "番茄汁",
+    "aliases": [
+      "tomato_juice",
+      "番茄汁"
+    ]
+  },
+  "fig": {
+    "zh_name": "无花果",
+    "aliases": [
+      "fig",
+      "无花果"
+    ]
+  },
+  "american_storax": {
+    "zh_name": "美国苏合香",
+    "aliases": [
+      "american_storax",
+      "美国苏合香"
+    ]
+  },
+  "savory": {
+    "zh_name": "香薄荷",
+    "aliases": [
+      "savory",
+      "香薄荷",
+      "风轮菜"
+    ]
+  },
+  "passiflora_edulis_juice": {
+    "zh_name": "苏菲氏果汁",
+    "aliases": [
+      "passiflora_edulis_juice",
+      "苏菲氏果汁"
+    ]
+  },
+  "trassi": {
+    "zh_name": "虾膏",
+    "aliases": [
+      "trassi",
+      "虾膏"
+    ]
+  },
+  "abies_concolor": {
+    "zh_name": "白冷杉",
+    "aliases": [
+      "abies_concolor",
+      "Abies concolor",
+      "白冷杉",
+      "科罗拉多冷杉"
+    ]
+  },
+  "castoreum": {
+    "zh_name": "河狸香",
+    "aliases": [
+      "castoreum",
+      "Castoreum",
+      "河狸香"
+    ]
+  },
+  "bread": {
+    "zh_name": "面包",
+    "aliases": [
+      "bread",
+      "面包"
+    ]
+  },
+  "wild_vanilla": {
+    "zh_name": "野生香草",
+    "aliases": [
+      "wild_vanilla",
+      "野生香草"
+    ]
+  },
+  "meat": {
+    "zh_name": "肉",
+    "aliases": [
+      "meat",
+      "肉"
+    ]
+  },
+  "thuja_articulata_bark_oil": {
+    "zh_name": "Thuja Articulata树皮油",
+    "aliases": [
+      "thuja_articulata_bark_oil",
+      "Thuja Articulata树皮油"
+    ]
+  },
+  "nemuaron_humboldtii_oil": {
+    "zh_name": "Nemuaron Humboldtii油",
+    "aliases": [
+      "nemuaron_humboldtii_oil",
+      "Nemuaron Humboldtii油"
+    ]
+  },
+  "citrus_peel": {
+    "zh_name": "柑橘皮",
+    "aliases": [
+      "citrus_peel",
+      "柑橘皮"
+    ]
+  },
+  "robinia_pseudoacacia": {
+    "zh_name": "罗比尼亚假单胞菌",
+    "aliases": [
+      "robinia_pseudoacacia",
+      "罗比尼亚假单胞菌"
+    ]
+  },
+  "rosemary": {
+    "zh_name": "迷迭香",
+    "aliases": [
+      "rosemary",
+      "迷迭香"
+    ]
+  },
+  "satsuma_mandarin_peel": {
+    "zh_name": "温州蜜柑果皮",
+    "aliases": [
+      "satsuma_mandarin_peel",
+      "温州蜜柑果皮",
+      "温州蜜柑皮"
+    ]
+  },
+  "prawn": {
+    "zh_name": "虾",
+    "aliases": [
+      "prawn",
+      "虾"
+    ]
+  },
+  "thujopsis_dolabrata": {
+    "zh_name": "罗汉柏",
+    "aliases": [
+      "thujopsis_dolabrata",
+      "Thujopsis dolabrata",
+      "罗汉柏",
+      "日本罗汉柏"
+    ]
+  },
+  "turnip": {
+    "zh_name": "芜菁",
+    "aliases": [
+      "turnip",
+      "芜菁"
+    ]
+  },
+  "sweet_potato": {
+    "zh_name": "甘薯",
+    "aliases": [
+      "sweet_potato",
+      "甘薯"
+    ]
+  },
+  "black_sesame_seed": {
+    "zh_name": "黑芝麻",
+    "aliases": [
+      "black_sesame_seed",
+      "黑芝麻"
+    ]
+  },
+  "ribes": {
+    "zh_name": "肋骨",
+    "aliases": [
+      "ribes",
+      "肋骨"
+    ]
+  },
+  "mentha": {
+    "zh_name": "薄荷属",
+    "aliases": [
+      "mentha",
+      "Mentha",
+      "薄荷属",
+      "薄荷"
+    ]
+  },
+  "california_pepper": {
+    "zh_name": "加利福尼亚胡椒",
+    "aliases": [
+      "california_pepper",
+      "加利福尼亚胡椒"
+    ]
+  },
+  "eucalyptus_citriodora": {
+    "zh_name": "桉树石",
+    "aliases": [
+      "eucalyptus_citriodora",
+      "桉树石"
+    ]
+  },
+  "dried_black_tea": {
+    "zh_name": "干红茶",
+    "aliases": [
+      "dried_black_tea",
+      "干红茶"
+    ]
+  },
+  "roasted_hazelnut": {
+    "zh_name": "烤榛子",
+    "aliases": [
+      "roasted_hazelnut",
+      "烤榛子"
+    ]
+  },
+  "melaleuca_oil": {
+    "zh_name": "米勒卡油",
+    "aliases": [
+      "melaleuca_oil",
+      "米勒卡油"
+    ]
+  },
+  "phellodendron_amurense": {
+    "zh_name": "黄檗",
+    "aliases": [
+      "phellodendron_amurense",
+      "Phellodendron amurense",
+      "黄檗",
+      "关黄柏",
+      "黄柏"
+    ]
+  },
+  "sesame_oil": {
+    "zh_name": "香油",
+    "aliases": [
+      "sesame_oil",
+      "香油"
+    ]
+  },
+  "boronia_dentigeroides_oil": {
+    "zh_name": "齿状波罗尼花精油",
+    "aliases": [
+      "boronia_dentigeroides_oil",
+      "齿状波罗尼花精油"
+    ]
+  },
+  "several_oil": {
+    "zh_name": "多种油",
+    "aliases": [
+      "several_oil",
+      "几种油",
+      "多种油"
+    ]
+  },
+  "saxifragaceae": {
+    "zh_name": "虎耳草科",
+    "aliases": [
+      "saxifragaceae",
+      "虎耳草科"
+    ]
+  },
+  "bachang": {
+    "zh_name": "巴肯",
+    "aliases": [
+      "bachang",
+      "巴肯"
+    ]
+  },
+  "smoked_pork": {
+    "zh_name": "烟熏猪肉",
+    "aliases": [
+      "smoked_pork",
+      "烟熏猪肉"
+    ]
+  },
+  "raisin": {
+    "zh_name": "葡萄干",
+    "aliases": [
+      "raisin",
+      "葡萄干"
+    ]
+  },
+  "luvunga_scadens_oil": {
+    "zh_name": "攀援露望果精油",
+    "aliases": [
+      "luvunga_scadens_oil",
+      "攀援露望果精油"
+    ]
+  },
+  "salmon_caviar": {
+    "zh_name": "鲑鱼鱼子酱",
+    "aliases": [
+      "salmon_caviar",
+      "鲑鱼鱼子酱"
+    ]
+  },
+  "cheddar_cheese": {
+    "zh_name": "切达奶酪",
+    "aliases": [
+      "cheddar_cheese",
+      "切达奶酪"
+    ]
+  },
+  "field_mint_oil": {
+    "zh_name": "野薄荷",
+    "aliases": [
+      "field_mint_oil",
+      "野薄荷"
+    ]
+  },
+  "winter_savory": {
+    "zh_name": "冬香薄荷",
+    "aliases": [
+      "winter_savory",
+      "冬香薄荷"
+    ]
+  },
+  "birch": {
+    "zh_name": "桦木",
+    "aliases": [
+      "birch",
+      "桦木"
+    ]
+  },
+  "lettuce": {
+    "zh_name": "莴苣",
+    "aliases": [
+      "lettuce",
+      "莴苣"
+    ]
+  },
+  "tamarind": {
+    "zh_name": "罗望子",
+    "aliases": [
+      "tamarind",
+      "罗望子"
+    ]
+  },
+  "ceylon_tea": {
+    "zh_name": "锡兰茶",
+    "aliases": [
+      "ceylon_tea",
+      "锡兰茶"
+    ]
+  },
+  "yellow_mombin": {
+    "zh_name": "黄槟榔",
+    "aliases": [
+      "yellow_mombin",
+      "黄槟榔"
+    ]
+  },
+  "cod_liver_oil": {
+    "zh_name": "鳕鱼肝油",
+    "aliases": [
+      "cod_liver_oil",
+      "鳕鱼肝油"
+    ]
+  },
+  "polyalthia_canangioides_flower": {
+    "zh_name": "多胸胸腺类花朵",
+    "aliases": [
+      "polyalthia_canangioides_flower",
+      "多胸胸腺类花朵"
+    ]
+  },
+  "licorice": {
+    "zh_name": "甘草",
+    "aliases": [
+      "licorice",
+      "甘草"
+    ]
+  },
+  "tilsit_cheese": {
+    "zh_name": "提尔西特奶酪",
+    "aliases": [
+      "tilsit_cheese",
+      "提尔西特奶酪"
+    ]
+  },
+  "estragon": {
+    "zh_name": "龙蒿",
+    "aliases": [
+      "estragon",
+      "龙蒿",
+      "龙艾",
+      "tarragon"
+    ]
+  },
+  "dwarf_quince": {
+    "zh_name": "日本木瓜",
+    "aliases": [
+      "dwarf_quince",
+      "日本木瓜"
+    ]
+  },
+  "cereal": {
+    "zh_name": "谷物",
+    "aliases": [
+      "cereal",
+      "谷物"
+    ]
+  },
+  "hazelnut": {
+    "zh_name": "榛子",
+    "aliases": [
+      "hazelnut",
+      "榛子"
+    ]
+  },
+  "orthodon_tenuicaule_oil": {
+    "zh_name": "细茎荠精油",
+    "aliases": [
+      "orthodon_tenuicaule_oil",
+      "细茎荠精油"
+    ]
+  },
+  "sauvignon_grape": {
+    "zh_name": "长相思葡萄",
+    "aliases": [
+      "sauvignon_grape",
+      "长相思葡萄",
+      "白苏维翁葡萄"
+    ]
+  },
+  "green_mate": {
+    "zh_name": "绿马黛茶",
+    "aliases": [
+      "green_mate",
+      "绿马黛茶",
+      "绿色马黛茶"
+    ]
+  },
+  "pittosporum_glabratum": {
+    "zh_name": "光叶海桐",
+    "aliases": [
+      "pittosporum_glabratum",
+      "光叶海桐"
+    ]
+  },
+  "mentha_verticillata": {
+    "zh_name": "轮伞薄荷",
+    "aliases": [
+      "mentha_verticillata",
+      "Mentha Verticillata",
+      "轮伞薄荷"
+    ]
+  },
+  "trifolium_pratense_leaf_oil": {
+    "zh_name": "红车轴草叶精油",
+    "aliases": [
+      "trifolium_pratense_leaf_oil",
+      "红车轴草叶精油",
+      "红三叶草叶精油"
+    ]
+  },
+  "honey_fungus": {
+    "zh_name": "蜜环菌",
+    "aliases": [
+      "honey_fungus",
+      "蜜环菌",
+      "榛蘑"
+    ]
+  },
+  "litsea_guatemalensis_oil": {
+    "zh_name": "危地马拉木姜子精油",
+    "aliases": [
+      "litsea_guatemalensis_oil",
+      "危地马拉木姜子精油"
+    ]
+  },
+  "tonka_bean_seed": {
+    "zh_name": "零陵香豆",
+    "aliases": [
+      "tonka_bean_seed",
+      "零陵香豆",
+      "黑香豆",
+      "香豆"
+    ]
+  },
+  "bulgarian_clary_sage_oil": {
+    "zh_name": "保加利亚鼠尾草油",
+    "aliases": [
+      "bulgarian_clary_sage_oil",
+      "保加利亚鼠尾草油"
+    ]
+  },
+  "cinnamomum": {
+    "zh_name": "肉桂",
+    "aliases": [
+      "cinnamomum",
+      "肉桂"
+    ]
+  },
+  "ginger": {
+    "zh_name": "姜",
+    "aliases": [
+      "ginger",
+      "姜"
+    ]
+  },
+  "seed": {
+    "zh_name": "种子",
+    "aliases": [
+      "seed",
+      "种子"
+    ]
+  },
+  "mint": {
+    "zh_name": "薄荷",
+    "aliases": [
+      "mint",
+      "薄荷"
+    ]
+  },
+  "hogweed_oil": {
+    "zh_name": "霍格韦油",
+    "aliases": [
+      "hogweed_oil",
+      "霍格韦油"
+    ]
+  },
+  "crepis_foetida_root": {
+    "zh_name": "crepis foetida root",
+    "aliases": [
+      "crepis_foetida_root",
+      "crepis foetida root"
+    ]
+  },
+  "goat_cheese": {
+    "zh_name": "山羊奶酪",
+    "aliases": [
+      "goat_cheese",
+      "山羊奶酪"
+    ]
+  },
+  "cymbopogon_javanensis": {
+    "zh_name": "cymbopogon javanensis",
+    "aliases": [
+      "cymbopogon_javanensis",
+      "cymbopogon javanensis"
+    ]
+  },
+  "heracleum_candicans_oil": {
+    "zh_name": "Heracleum Candicans油",
+    "aliases": [
+      "heracleum_candicans_oil",
+      "Heracleum Candicans油"
+    ]
+  },
+  "key_lime_leaf": {
+    "zh_name": "青柠叶",
+    "aliases": [
+      "key_lime_leaf",
+      "青柠叶"
+    ]
+  },
+  "sugarcane": {
+    "zh_name": "蔗",
+    "aliases": [
+      "sugarcane",
+      "蔗"
+    ]
+  },
+  "english_peppermint_oil": {
+    "zh_name": "英国薄荷油",
+    "aliases": [
+      "english_peppermint_oil",
+      "英国薄荷油"
+    ]
+  },
+  "anise_brandy": {
+    "zh_name": "茴香白兰地",
+    "aliases": [
+      "anise_brandy",
+      "茴香白兰地"
+    ]
+  },
+  "cupressus_macrocarpa_oil": {
+    "zh_name": "Cupressus Macrocarpa油",
+    "aliases": [
+      "cupressus_macrocarpa_oil",
+      "Cupressus Macrocarpa油"
+    ]
+  },
+  "ylangylang_oil": {
+    "zh_name": "ylangylang油",
+    "aliases": [
+      "ylangylang_oil",
+      "ylangylang油"
+    ]
+  },
+  "hernandia_peltata_oil": {
+    "zh_name": "Hernandia Peltata油",
+    "aliases": [
+      "hernandia_peltata_oil",
+      "Hernandia Peltata油"
+    ]
+  },
+  "wood_oil": {
+    "zh_name": "木油",
+    "aliases": [
+      "wood_oil",
+      "木油"
+    ]
+  },
+  "watercress": {
+    "zh_name": "豆瓣",
+    "aliases": [
+      "watercress",
+      "豆瓣"
+    ]
+  },
+  "boronia_citriodora": {
+    "zh_name": "Boronia citriodora",
+    "aliases": [
+      "boronia_citriodora",
+      "Boronia citriodora"
+    ]
+  },
+  "eremocitrus_glauca": {
+    "zh_name": "eremocitrus glauca",
+    "aliases": [
+      "eremocitrus_glauca",
+      "eremocitrus glauca"
+    ]
+  },
+  "passion_fruit_juice": {
+    "zh_name": "百香果汁",
+    "aliases": [
+      "passion_fruit_juice",
+      "百香果汁"
+    ]
+  },
+  "macadamia_nut": {
+    "zh_name": "澳洲坚果",
+    "aliases": [
+      "macadamia_nut",
+      "澳洲坚果"
+    ]
+  },
+  "piri_piri": {
+    "zh_name": "皮里·皮里（Piri Piri）",
+    "aliases": [
+      "piri_piri",
+      "皮里·皮里（Piri Piri）"
+    ]
+  },
+  "nettle": {
+    "zh_name": "荨麻",
+    "aliases": [
+      "nettle",
+      "荨麻"
+    ]
+  },
+  "pineapple": {
+    "zh_name": "菠萝",
+    "aliases": [
+      "pineapple",
+      "菠萝"
+    ]
+  },
+  "scotch": {
+    "zh_name": "苏格兰",
+    "aliases": [
+      "scotch",
+      "苏格兰"
+    ]
+  },
+  "umbelliferae": {
+    "zh_name": "Umbelliferae",
+    "aliases": [
+      "umbelliferae",
+      "Umbelliferae"
+    ]
+  },
+  "armagnac": {
+    "zh_name": "Armagnac",
+    "aliases": [
+      "armagnac",
+      "Armagnac"
+    ]
+  },
+  "japanese_mint": {
+    "zh_name": "日本薄荷",
+    "aliases": [
+      "japanese_mint",
+      "日本薄荷"
+    ]
+  },
+  "orange_flower_oil": {
+    "zh_name": "橙花油",
+    "aliases": [
+      "orange_flower_oil",
+      "橙花油"
+    ]
+  },
+  "tequila": {
+    "zh_name": "龙舌兰酒",
+    "aliases": [
+      "tequila",
+      "龙舌兰酒"
+    ]
+  },
+  "sage": {
+    "zh_name": "鼠尾草",
+    "aliases": [
+      "sage",
+      "鼠尾草"
+    ]
+  },
+  "seseli_sibiricum": {
+    "zh_name": "seseli sibiricum",
+    "aliases": [
+      "seseli_sibiricum",
+      "seseli sibiricum"
+    ]
+  },
+  "fennel": {
+    "zh_name": "茴香",
+    "aliases": [
+      "fennel",
+      "茴香"
+    ]
+  },
+  "radish_oil": {
+    "zh_name": "萝卜油",
+    "aliases": [
+      "radish_oil",
+      "萝卜油"
+    ]
+  },
+  "chamomile": {
+    "zh_name": "洋甘菊",
+    "aliases": [
+      "chamomile",
+      "洋甘菊"
+    ]
+  },
+  "shellfish": {
+    "zh_name": "贝类",
+    "aliases": [
+      "shellfish",
+      "贝类"
+    ]
+  },
+  "milk_fat": {
+    "zh_name": "牛奶脂肪",
+    "aliases": [
+      "milk_fat",
+      "牛奶脂肪"
+    ]
+  },
+  "echinacea": {
+    "zh_name": "紫锥菊",
+    "aliases": [
+      "echinacea",
+      "紫锥菊"
+    ]
+  },
+  "celery": {
+    "zh_name": "芹菜",
+    "aliases": [
+      "celery",
+      "芹菜"
+    ]
+  },
+  "vanilla_oil": {
+    "zh_name": "香草油",
+    "aliases": [
+      "vanilla_oil",
+      "香草油"
+    ]
+  },
+  "mung_bean": {
+    "zh_name": "绿豆",
+    "aliases": [
+      "mung_bean",
+      "绿豆"
+    ]
+  },
+  "rice": {
+    "zh_name": "米",
+    "aliases": [
+      "rice",
+      "米"
+    ]
+  },
+  "italian_orange_oil": {
+    "zh_name": "意大利橙油",
+    "aliases": [
+      "italian_orange_oil",
+      "意大利橙油"
+    ]
+  },
+  "sour_milk": {
+    "zh_name": "酸牛奶",
+    "aliases": [
+      "sour_milk",
+      "酸牛奶"
+    ]
+  },
+  "asarum_canadense_root_oil": {
+    "zh_name": "asarum canadense root油",
+    "aliases": [
+      "asarum_canadense_root_oil",
+      "asarum canadense root油"
+    ]
+  },
+  "cypress_oil": {
+    "zh_name": "柏树油",
+    "aliases": [
+      "cypress_oil",
+      "柏树油"
+    ]
+  },
+  "watermelon": {
+    "zh_name": "西瓜",
+    "aliases": [
+      "watermelon",
+      "西瓜"
+    ]
+  },
+  "sheep_cheese": {
+    "zh_name": "绵羊奶酪",
+    "aliases": [
+      "sheep_cheese",
+      "绵羊奶酪"
+    ]
+  },
+  "wild_bergamot_oil": {
+    "zh_name": "野生佛手柑油",
+    "aliases": [
+      "wild_bergamot_oil",
+      "野生佛手柑油"
+    ]
+  },
+  "goat_milk": {
+    "zh_name": "山羊奶",
+    "aliases": [
+      "goat_milk",
+      "山羊奶"
+    ]
+  },
+  "raw_pork": {
+    "zh_name": "生猪肉",
+    "aliases": [
+      "raw_pork",
+      "生猪肉"
+    ]
+  },
+  "bay": {
+    "zh_name": "湾",
+    "aliases": [
+      "bay",
+      "湾"
+    ]
+  },
+  "whitefish": {
+    "zh_name": "白鱼",
+    "aliases": [
+      "whitefish",
+      "白鱼"
+    ]
+  },
+  "curcuma_aeruginosa": {
+    "zh_name": "铜绿铜",
+    "aliases": [
+      "curcuma_aeruginosa",
+      "铜绿铜"
+    ]
+  },
+  "artemisia_transiliensis": {
+    "zh_name": "小茴香横肌",
+    "aliases": [
+      "artemisia_transiliensis",
+      "小茴香横肌"
+    ]
+  },
+  "grape_juice": {
+    "zh_name": "葡萄汁",
+    "aliases": [
+      "grape_juice",
+      "葡萄汁"
+    ]
+  },
+  "florida_orange_juice": {
+    "zh_name": "佛罗里达橙汁",
+    "aliases": [
+      "florida_orange_juice",
+      "佛罗里达橙汁"
+    ]
+  },
+  "nut": {
+    "zh_name": "坚果",
+    "aliases": [
+      "nut",
+      "坚果"
+    ]
+  },
+  "myrtus_communis": {
+    "zh_name": "Myrtus Communis",
+    "aliases": [
+      "myrtus_communis",
+      "Myrtus Communis"
+    ]
+  },
+  "eucalyptus_cinereea": {
+    "zh_name": "Eucalyptus Cinereea",
+    "aliases": [
+      "eucalyptus_cinereea",
+      "Eucalyptus Cinereea"
+    ]
+  },
+  "schizandra_oil": {
+    "zh_name": "Schizandra Oil",
+    "aliases": [
+      "schizandra_oil",
+      "Schizandra Oil"
+    ]
+  },
+  "pandanus_odoratissimus": {
+    "zh_name": "pandanus odoratissimus",
+    "aliases": [
+      "pandanus_odoratissimus",
+      "pandanus odoratissimus"
+    ]
+  },
+  "michelia": {
+    "zh_name": "米其里亚",
+    "aliases": [
+      "michelia",
+      "米其里亚"
+    ]
+  },
+  "tea_oil": {
+    "zh_name": "茶油",
+    "aliases": [
+      "tea_oil",
+      "茶油"
+    ]
+  },
+  "bitter_orange_flower_oil": {
+    "zh_name": "苦橙花油",
+    "aliases": [
+      "bitter_orange_flower_oil",
+      "苦橙花油"
+    ]
+  },
+  "artemisia_santolinifolia": {
+    "zh_name": "santolinifolia",
+    "aliases": [
+      "artemisia_santolinifolia",
+      "santolinifolia"
+    ]
+  },
+  "yogurt": {
+    "zh_name": "酸奶",
+    "aliases": [
+      "yogurt",
+      "酸奶"
+    ]
+  },
+  "lemon_peel": {
+    "zh_name": "柠檬皮",
+    "aliases": [
+      "lemon_peel",
+      "柠檬皮"
+    ]
+  },
+  "california_orange": {
+    "zh_name": "加州橙色",
+    "aliases": [
+      "california_orange",
+      "加州橙色"
+    ]
+  },
+  "estragon_oil": {
+    "zh_name": "埃特拉贡油",
+    "aliases": [
+      "estragon_oil",
+      "埃特拉贡油"
+    ]
+  },
+  "orange_tree": {
+    "zh_name": "橙树",
+    "aliases": [
+      "orange_tree",
+      "橙树"
+    ]
+  },
+  "raspberry_juice": {
+    "zh_name": "覆盆子汁",
+    "aliases": [
+      "raspberry_juice",
+      "覆盆子汁"
+    ]
+  },
+  "ham": {
+    "zh_name": "火腿",
+    "aliases": [
+      "ham",
+      "火腿"
+    ]
+  },
+  "barosma_betulina": {
+    "zh_name": "Barosma Betulina",
+    "aliases": [
+      "barosma_betulina",
+      "Barosma Betulina"
+    ]
+  },
+  "cod": {
+    "zh_name": "鳕鱼",
+    "aliases": [
+      "cod",
+      "鳕鱼"
+    ]
+  },
+  "clove_pink": {
+    "zh_name": "丁香粉红色",
+    "aliases": [
+      "clove_pink",
+      "丁香粉红色"
+    ]
+  },
+  "boronia_anemonifolia": {
+    "zh_name": "Boronia Anemonifolia",
+    "aliases": [
+      "boronia_anemonifolia",
+      "Boronia Anemonifolia"
+    ]
+  },
+  "rosa_centifolia": {
+    "zh_name": "罗莎·奇特（Rosa Centifolia）",
+    "aliases": [
+      "rosa_centifolia",
+      "罗莎·奇特（Rosa Centifolia）"
+    ]
+  },
+  "calamus": {
+    "zh_name": "菖蒲",
+    "aliases": [
+      "calamus",
+      "菖蒲"
+    ]
+  },
+  "lime_juice": {
+    "zh_name": "青柠汁",
+    "aliases": [
+      "lime_juice",
+      "青柠汁"
+    ]
+  },
+  "petasites_fragrans": {
+    "zh_name": "Petasites Fragnans",
+    "aliases": [
+      "petasites_fragrans",
+      "Petasites Fragnans"
+    ]
+  },
+  "kaschmis_citronella_oil": {
+    "zh_name": "Kaschmis Citronella油",
+    "aliases": [
+      "kaschmis_citronella_oil",
+      "Kaschmis Citronella油"
+    ]
+  },
+  "eucalyptus_dives_oil": {
+    "zh_name": "桉树潜水油",
+    "aliases": [
+      "eucalyptus_dives_oil",
+      "桉树潜水油"
+    ]
+  },
+  "litsea_odorifera_leaf_oil": {
+    "zh_name": "Litsea odorifera叶油",
+    "aliases": [
+      "litsea_odorifera_leaf_oil",
+      "Litsea odorifera叶油"
+    ]
+  },
+  "shiitake": {
+    "zh_name": "Shiitake",
+    "aliases": [
+      "shiitake",
+      "Shiitake"
+    ]
+  },
+  "bitter_fennel": {
+    "zh_name": "苦茴香",
+    "aliases": [
+      "bitter_fennel",
+      "苦茴香"
+    ]
+  },
+  "parsley": {
+    "zh_name": "香菜",
+    "aliases": [
+      "parsley",
+      "香菜"
+    ]
+  },
+  "helichrysum_angustifolium": {
+    "zh_name": "Helichrysum angustifolium",
+    "aliases": [
+      "helichrysum_angustifolium",
+      "Helichrysum angustifolium"
+    ]
+  },
+  "fermented_tea": {
+    "zh_name": "发酵茶",
+    "aliases": [
+      "fermented_tea",
+      "发酵茶"
+    ]
+  },
+  "grapefruit": {
+    "zh_name": "柚子",
+    "aliases": [
+      "grapefruit",
+      "柚子"
+    ]
+  },
+  "beet": {
+    "zh_name": "甜菜",
+    "aliases": [
+      "beet",
+      "甜菜"
+    ]
+  },
+  "kelp": {
+    "zh_name": "海带",
+    "aliases": [
+      "kelp",
+      "海带"
+    ]
+  },
+  "roasted_beef": {
+    "zh_name": "烤牛肉",
+    "aliases": [
+      "roasted_beef",
+      "烤牛肉"
+    ],
+    "base_ingredient": "beef"
+  },
+  "chrysocoris_stolli": {
+    "zh_name": "chrysocoris stolli",
+    "aliases": [
+      "chrysocoris_stolli",
+      "chrysocoris stolli"
+    ]
+  },
+  "mushroom": {
+    "zh_name": "蘑菇",
+    "aliases": [
+      "mushroom",
+      "蘑菇"
+    ]
+  },
+  "baked_potato": {
+    "zh_name": "烤土豆",
+    "aliases": [
+      "baked_potato",
+      "烤土豆"
+    ]
+  },
+  "bitter_orange_juice": {
+    "zh_name": "苦橙汁",
+    "aliases": [
+      "bitter_orange_juice",
+      "苦橙汁"
+    ]
+  },
+  "violet_leaf": {
+    "zh_name": "紫罗兰叶",
+    "aliases": [
+      "violet_leaf",
+      "紫罗兰叶"
+    ]
+  },
+  "sweetfish": {
+    "zh_name": "甜鱼",
+    "aliases": [
+      "sweetfish",
+      "甜鱼"
+    ]
+  },
+  "myrrh_oil": {
+    "zh_name": "没油",
+    "aliases": [
+      "myrrh_oil",
+      "没油"
+    ]
+  },
+  "lemongrass_oil": {
+    "zh_name": "柠檬草油",
+    "aliases": [
+      "lemongrass_oil",
+      "柠檬草油"
+    ]
+  },
+  "boronia_ledifolia_oil": {
+    "zh_name": "Boronia Ledifolia油",
+    "aliases": [
+      "boronia_ledifolia_oil",
+      "Boronia Ledifolia油"
+    ]
+  },
+  "leptospermum_citratum": {
+    "zh_name": "瘦肉柠檬酸",
+    "aliases": [
+      "leptospermum_citratum",
+      "瘦肉柠檬酸"
+    ]
+  },
+  "petitgrain_lime": {
+    "zh_name": "青柠叶精油",
+    "aliases": [
+      "petitgrain_lime",
+      "青柠叶精油"
+    ]
+  },
+  "rosa_bourboniana_oil": {
+    "zh_name": "Rosa Bourboniana油",
+    "aliases": [
+      "rosa_bourboniana_oil",
+      "Rosa Bourboniana油"
+    ]
+  },
+  "chervil": {
+    "zh_name": "Chervil",
+    "aliases": [
+      "chervil",
+      "Chervil"
+    ]
+  },
+  "eriostemon_coxii_leaf_oil": {
+    "zh_name": "Eriostemon Coxii叶油",
+    "aliases": [
+      "eriostemon_coxii_leaf_oil",
+      "Eriostemon Coxii叶油"
+    ]
+  },
+  "larch_tree": {
+    "zh_name": "落叶树",
+    "aliases": [
+      "larch_tree",
+      "落叶树"
+    ]
+  },
+  "barosma_pulchella_leaf_oil": {
+    "zh_name": "巴罗斯马果肉叶油",
+    "aliases": [
+      "barosma_pulchella_leaf_oil",
+      "巴罗斯马果肉叶油"
+    ]
+  },
+  "litsea_guatemalensis": {
+    "zh_name": "Litsea危地马拉菌",
+    "aliases": [
+      "litsea_guatemalensis",
+      "Litsea危地马拉菌"
+    ]
+  },
+  "tunisian_rosemary": {
+    "zh_name": "突尼斯迷迭香",
+    "aliases": [
+      "tunisian_rosemary",
+      "突尼斯迷迭香"
+    ]
+  },
+  "artemisia_camphorata": {
+    "zh_name": "Artemisia Camphorata",
+    "aliases": [
+      "artemisia_camphorata",
+      "Artemisia Camphorata"
+    ]
+  },
+  "pine_turpentine": {
+    "zh_name": "松松松树",
+    "aliases": [
+      "pine_turpentine",
+      "松松松树"
+    ]
+  },
+  "achillea_micrantha_oil": {
+    "zh_name": "achillea micrantha油",
+    "aliases": [
+      "achillea_micrantha_oil",
+      "achillea micrantha油"
+    ]
+  },
+  "rose_oil": {
+    "zh_name": "玫瑰油",
+    "aliases": [
+      "rose_oil",
+      "玫瑰油"
+    ]
+  },
+  "acacia_farnesiana_oil": {
+    "zh_name": "Acacia Farnesiana油",
+    "aliases": [
+      "acacia_farnesiana_oil",
+      "Acacia Farnesiana油"
+    ]
+  },
+  "xanthorrhoea_hostilis": {
+    "zh_name": "Xanthorrhoea hostilis",
+    "aliases": [
+      "xanthorrhoea_hostilis",
+      "Xanthorrhoea hostilis"
+    ]
+  },
+  "manila_copal": {
+    "zh_name": "马尼拉·科尔（Manila Copal）",
+    "aliases": [
+      "manila_copal",
+      "马尼拉·科尔（Manila Copal）"
+    ]
+  },
+  "carnation": {
+    "zh_name": "康乃馨",
+    "aliases": [
+      "carnation",
+      "康乃馨"
+    ]
+  },
+  "vegetable": {
+    "zh_name": "蔬菜",
+    "aliases": [
+      "vegetable",
+      "蔬菜"
+    ]
+  },
+  "calabash_nutmeg": {
+    "zh_name": "卡拉巴什肉豆蔻",
+    "aliases": [
+      "calabash_nutmeg",
+      "卡拉巴什肉豆蔻"
+    ]
+  },
+  "chamaecyparis_pisifera": {
+    "zh_name": "Chamaecyparis Pisifera",
+    "aliases": [
+      "chamaecyparis_pisifera",
+      "Chamaecyparis Pisifera"
+    ]
+  },
+  "sheep_milk": {
+    "zh_name": "绵羊牛奶",
+    "aliases": [
+      "sheep_milk",
+      "绵羊牛奶"
+    ]
+  },
+  "papaya": {
+    "zh_name": "木瓜",
+    "aliases": [
+      "papaya",
+      "木瓜"
+    ]
+  },
+  "litsea_zeylanica_oil": {
+    "zh_name": "Litsea Zeylanica油",
+    "aliases": [
+      "litsea_zeylanica_oil",
+      "Litsea Zeylanica油"
+    ]
+  },
+  "carpinus_betulus": {
+    "zh_name": "卡尔托斯betulus",
+    "aliases": [
+      "carpinus_betulus",
+      "卡尔托斯betulus"
+    ]
+  },
+  "russian_star_anise": {
+    "zh_name": "俄罗斯之星茴香",
+    "aliases": [
+      "russian_star_anise",
+      "俄罗斯之星茴香"
+    ]
+  },
+  "rabbiteye_blueberry": {
+    "zh_name": "Rabbiteye蓝莓",
+    "aliases": [
+      "rabbiteye_blueberry",
+      "Rabbiteye蓝莓"
+    ]
+  },
+  "rutaceae": {
+    "zh_name": "rutaceae",
+    "aliases": [
+      "rutaceae",
+      "rutaceae"
+    ]
+  },
+  "narcissus_oil": {
+    "zh_name": "水仙油",
+    "aliases": [
+      "narcissus_oil",
+      "水仙油"
+    ]
+  },
+  "tuna": {
+    "zh_name": "金枪鱼",
+    "aliases": [
+      "tuna",
+      "金枪鱼"
+    ]
+  },
+  "cherry_juice": {
+    "zh_name": "樱桃汁",
+    "aliases": [
+      "cherry_juice",
+      "樱桃汁"
+    ]
+  },
+  "butter": {
+    "zh_name": "黄油",
+    "aliases": [
+      "butter",
+      "黄油"
+    ]
+  },
+  "hyacinth_oil": {
+    "zh_name": "风信子",
+    "aliases": [
+      "hyacinth_oil",
+      "风信子"
+    ]
+  },
+  "irish_whiskey": {
+    "zh_name": "爱尔兰威士忌",
+    "aliases": [
+      "irish_whiskey",
+      "爱尔兰威士忌"
+    ]
+  },
+  "chrysanthemum_japonicum": {
+    "zh_name": "菊花j",
+    "aliases": [
+      "chrysanthemum_japonicum",
+      "菊花j"
+    ]
+  },
+  "orange_peel": {
+    "zh_name": "橙皮",
+    "aliases": [
+      "orange_peel",
+      "橙皮"
+    ]
+  },
+  "kale": {
+    "zh_name": "羽衣甘蓝",
+    "aliases": [
+      "kale",
+      "羽衣甘蓝"
+    ]
+  },
+  "lily_oil": {
+    "zh_name": "百合油",
+    "aliases": [
+      "lily_oil",
+      "百合油"
+    ]
+  },
+  "malabar_lemongrass_oil": {
+    "zh_name": "马拉巴尔柠檬草油",
+    "aliases": [
+      "malabar_lemongrass_oil",
+      "马拉巴尔柠檬草油"
+    ]
+  },
+  "calytrix_tetragona_oil": {
+    "zh_name": "钙曲四角形油",
+    "aliases": [
+      "calytrix_tetragona_oil",
+      "钙曲四角形油"
+    ]
+  },
+  "achillea_ageratum": {
+    "zh_name": "achillea ageratum",
+    "aliases": [
+      "achillea_ageratum",
+      "achillea ageratum"
+    ]
+  },
+  "huckleberry": {
+    "zh_name": "哈克贝利",
+    "aliases": [
+      "huckleberry",
+      "哈克贝利"
+    ]
+  },
+  "cherry": {
+    "zh_name": "樱桃",
+    "aliases": [
+      "cherry",
+      "樱桃"
+    ]
+  },
+  "satsuma_mandarin_peel_oil": {
+    "zh_name": "Satsuma普通话油",
+    "aliases": [
+      "satsuma_mandarin_peel_oil",
+      "Satsuma普通话油"
+    ]
+  },
+  "yellow_passion_fruit": {
+    "zh_name": "黄色的百香果",
+    "aliases": [
+      "yellow_passion_fruit",
+      "黄色的百香果"
+    ]
+  },
+  "pandanus_odoratissimus_oil": {
+    "zh_name": "pandanus odoratissimus油",
+    "aliases": [
+      "pandanus_odoratissimus_oil",
+      "pandanus odoratissimus油"
+    ]
+  },
+  "strawberry_oil": {
+    "zh_name": "草莓油",
+    "aliases": [
+      "strawberry_oil",
+      "草莓油"
+    ]
+  },
+  "cognac": {
+    "zh_name": "科涅克白兰地",
+    "aliases": [
+      "cognac",
+      "科涅克白兰地"
+    ]
+  },
+  "rubus_arcticus": {
+    "zh_name": "Rubus Arcticus",
+    "aliases": [
+      "rubus_arcticus",
+      "Rubus Arcticus"
+    ]
+  },
+  "galanga": {
+    "zh_name": "Galanga",
+    "aliases": [
+      "galanga",
+      "Galanga"
+    ]
+  },
+  "roasted_mate": {
+    "zh_name": "烤伴侣",
+    "aliases": [
+      "roasted_mate",
+      "烤伴侣"
+    ]
+  },
+  "guineafowl": {
+    "zh_name": "豚鼠",
+    "aliases": [
+      "guineafowl",
+      "豚鼠"
+    ]
+  },
+  "honduras_balsam": {
+    "zh_name": "洪都拉斯香脂",
+    "aliases": [
+      "honduras_balsam",
+      "洪都拉斯香脂"
+    ]
+  },
+  "boiled_crab": {
+    "zh_name": "煮蟹",
+    "aliases": [
+      "boiled_crab",
+      "煮蟹"
+    ]
+  },
+  "soursop": {
+    "zh_name": "刺果番荔枝",
+    "aliases": [
+      "soursop",
+      "刺果番荔枝"
+    ]
+  },
+  "finocchoi_fennel_oil": {
+    "zh_name": "球茎茴香精油",
+    "aliases": [
+      "finocchoi_fennel_oil",
+      "球茎茴香精油",
+      "佛罗伦萨茴香精油"
+    ]
+  },
+  "fried_chicken": {
+    "zh_name": "炸鸡",
+    "aliases": [
+      "fried_chicken",
+      "炸鸡"
+    ]
+  },
+  "fermented_russian_black_tea": {
+    "zh_name": "发酵俄罗斯红茶",
+    "aliases": [
+      "fermented_russian_black_tea",
+      "发酵俄罗斯红茶"
+    ]
+  },
+  "cassis_juice": {
+    "zh_name": "玉米汁",
+    "aliases": [
+      "cassis_juice",
+      "玉米汁"
+    ]
+  },
+  "orchid": {
+    "zh_name": "兰花",
+    "aliases": [
+      "orchid",
+      "兰花"
+    ]
+  },
+  "okra": {
+    "zh_name": "秋葵",
+    "aliases": [
+      "okra",
+      "秋葵"
+    ]
+  },
+  "eel": {
+    "zh_name": "鳗鱼",
+    "aliases": [
+      "eel",
+      "鳗鱼"
+    ]
+  },
+  "eucalyptus_diversicolor_oil": {
+    "zh_name": "桉树多色",
+    "aliases": [
+      "eucalyptus_diversicolor_oil",
+      "桉树多色"
+    ]
+  },
+  "bartlett_pear": {
+    "zh_name": "巴特利特梨",
+    "aliases": [
+      "bartlett_pear",
+      "巴特利特梨"
+    ]
+  },
+  "bergamot_oil": {
+    "zh_name": "佛手柑油",
+    "aliases": [
+      "bergamot_oil",
+      "佛手柑油"
+    ]
+  },
+  "juniperus_phoenicea_oil": {
+    "zh_name": "菠萝油",
+    "aliases": [
+      "juniperus_phoenicea_oil",
+      "菠萝油"
+    ]
+  },
+  "phebalium_nudum_root_oil": {
+    "zh_name": "裸根油",
+    "aliases": [
+      "phebalium_nudum_root_oil",
+      "裸根油"
+    ]
+  },
+  "taiwan_citronella": {
+    "zh_name": "台湾香菜",
+    "aliases": [
+      "taiwan_citronella",
+      "台湾香菜"
+    ]
+  },
+  "benzoin": {
+    "zh_name": "本佐恩",
+    "aliases": [
+      "benzoin",
+      "本佐恩"
+    ]
+  },
+  "lingonberry": {
+    "zh_name": "Lingonberry",
+    "aliases": [
+      "lingonberry",
+      "Lingonberry"
+    ]
+  },
+  "boldo": {
+    "zh_name": "博尔多",
+    "aliases": [
+      "boldo",
+      "博尔多"
+    ]
+  },
+  "plum": {
+    "zh_name": "李子",
+    "aliases": [
+      "plum",
+      "李子"
+    ]
+  },
+  "farnesol": {
+    "zh_name": "法尼尔",
+    "aliases": [
+      "farnesol",
+      "法尼尔"
+    ]
+  },
+  "teucrium_chamaedrys": {
+    "zh_name": "Teucrium Chamaedrys",
+    "aliases": [
+      "teucrium_chamaedrys",
+      "Teucrium Chamaedrys"
+    ]
+  },
+  "seed_oil": {
+    "zh_name": "种子油",
+    "aliases": [
+      "seed_oil",
+      "种子油"
+    ]
+  },
+  "octopus": {
+    "zh_name": "章鱼",
+    "aliases": [
+      "octopus",
+      "章鱼"
+    ]
+  },
+  "storax": {
+    "zh_name": "storax",
+    "aliases": [
+      "storax",
+      "storax"
+    ]
+  },
+  "ruta_chalepensis_oil": {
+    "zh_name": "ruta chalepensis油",
+    "aliases": [
+      "ruta_chalepensis_oil",
+      "ruta chalepensis油"
+    ]
+  },
+  "passiflora_mollissima": {
+    "zh_name": "passiflora Mollissima",
+    "aliases": [
+      "passiflora_mollissima",
+      "passiflora Mollissima"
+    ]
+  },
+  "mastic_gum_oil": {
+    "zh_name": "乳胶油",
+    "aliases": [
+      "mastic_gum_oil",
+      "乳胶油"
+    ]
+  },
+  "copaiba": {
+    "zh_name": "苏格巴",
+    "aliases": [
+      "copaiba",
+      "苏格巴"
+    ]
+  },
+  "summer_savory": {
+    "zh_name": "夏季咸味",
+    "aliases": [
+      "summer_savory",
+      "夏季咸味"
+    ]
+  },
+  "fagroea_racemosa_flower": {
+    "zh_name": "fagroea racemosa花",
+    "aliases": [
+      "fagroea_racemosa_flower",
+      "fagroea racemosa花"
+    ]
+  },
+  "blenheim_apricot": {
+    "zh_name": "Blenheim杏子",
+    "aliases": [
+      "blenheim_apricot",
+      "Blenheim杏子"
+    ]
+  },
+  "gin": {
+    "zh_name": "杜松子酒",
+    "aliases": [
+      "gin",
+      "杜松子酒"
+    ]
+  },
+  "ceriman": {
+    "zh_name": "Ceriman",
+    "aliases": [
+      "ceriman",
+      "Ceriman"
+    ]
+  },
+  "hop_oil": {
+    "zh_name": "跳油",
+    "aliases": [
+      "hop_oil",
+      "跳油"
+    ]
+  },
+  "mate_leaf": {
+    "zh_name": "伴侣叶",
+    "aliases": [
+      "mate_leaf",
+      "伴侣叶"
+    ]
+  },
+  "lovage_root": {
+    "zh_name": "爱根",
+    "aliases": [
+      "lovage_root",
+      "爱根"
+    ]
+  },
+  "turpentine": {
+    "zh_name": "松节油",
+    "aliases": [
+      "turpentine",
+      "松节油"
+    ]
+  },
+  "beech": {
+    "zh_name": "山毛榉",
+    "aliases": [
+      "beech",
+      "山毛榉"
+    ]
+  },
+  "agastache_formosana": {
+    "zh_name": "Agastache formosana",
+    "aliases": [
+      "agastache_formosana",
+      "Agastache formosana"
+    ]
+  },
+  "temple_orange_juice": {
+    "zh_name": "寺庙橙汁",
+    "aliases": [
+      "temple_orange_juice",
+      "寺庙橙汁"
+    ]
+  },
+  "grilled_beef": {
+    "zh_name": "烤牛肉",
+    "aliases": [
+      "grilled_beef",
+      "烤牛肉"
+    ],
+    "base_ingredient": "beef"
+  },
+  "whiskey": {
+    "zh_name": "威士忌酒",
+    "aliases": [
+      "whiskey",
+      "威士忌酒"
+    ]
+  },
+  "erica_arborea_oil": {
+    "zh_name": "Erica Arborea油",
+    "aliases": [
+      "erica_arborea_oil",
+      "Erica Arborea油"
+    ]
+  },
+  "melilotus_officinalis": {
+    "zh_name": "Melilotus officinalis",
+    "aliases": [
+      "melilotus_officinalis",
+      "Melilotus officinalis"
+    ]
+  },
+  "elettaria_caradmomum_oil": {
+    "zh_name": "Elettaria caradmomum油",
+    "aliases": [
+      "elettaria_caradmomum_oil",
+      "Elettaria caradmomum油"
+    ]
+  },
+  "cupressaceae_oil": {
+    "zh_name": "杯状油",
+    "aliases": [
+      "cupressaceae_oil",
+      "杯状油"
+    ]
+  },
+  "black_seabream": {
+    "zh_name": "黑色Seabream",
+    "aliases": [
+      "black_seabream",
+      "黑色Seabream"
+    ]
+  },
+  "brazilian_sassafras_oil": {
+    "zh_name": "巴西SASSAFRAS油",
+    "aliases": [
+      "brazilian_sassafras_oil",
+      "巴西SASSAFRAS油"
+    ]
+  },
+  "mexican_linaloe": {
+    "zh_name": "墨西哥Linaloe",
+    "aliases": [
+      "mexican_linaloe",
+      "墨西哥Linaloe"
+    ]
+  },
+  "cacao": {
+    "zh_name": "可可",
+    "aliases": [
+      "cacao",
+      "可可"
+    ]
+  },
+  "capsicum_annuum": {
+    "zh_name": "辣椒",
+    "aliases": [
+      "capsicum_annuum",
+      "辣椒"
+    ]
+  },
+  "acacia": {
+    "zh_name": "相思",
+    "aliases": [
+      "acacia",
+      "相思"
+    ]
+  },
+  "starfruit": {
+    "zh_name": "星际果",
+    "aliases": [
+      "starfruit",
+      "星际果"
+    ]
+  },
+  "strawberry_jam": {
+    "zh_name": "草莓果酱",
+    "aliases": [
+      "strawberry_jam",
+      "草莓果酱"
+    ]
+  },
+  "red_meat": {
+    "zh_name": "红肉",
+    "aliases": [
+      "red_meat",
+      "红肉"
+    ]
+  },
+  "toasted_sesame_seed": {
+    "zh_name": "烤芝麻",
+    "aliases": [
+      "toasted_sesame_seed",
+      "烤芝麻"
+    ]
+  },
+  "leek": {
+    "zh_name": "韭葱",
+    "aliases": [
+      "leek",
+      "韭葱"
+    ]
+  },
+  "spearmint_oil": {
+    "zh_name": "矛油",
+    "aliases": [
+      "spearmint_oil",
+      "矛油"
+    ]
+  },
+  "mastic_gum_leaf_oil": {
+    "zh_name": "乳胶胶叶油",
+    "aliases": [
+      "mastic_gum_leaf_oil",
+      "乳胶胶叶油"
+    ]
+  },
+  "monarda_fisulosa": {
+    "zh_name": "莫纳达·菲斯洛萨（Monarda Fisulosa）",
+    "aliases": [
+      "monarda_fisulosa",
+      "莫纳达·菲斯洛萨（Monarda Fisulosa）"
+    ]
+  },
+  "fried_pork": {
+    "zh_name": "炸猪肉",
+    "aliases": [
+      "fried_pork",
+      "炸猪肉"
+    ]
+  },
+  "rapeseed": {
+    "zh_name": "菜籽",
+    "aliases": [
+      "rapeseed",
+      "菜籽"
+    ]
+  },
+  "acacia_caven": {
+    "zh_name": "相思洞",
+    "aliases": [
+      "acacia_caven",
+      "相思洞"
+    ]
+  },
+  "caraway": {
+    "zh_name": "香菜",
+    "aliases": [
+      "caraway",
+      "香菜"
+    ]
+  },
+  "mimosa_oil": {
+    "zh_name": "含羞草油",
+    "aliases": [
+      "mimosa_oil",
+      "含羞草油"
+    ]
+  },
+  "cherry_brandy": {
+    "zh_name": "樱桃白兰地",
+    "aliases": [
+      "cherry_brandy",
+      "樱桃白兰地"
+    ]
+  },
+  "artemisia_arborescens": {
+    "zh_name": "artemisia arborescens",
+    "aliases": [
+      "artemisia_arborescens",
+      "artemisia arborescens"
+    ]
+  },
+  "galbanum_oil": {
+    "zh_name": "galbanum油",
+    "aliases": [
+      "galbanum_oil",
+      "galbanum油"
+    ]
+  },
+  "eucalyptus_oil": {
+    "zh_name": "桉树油",
+    "aliases": [
+      "eucalyptus_oil",
+      "桉树油"
+    ]
+  },
+  "lemon_juice": {
+    "zh_name": "柠檬汁",
+    "aliases": [
+      "lemon_juice",
+      "柠檬汁"
+    ]
+  },
+  "sunflower_oil": {
+    "zh_name": "向日葵油",
+    "aliases": [
+      "sunflower_oil",
+      "向日葵油"
+    ]
+  },
+  "buchu_leaf_oil": {
+    "zh_name": "布丘叶油",
+    "aliases": [
+      "buchu_leaf_oil",
+      "布丘叶油"
+    ]
+  },
+  "brazil_nut": {
+    "zh_name": "巴西坚果",
+    "aliases": [
+      "brazil_nut",
+      "巴西坚果"
+    ]
+  },
+  "garlic_mustard": {
+    "zh_name": "大蒜芥末",
+    "aliases": [
+      "garlic_mustard",
+      "大蒜芥末"
+    ]
+  },
+  "anise_seed": {
+    "zh_name": "茴香种子",
+    "aliases": [
+      "anise_seed",
+      "茴香种子"
+    ]
+  },
+  "milk": {
+    "zh_name": "牛奶",
+    "aliases": [
+      "milk",
+      "牛奶"
+    ]
+  },
+  "american_peppermint": {
+    "zh_name": "美国薄荷",
+    "aliases": [
+      "american_peppermint",
+      "美国薄荷"
+    ]
+  },
+  "purple_passion_fruit": {
+    "zh_name": "紫色的百香果",
+    "aliases": [
+      "purple_passion_fruit",
+      "紫色的百香果"
+    ]
+  },
+  "grape": {
+    "zh_name": "葡萄",
+    "aliases": [
+      "grape",
+      "葡萄"
+    ]
+  },
+  "jasmine_oil": {
+    "zh_name": "茉莉油",
+    "aliases": [
+      "jasmine_oil",
+      "茉莉油"
+    ]
+  },
+  "camembert_cheese": {
+    "zh_name": "卡门伯特奶酪",
+    "aliases": [
+      "camembert_cheese",
+      "卡门伯特奶酪"
+    ]
+  },
+  "citronella_oil": {
+    "zh_name": "香菜油",
+    "aliases": [
+      "citronella_oil",
+      "香菜油"
+    ]
+  },
+  "violet_flower_oil": {
+    "zh_name": "紫罗兰花油",
+    "aliases": [
+      "violet_flower_oil",
+      "紫罗兰花油"
+    ]
+  },
+  "melon": {
+    "zh_name": "瓜",
+    "aliases": [
+      "melon",
+      "瓜"
+    ]
+  },
+  "boldea_fragrans": {
+    "zh_name": "Boldea Fragrans",
+    "aliases": [
+      "boldea_fragrans",
+      "Boldea Fragrans"
+    ]
+  },
+  "thai_pepper": {
+    "zh_name": "泰国胡椒",
+    "aliases": [
+      "thai_pepper",
+      "泰国胡椒"
+    ]
+  },
+  "yeast": {
+    "zh_name": "酵母",
+    "aliases": [
+      "yeast",
+      "酵母"
+    ]
+  },
+  "grape_brandy": {
+    "zh_name": "葡萄白兰地",
+    "aliases": [
+      "grape_brandy",
+      "葡萄白兰地"
+    ]
+  },
+  "laminaria_japonica": {
+    "zh_name": "Laminaria Japonica",
+    "aliases": [
+      "laminaria_japonica",
+      "Laminaria Japonica"
+    ]
+  },
+  "ximenia_aegyptiaca": {
+    "zh_name": "Ximenia aegyptiaca",
+    "aliases": [
+      "ximenia_aegyptiaca",
+      "Ximenia aegyptiaca"
+    ]
+  },
+  "bitter_orange_peel_oil": {
+    "zh_name": "苦橙皮油",
+    "aliases": [
+      "bitter_orange_peel_oil",
+      "苦橙皮油"
+    ]
+  },
+  "mentha_citrata": {
+    "zh_name": "Mentha Citrata",
+    "aliases": [
+      "mentha_citrata",
+      "Mentha Citrata"
+    ]
+  },
+  "loganberry": {
+    "zh_name": "Loganberry",
+    "aliases": [
+      "loganberry",
+      "Loganberry"
+    ]
+  },
+  "thuja_occidentalis": {
+    "zh_name": "Thuja Occidentalis",
+    "aliases": [
+      "thuja_occidentalis",
+      "Thuja Occidentalis"
+    ]
+  },
+  "mentha_viridis": {
+    "zh_name": "Mentha Viridis",
+    "aliases": [
+      "mentha_viridis",
+      "Mentha Viridis"
+    ]
+  },
+  "wood_vinegar": {
+    "zh_name": "木醋",
+    "aliases": [
+      "wood_vinegar",
+      "木醋"
+    ]
+  },
+  "pork": {
+    "zh_name": "猪肉",
+    "aliases": [
+      "pork",
+      "猪肉"
+    ]
+  },
+  "oxidized_milk": {
+    "zh_name": "氧化牛奶",
+    "aliases": [
+      "oxidized_milk",
+      "氧化牛奶"
+    ]
+  },
+  "currant": {
+    "zh_name": "黑醋栗",
+    "aliases": [
+      "currant",
+      "黑醋栗"
+    ]
+  },
+  "angelica_oil": {
+    "zh_name": "当归油",
+    "aliases": [
+      "angelica_oil",
+      "当归油"
+    ]
+  },
+  "european_cranberry": {
+    "zh_name": "欧洲蔓越莓",
+    "aliases": [
+      "european_cranberry",
+      "欧洲蔓越莓"
+    ]
+  },
+  "frankfurter": {
+    "zh_name": "法兰克福",
+    "aliases": [
+      "frankfurter",
+      "法兰克福"
+    ]
+  },
+  "pomelo_peel": {
+    "zh_name": "Pomelo Peel",
+    "aliases": [
+      "pomelo_peel",
+      "Pomelo Peel"
+    ]
+  },
+  "garlic_oil": {
+    "zh_name": "大蒜油",
+    "aliases": [
+      "garlic_oil",
+      "大蒜油"
+    ]
+  },
+  "spanish_origanum": {
+    "zh_name": "西班牙人",
+    "aliases": [
+      "spanish_origanum",
+      "西班牙人"
+    ]
+  },
+  "boletus_scaber": {
+    "zh_name": "Boletus scaber",
+    "aliases": [
+      "boletus_scaber",
+      "Boletus scaber"
+    ]
+  },
+  "corn": {
+    "zh_name": "玉米",
+    "aliases": [
+      "corn",
+      "玉米"
+    ]
+  },
+  "artemisia_hausiliensis": {
+    "zh_name": "阿耳emisia hausiliensis",
+    "aliases": [
+      "artemisia_hausiliensis",
+      "阿耳emisia hausiliensis"
+    ]
+  },
+  "palm_oil": {
+    "zh_name": "棕榈油",
+    "aliases": [
+      "palm_oil",
+      "棕榈油"
+    ]
+  },
+  "corn_flake": {
+    "zh_name": "玉米片",
+    "aliases": [
+      "corn_flake",
+      "玉米片"
+    ]
+  },
+  "dried_spinach": {
+    "zh_name": "干菠菜",
+    "aliases": [
+      "dried_spinach",
+      "干菠菜"
+    ]
+  },
+  "vachellia_farnesiana": {
+    "zh_name": "Vachellia Farnesiana",
+    "aliases": [
+      "vachellia_farnesiana",
+      "Vachellia Farnesiana"
+    ]
+  },
+  "perovski_abrotanoides_oil": {
+    "zh_name": "Perovski Abrotanoides油",
+    "aliases": [
+      "perovski_abrotanoides_oil",
+      "Perovski Abrotanoides油"
+    ]
+  },
+  "highbush_blueberry": {
+    "zh_name": "Highbush蓝莓",
+    "aliases": [
+      "highbush_blueberry",
+      "Highbush蓝莓"
+    ]
+  },
+  "barosma_pulchella_oil": {
+    "zh_name": "巴罗斯马果油油",
+    "aliases": [
+      "barosma_pulchella_oil",
+      "巴罗斯马果油油"
+    ]
+  },
+  "niaouli_oil": {
+    "zh_name": "Niaouli油",
+    "aliases": [
+      "niaouli_oil",
+      "Niaouli油"
+    ]
+  },
+  "root": {
+    "zh_name": "根",
+    "aliases": [
+      "root",
+      "根"
+    ]
+  },
+  "raw_pea": {
+    "zh_name": "生豌豆",
+    "aliases": [
+      "raw_pea",
+      "生豌豆"
+    ]
+  },
+  "cinnamon": {
+    "zh_name": "肉桂",
+    "aliases": [
+      "cinnamon",
+      "肉桂"
+    ]
+  },
+  "monodora_grandiflora": {
+    "zh_name": "monodora grandiflora",
+    "aliases": [
+      "monodora_grandiflora",
+      "monodora grandiflora"
+    ]
+  },
+  "carob": {
+    "zh_name": "角豆",
+    "aliases": [
+      "carob",
+      "角豆"
+    ]
+  },
+  "passion_fruit_wine": {
+    "zh_name": "百香果葡萄酒",
+    "aliases": [
+      "passion_fruit_wine",
+      "百香果葡萄酒"
+    ]
+  },
+  "lemon_peel_oil": {
+    "zh_name": "柠檬皮油",
+    "aliases": [
+      "lemon_peel_oil",
+      "柠檬皮油"
+    ]
+  },
+  "radish": {
+    "zh_name": "萝卜",
+    "aliases": [
+      "radish",
+      "萝卜"
+    ]
+  },
+  "seseli_tortuosum": {
+    "zh_name": "塞塞利曲折",
+    "aliases": [
+      "seseli_tortuosum",
+      "塞塞利曲折"
+    ]
+  },
+  "lemon_oil": {
+    "zh_name": "柠檬油",
+    "aliases": [
+      "lemon_oil",
+      "柠檬油"
+    ]
+  },
+  "iberis_sempervirens_seed": {
+    "zh_name": "Iberis Sempervirens种子",
+    "aliases": [
+      "iberis_sempervirens_seed",
+      "Iberis Sempervirens种子"
+    ]
+  },
+  "citrus_leaf_oil": {
+    "zh_name": "柑橘叶油",
+    "aliases": [
+      "citrus_leaf_oil",
+      "柑橘叶油"
+    ]
+  },
+  "pinus_densiflora": {
+    "zh_name": "Pinus densiflora",
+    "aliases": [
+      "pinus_densiflora",
+      "Pinus densiflora"
+    ]
+  },
+  "vetiver_oil": {
+    "zh_name": "香根草油",
+    "aliases": [
+      "vetiver_oil",
+      "香根草油"
+    ]
+  },
+  "raw_chicken": {
+    "zh_name": "生鸡",
+    "aliases": [
+      "raw_chicken",
+      "生鸡"
+    ]
+  },
+  "japanese_calamus": {
+    "zh_name": "日本鱿鱼",
+    "aliases": [
+      "japanese_calamus",
+      "日本鱿鱼"
+    ]
+  },
+  "patchouli_oil": {
+    "zh_name": "广香油",
+    "aliases": [
+      "patchouli_oil",
+      "广香油"
+    ]
+  },
+  "raw_bean": {
+    "zh_name": "生豆",
+    "aliases": [
+      "raw_bean",
+      "生豆"
+    ]
+  },
+  "sake": {
+    "zh_name": "清酒",
+    "aliases": [
+      "sake",
+      "清酒"
+    ]
+  },
+  "citrus_peel_oil": {
+    "zh_name": "柑橘皮油",
+    "aliases": [
+      "citrus_peel_oil",
+      "柑橘皮油"
+    ]
+  },
+  "elsholtzia_ciliata": {
+    "zh_name": "Elsholtzia ciliata",
+    "aliases": [
+      "elsholtzia_ciliata",
+      "Elsholtzia ciliata"
+    ]
+  },
+  "bael": {
+    "zh_name": "贝尔",
+    "aliases": [
+      "bael",
+      "贝尔"
+    ]
+  },
+  "botrytized_wine": {
+    "zh_name": "葡萄酒",
+    "aliases": [
+      "botrytized_wine",
+      "葡萄酒"
+    ]
+  },
+  "lavender_delphinensis": {
+    "zh_name": "薰衣草Delphinensis",
+    "aliases": [
+      "lavender_delphinensis",
+      "薰衣草Delphinensis"
+    ]
+  },
+  "sassafras_root_oil": {
+    "zh_name": "sassafras根油",
+    "aliases": [
+      "sassafras_root_oil",
+      "sassafras根油"
+    ]
+  },
+  "angelica_root_oil": {
+    "zh_name": "当归根油",
+    "aliases": [
+      "angelica_root_oil",
+      "当归根油"
+    ]
+  },
+  "kola_tea": {
+    "zh_name": "茶",
+    "aliases": [
+      "kola_tea",
+      "茶"
+    ]
+  },
+  "corn_oil": {
+    "zh_name": "玉米油",
+    "aliases": [
+      "corn_oil",
+      "玉米油"
+    ]
+  },
+  "cumin_oil": {
+    "zh_name": "小茴香油",
+    "aliases": [
+      "cumin_oil",
+      "小茴香油"
+    ]
+  },
+  "olive": {
+    "zh_name": "橄榄",
+    "aliases": [
+      "olive",
+      "橄榄"
+    ]
+  },
+  "spearmint": {
+    "zh_name": "薄荷",
+    "aliases": [
+      "spearmint",
+      "薄荷"
+    ]
+  },
+  "japanese_hop_oil": {
+    "zh_name": "日本啤酒花油",
+    "aliases": [
+      "japanese_hop_oil",
+      "日本啤酒花油"
+    ]
+  },
+  "butterfat": {
+    "zh_name": "butterfat",
+    "aliases": [
+      "butterfat",
+      "butterfat"
+    ]
+  },
+  "sumatra_benzoin": {
+    "zh_name": "苏门答腊本佐恩",
+    "aliases": [
+      "sumatra_benzoin",
+      "苏门答腊本佐恩"
+    ]
+  },
+  "pinus_sabiniana_terpentine": {
+    "zh_name": "Pinus sabiniana terpentine",
+    "aliases": [
+      "pinus_sabiniana_terpentine",
+      "Pinus sabiniana terpentine"
+    ]
+  },
+  "apple_sauce": {
+    "zh_name": "苹果酱",
+    "aliases": [
+      "apple_sauce",
+      "苹果酱"
+    ]
+  },
+  "roasted_macadamia_nut": {
+    "zh_name": "烤澳洲坚果",
+    "aliases": [
+      "roasted_macadamia_nut",
+      "烤澳洲坚果"
+    ]
+  },
+  "thlaspi_arvense_oil": {
+    "zh_name": "Thlaspi Arvense Oil",
+    "aliases": [
+      "thlaspi_arvense_oil",
+      "Thlaspi Arvense Oil"
+    ]
+  },
+  "eucalyptus_maideni": {
+    "zh_name": "Eucalyptus Maideni",
+    "aliases": [
+      "eucalyptus_maideni",
+      "Eucalyptus Maideni"
+    ]
+  },
+  "raspberry_oil": {
+    "zh_name": "覆盆子油",
+    "aliases": [
+      "raspberry_oil",
+      "覆盆子油"
+    ]
+  },
+  "raw_asparagus": {
+    "zh_name": "原始芦笋",
+    "aliases": [
+      "raw_asparagus",
+      "原始芦笋"
+    ]
+  },
+  "turkmenistan_sunguli_oil": {
+    "zh_name": "土库曼斯坦的绿色油",
+    "aliases": [
+      "turkmenistan_sunguli_oil",
+      "土库曼斯坦的绿色油"
+    ]
+  },
+  "chrysanthemum_sincuse_flower": {
+    "zh_name": "菊花sincuse花",
+    "aliases": [
+      "chrysanthemum_sincuse_flower",
+      "菊花sincuse花"
+    ]
+  },
+  "malabar_cardamom_oil": {
+    "zh_name": "马拉巴尔豆蔻油",
+    "aliases": [
+      "malabar_cardamom_oil",
+      "马拉巴尔豆蔻油"
+    ]
+  },
+  "gelatin": {
+    "zh_name": "明胶",
+    "aliases": [
+      "gelatin",
+      "明胶"
+    ]
+  },
+  "crisp_bread": {
+    "zh_name": "酥脆的面包",
+    "aliases": [
+      "crisp_bread",
+      "酥脆的面包"
+    ]
+  },
+  "date": {
+    "zh_name": "日期",
+    "aliases": [
+      "date",
+      "日期"
+    ]
+  },
+  "limburger_cheese": {
+    "zh_name": "Limburger奶酪",
+    "aliases": [
+      "limburger_cheese",
+      "Limburger奶酪"
+    ]
+  },
+  "solanaceae": {
+    "zh_name": "茄科",
+    "aliases": [
+      "solanaceae",
+      "茄科"
+    ]
+  },
+  "mango": {
+    "zh_name": "芒果",
+    "aliases": [
+      "mango",
+      "芒果"
+    ]
+  },
+  "cape_gooseberry": {
+    "zh_name": "开普醋栗",
+    "aliases": [
+      "cape_gooseberry",
+      "开普醋栗"
+    ]
+  },
+  "lindera_citriodora": {
+    "zh_name": "Lindera Citriodora",
+    "aliases": [
+      "lindera_citriodora",
+      "Lindera Citriodora"
+    ]
+  },
+  "coconut_oil": {
+    "zh_name": "椰子油",
+    "aliases": [
+      "coconut_oil",
+      "椰子油"
+    ]
+  },
+  "pinus_excelsa": {
+    "zh_name": "Pinus Excelsa",
+    "aliases": [
+      "pinus_excelsa",
+      "Pinus Excelsa"
+    ]
+  },
+  "rafanus_sativus_root": {
+    "zh_name": "rafanus sativus root",
+    "aliases": [
+      "rafanus_sativus_root",
+      "rafanus sativus root"
+    ]
+  },
+  "american_sassafras_oil": {
+    "zh_name": "美国SASSAFRAS油",
+    "aliases": [
+      "american_sassafras_oil",
+      "美国SASSAFRAS油"
+    ]
+  },
+  "chinese_star_anise_oil": {
+    "zh_name": "中国八角油",
+    "aliases": [
+      "chinese_star_anise_oil",
+      "中国八角油"
+    ]
+  },
+  "boiled_chicken": {
+    "zh_name": "煮鸡肉",
+    "aliases": [
+      "boiled_chicken",
+      "煮鸡肉"
+    ]
+  },
+  "artemisia_scoparia": {
+    "zh_name": "阿耳emisia scoparia",
+    "aliases": [
+      "artemisia_scoparia",
+      "阿耳emisia scoparia"
+    ]
+  },
+  "chickpea": {
+    "zh_name": "鹰嘴豆",
+    "aliases": [
+      "chickpea",
+      "鹰嘴豆"
+    ]
+  },
+  "dried_green_tea": {
+    "zh_name": "干绿茶",
+    "aliases": [
+      "dried_green_tea",
+      "干绿茶"
+    ]
+  },
+  "kumquat_peel_oil": {
+    "zh_name": "kumquat剥油",
+    "aliases": [
+      "kumquat_peel_oil",
+      "kumquat剥油"
+    ]
+  },
+  "dacrydium_franklinii_oil": {
+    "zh_name": "富富富富油",
+    "aliases": [
+      "dacrydium_franklinii_oil",
+      "富富富富油"
+    ]
+  },
+  "artemisia_maritime_oil": {
+    "zh_name": "蒿海洋油",
+    "aliases": [
+      "artemisia_maritime_oil",
+      "蒿海洋油"
+    ]
+  },
+  "artemisia_frigida": {
+    "zh_name": "阿耳emisia frigida",
+    "aliases": [
+      "artemisia_frigida",
+      "阿耳emisia frigida"
+    ]
+  },
+  "italian_lime": {
+    "zh_name": "意大利青柠",
+    "aliases": [
+      "italian_lime",
+      "意大利青柠"
+    ]
+  },
+  "pittosporum_flower": {
+    "zh_name": "pittosporum花",
+    "aliases": [
+      "pittosporum_flower",
+      "pittosporum花"
+    ]
+  },
+  "orange_peel_oil": {
+    "zh_name": "橙皮油",
+    "aliases": [
+      "orange_peel_oil",
+      "橙皮油"
+    ]
+  },
+  "thymus": {
+    "zh_name": "胸腺",
+    "aliases": [
+      "thymus",
+      "胸腺"
+    ]
+  },
+  "bantu_beer": {
+    "zh_name": "班图啤酒",
+    "aliases": [
+      "bantu_beer",
+      "班图啤酒"
+    ]
+  },
+  "melilotus_albus_leaf": {
+    "zh_name": "Melilotus albus叶",
+    "aliases": [
+      "melilotus_albus_leaf",
+      "Melilotus albus叶"
+    ]
+  },
+  "ceanothus_velutinus_leaf": {
+    "zh_name": "库曲丝叶叶叶",
+    "aliases": [
+      "ceanothus_velutinus_leaf",
+      "库曲丝叶叶叶"
+    ]
+  },
+  "asian_storax": {
+    "zh_name": "亚洲storax",
+    "aliases": [
+      "asian_storax",
+      "亚洲storax"
+    ]
+  },
+  "boldo_leaf": {
+    "zh_name": "Boldo Leaf",
+    "aliases": [
+      "boldo_leaf",
+      "Boldo Leaf"
+    ]
+  },
+  "cinchona_officinalis": {
+    "zh_name": "Cinchona officinalis",
+    "aliases": [
+      "cinchona_officinalis",
+      "Cinchona officinalis"
+    ]
+  },
+  "beef_broth": {
+    "zh_name": "牛肉汤",
+    "aliases": [
+      "beef_broth",
+      "牛肉汤"
+    ],
+    "base_ingredient": "beef"
+  },
+  "cistus_ladaniferus": {
+    "zh_name": "cistus ladaniferus",
+    "aliases": [
+      "cistus_ladaniferus",
+      "cistus ladaniferus"
+    ]
+  },
+  "sesame_seed_oil": {
+    "zh_name": "芝麻油",
+    "aliases": [
+      "sesame_seed_oil",
+      "芝麻油"
+    ]
+  },
+  "myrtle": {
+    "zh_name": "桃金娘",
+    "aliases": [
+      "myrtle",
+      "桃金娘"
+    ]
+  },
+  "rye_flour": {
+    "zh_name": "黑麦面粉",
+    "aliases": [
+      "rye_flour",
+      "黑麦面粉"
+    ]
+  },
+  "leptospermum_liversidgei": {
+    "zh_name": "Leptospermum liversidgei",
+    "aliases": [
+      "leptospermum_liversidgei",
+      "Leptospermum liversidgei"
+    ]
+  },
+  "orange_leaf_oil": {
+    "zh_name": "橙叶油",
+    "aliases": [
+      "orange_leaf_oil",
+      "橙叶油"
+    ]
+  },
+  "french_lavender": {
+    "zh_name": "法国薰衣草",
+    "aliases": [
+      "french_lavender",
+      "法国薰衣草"
+    ]
+  },
+  "doryphora_sassafras_leaf_oil": {
+    "zh_name": "Doryphora Sassafras叶油",
+    "aliases": [
+      "doryphora_sassafras_leaf_oil",
+      "Doryphora Sassafras叶油"
+    ]
+  },
+  "aconitum_napellus": {
+    "zh_name": "纳佩鲁斯",
+    "aliases": [
+      "aconitum_napellus",
+      "纳佩鲁斯"
+    ]
+  },
+  "hybrid_passion_fruit_juice": {
+    "zh_name": "杂交百香果果汁",
+    "aliases": [
+      "hybrid_passion_fruit_juice",
+      "杂交百香果果汁"
+    ]
+  },
+  "carphephorus_paniculatus_leaf": {
+    "zh_name": "Carphephorus paniculatus叶",
+    "aliases": [
+      "carphephorus_paniculatus_leaf",
+      "Carphephorus paniculatus叶"
+    ]
+  },
+  "lesquerella_seed": {
+    "zh_name": "Lesquerella种子",
+    "aliases": [
+      "lesquerella_seed",
+      "Lesquerella种子"
+    ]
+  },
+  "cheese": {
+    "zh_name": "奶酪",
+    "aliases": [
+      "cheese",
+      "奶酪"
+    ]
+  },
+  "randia_formosa_flower": {
+    "zh_name": "Randia Formosa花",
+    "aliases": [
+      "randia_formosa_flower",
+      "Randia Formosa花"
+    ]
+  },
+  "citronella_grass": {
+    "zh_name": "香菜草",
+    "aliases": [
+      "citronella_grass",
+      "香菜草"
+    ]
+  },
+  "quercus_olive": {
+    "zh_name": "Quercus Olive",
+    "aliases": [
+      "quercus_olive",
+      "Quercus Olive"
+    ]
+  },
+  "siam_benzoin": {
+    "zh_name": "暹罗本佐因",
+    "aliases": [
+      "siam_benzoin",
+      "暹罗本佐因"
+    ]
+  },
+  "asarum_europaeum_root_oil": {
+    "zh_name": "阿萨鲁姆欧洲",
+    "aliases": [
+      "asarum_europaeum_root_oil",
+      "阿萨鲁姆欧洲"
+    ]
+  },
+  "cassava": {
+    "zh_name": "木薯",
+    "aliases": [
+      "cassava",
+      "木薯"
+    ]
+  },
+  "muscadine_grape": {
+    "zh_name": "穆斯卡丁葡萄",
+    "aliases": [
+      "muscadine_grape",
+      "穆斯卡丁葡萄"
+    ]
+  },
+  "valerian_oil": {
+    "zh_name": "缬草油",
+    "aliases": [
+      "valerian_oil",
+      "缬草油"
+    ]
+  },
+  "loiseleuria_procumbens": {
+    "zh_name": "Loiseleuria Procumbens",
+    "aliases": [
+      "loiseleuria_procumbens",
+      "Loiseleuria Procumbens"
+    ]
+  },
+  "auricula_oil": {
+    "zh_name": "Auricula油",
+    "aliases": [
+      "auricula_oil",
+      "Auricula油"
+    ]
+  },
+  "valencia_orange_oil": {
+    "zh_name": "瓦伦西亚橙油",
+    "aliases": [
+      "valencia_orange_oil",
+      "瓦伦西亚橙油"
+    ]
+  },
+  "citronella": {
+    "zh_name": "香菜",
+    "aliases": [
+      "citronella",
+      "香菜"
+    ]
+  },
+  "black_chokeberry": {
+    "zh_name": "黑色乔莓",
+    "aliases": [
+      "black_chokeberry",
+      "黑色乔莓"
+    ]
+  },
+  "celery_root": {
+    "zh_name": "芹菜根",
+    "aliases": [
+      "celery_root",
+      "芹菜根"
+    ]
+  },
+  "senecio_kaempferi": {
+    "zh_name": "Senecio Kaempferi",
+    "aliases": [
+      "senecio_kaempferi",
+      "Senecio Kaempferi"
+    ]
+  },
+  "while_thyme_oil": {
+    "zh_name": "同时百里香油",
+    "aliases": [
+      "while_thyme_oil",
+      "同时百里香油"
+    ]
+  },
+  "chestnut_honey": {
+    "zh_name": "栗子蜂蜜",
+    "aliases": [
+      "chestnut_honey",
+      "栗子蜂蜜"
+    ]
+  },
+  "magnolia_salicifolia_oil": {
+    "zh_name": "木兰的盐酸油",
+    "aliases": [
+      "magnolia_salicifolia_oil",
+      "木兰的盐酸油"
+    ]
+  },
+  "cane_molasses": {
+    "zh_name": "甘蔗糖蜜",
+    "aliases": [
+      "cane_molasses",
+      "甘蔗糖蜜"
+    ]
+  },
+  "coconut": {
+    "zh_name": "椰子",
+    "aliases": [
+      "coconut",
+      "椰子"
+    ]
+  },
+  "grape_vine": {
+    "zh_name": "葡萄藤",
+    "aliases": [
+      "grape_vine",
+      "葡萄藤"
+    ]
+  },
+  "violet": {
+    "zh_name": "紫色",
+    "aliases": [
+      "violet",
+      "紫色"
+    ]
+  },
+  "port_wine": {
+    "zh_name": "港口葡萄酒",
+    "aliases": [
+      "port_wine",
+      "港口葡萄酒"
+    ]
+  },
+  "fortunella_margarita": {
+    "zh_name": "Fortunella Margarita",
+    "aliases": [
+      "fortunella_margarita",
+      "Fortunella Margarita"
+    ]
+  },
+  "fermented_radish": {
+    "zh_name": "发酵萝卜",
+    "aliases": [
+      "fermented_radish",
+      "发酵萝卜"
+    ]
+  },
+  "blumea_malcomii_oil": {
+    "zh_name": "Blumea malcomii油",
+    "aliases": [
+      "blumea_malcomii_oil",
+      "Blumea malcomii油"
+    ]
+  },
+  "berry_bud": {
+    "zh_name": "浆果芽",
+    "aliases": [
+      "berry_bud",
+      "浆果芽"
+    ]
+  },
+  "eucalyptus_citriodora_oil": {
+    "zh_name": "桉树油",
+    "aliases": [
+      "eucalyptus_citriodora_oil",
+      "桉树油"
+    ]
+  },
+  "penang_benzoin": {
+    "zh_name": "槟城奔驰",
+    "aliases": [
+      "penang_benzoin",
+      "槟城奔驰"
+    ]
+  },
+  "shoro": {
+    "zh_name": "Shoro",
+    "aliases": [
+      "shoro",
+      "Shoro"
+    ]
+  },
+  "california_orange_peel": {
+    "zh_name": "加州橙皮",
+    "aliases": [
+      "california_orange_peel",
+      "加州橙皮"
+    ]
+  },
+  "cinnamomum_cassia_oil": {
+    "zh_name": "肉桂木炭油",
+    "aliases": [
+      "cinnamomum_cassia_oil",
+      "肉桂木炭油"
+    ]
+  },
+  "palmarosa_oil": {
+    "zh_name": "棕榈油",
+    "aliases": [
+      "palmarosa_oil",
+      "棕榈油"
+    ]
+  },
+  "wild_berry": {
+    "zh_name": "野生浆果",
+    "aliases": [
+      "wild_berry",
+      "野生浆果"
+    ]
+  },
+  "tea_tree_oil": {
+    "zh_name": "茶树油",
+    "aliases": [
+      "tea_tree_oil",
+      "茶树油"
+    ]
+  },
+  "myrtaceae_oil": {
+    "zh_name": "Myrtaceae油",
+    "aliases": [
+      "myrtaceae_oil",
+      "Myrtaceae油"
+    ]
+  },
+  "petitgrain_lime_oil": {
+    "zh_name": "小青柠油",
+    "aliases": [
+      "petitgrain_lime_oil",
+      "小青柠油"
+    ]
+  },
+  "artemisia_juncea": {
+    "zh_name": "Artemisia Juncea",
+    "aliases": [
+      "artemisia_juncea",
+      "Artemisia Juncea"
+    ]
+  },
+  "achasma_walang": {
+    "zh_name": "Achasma Walang",
+    "aliases": [
+      "achasma_walang",
+      "Achasma Walang"
+    ]
+  },
+  "chinese_star_anise": {
+    "zh_name": "中国星茴香",
+    "aliases": [
+      "chinese_star_anise",
+      "中国星茴香"
+    ]
+  },
+  "uncured_boiled_pork": {
+    "zh_name": "未煮沸的猪肉",
+    "aliases": [
+      "uncured_boiled_pork",
+      "未煮沸的猪肉"
+    ]
+  },
+  "rye_bread": {
+    "zh_name": "黑麦面包",
+    "aliases": [
+      "rye_bread",
+      "黑麦面包"
+    ]
+  },
+  "polysiphonia_fastigiata": {
+    "zh_name": "polysiphonia fastigiata",
+    "aliases": [
+      "polysiphonia_fastigiata",
+      "polysiphonia fastigiata"
+    ]
+  },
+  "red_sage": {
+    "zh_name": "红色鼠尾草",
+    "aliases": [
+      "red_sage",
+      "红色鼠尾草"
+    ]
+  },
+  "boiled_meat": {
+    "zh_name": "煮肉",
+    "aliases": [
+      "boiled_meat",
+      "煮肉"
+    ]
+  },
+  "arrack": {
+    "zh_name": "阿拉克",
+    "aliases": [
+      "arrack",
+      "阿拉克"
+    ]
+  },
+  "nectarine": {
+    "zh_name": "油桃",
+    "aliases": [
+      "nectarine",
+      "油桃"
+    ]
+  },
+  "mantis_shrimp": {
+    "zh_name": "螳螂虾",
+    "aliases": [
+      "mantis_shrimp",
+      "螳螂虾"
+    ]
+  },
+  "levisticum_acutilobum": {
+    "zh_name": "利维特姆·阿属伯姆",
+    "aliases": [
+      "levisticum_acutilobum",
+      "利维特姆·阿属伯姆"
+    ]
+  },
+  "pumpkin": {
+    "zh_name": "南瓜",
+    "aliases": [
+      "pumpkin",
+      "南瓜"
+    ]
+  },
+  "fermented_tea_leaf_oil": {
+    "zh_name": "发酵茶叶油",
+    "aliases": [
+      "fermented_tea_leaf_oil",
+      "发酵茶叶油"
+    ]
+  },
+  "spearmint_scotch_oil": {
+    "zh_name": "Spearmint苏格兰油",
+    "aliases": [
+      "spearmint_scotch_oil",
+      "Spearmint苏格兰油"
+    ]
+  },
+  "wild_strawberry": {
+    "zh_name": "野草莓",
+    "aliases": [
+      "wild_strawberry",
+      "野草莓"
+    ]
+  },
+  "cumin": {
+    "zh_name": "小茴香",
+    "aliases": [
+      "cumin",
+      "小茴香"
+    ]
+  },
+  "uncured_smoked_pork": {
+    "zh_name": "未烟熏猪肉",
+    "aliases": [
+      "uncured_smoked_pork",
+      "未烟熏猪肉"
+    ]
+  },
+  "backhousia_citriodora": {
+    "zh_name": "Backhousia Citriodora",
+    "aliases": [
+      "backhousia_citriodora",
+      "Backhousia Citriodora"
+    ]
+  },
+  "hinoki_oil": {
+    "zh_name": "hinoki油",
+    "aliases": [
+      "hinoki_oil",
+      "hinoki油"
+    ]
+  },
+  "chinese_cinnamon": {
+    "zh_name": "中国肉桂",
+    "aliases": [
+      "chinese_cinnamon",
+      "中国肉桂"
+    ]
+  },
+  "seal": {
+    "zh_name": "海豹",
+    "aliases": [
+      "seal",
+      "海豹"
+    ]
+  },
+  "artemisia_tridentata": {
+    "zh_name": "Artemisia Tridentata",
+    "aliases": [
+      "artemisia_tridentata",
+      "Artemisia Tridentata"
+    ]
+  },
+  "mutton": {
+    "zh_name": "羊肉",
+    "aliases": [
+      "mutton",
+      "羊肉"
+    ]
+  },
+  "roasted_peanut": {
+    "zh_name": "烤花生",
+    "aliases": [
+      "roasted_peanut",
+      "烤花生"
+    ]
+  },
+  "petrosimonia_monandra": {
+    "zh_name": "petrosimonia monandra",
+    "aliases": [
+      "petrosimonia_monandra",
+      "petrosimonia monandra"
+    ]
+  },
+  "roasted_meat": {
+    "zh_name": "烤肉",
+    "aliases": [
+      "roasted_meat",
+      "烤肉"
+    ]
+  },
+  "mandarin": {
+    "zh_name": "普通话",
+    "aliases": [
+      "mandarin",
+      "普通话"
+    ]
+  },
+  "leaf_oil": {
+    "zh_name": "叶油",
+    "aliases": [
+      "leaf_oil",
+      "叶油"
+    ]
+  },
+  "winter_melon": {
+    "zh_name": "冬瓜",
+    "aliases": [
+      "winter_melon",
+      "冬瓜"
+    ]
+  },
+  "caucus": {
+    "zh_name": "核心小组",
+    "aliases": [
+      "caucus",
+      "核心小组"
+    ]
+  },
+  "labdanum": {
+    "zh_name": "Labdanum",
+    "aliases": [
+      "labdanum",
+      "Labdanum"
+    ]
+  },
+  "cantaloupe": {
+    "zh_name": "哈密​​瓜",
+    "aliases": [
+      "cantaloupe",
+      "哈密​​瓜"
+    ]
+  },
+  "japanese_peppermint": {
+    "zh_name": "日本薄荷",
+    "aliases": [
+      "japanese_peppermint",
+      "日本薄荷"
+    ]
+  },
+  "oak_leaf": {
+    "zh_name": "橡树叶",
+    "aliases": [
+      "oak_leaf",
+      "橡树叶"
+    ]
+  },
+  "brassica": {
+    "zh_name": "布拉西卡",
+    "aliases": [
+      "brassica",
+      "布拉西卡"
+    ]
+  },
+  "finnish_whiskey": {
+    "zh_name": "芬兰威士忌",
+    "aliases": [
+      "finnish_whiskey",
+      "芬兰威士忌"
+    ]
+  },
+  "alpinia_malaccensis": {
+    "zh_name": "阿尔卑斯山",
+    "aliases": [
+      "alpinia_malaccensis",
+      "阿尔卑斯山"
+    ]
+  },
+  "elderberry_juice": {
+    "zh_name": "接骨木果汁",
+    "aliases": [
+      "elderberry_juice",
+      "接骨木果汁"
+    ]
+  },
+  "auto_oxidized_salmon_oil": {
+    "zh_name": "自动氧化鲑鱼油",
+    "aliases": [
+      "auto_oxidized_salmon_oil",
+      "自动氧化鲑鱼油"
+    ]
+  },
+  "domiati_cheese": {
+    "zh_name": "Domiati奶酪",
+    "aliases": [
+      "domiati_cheese",
+      "Domiati奶酪"
+    ]
+  },
+  "mexican_lime": {
+    "zh_name": "墨西哥青柠",
+    "aliases": [
+      "mexican_lime",
+      "墨西哥青柠"
+    ]
+  },
+  "comte_cheese": {
+    "zh_name": "comte奶酪",
+    "aliases": [
+      "comte_cheese",
+      "comte奶酪"
+    ]
+  },
+  "raw_lean_fish": {
+    "zh_name": "生瘦鱼",
+    "aliases": [
+      "raw_lean_fish",
+      "生瘦鱼"
+    ]
+  },
+  "mentha_silvestris_oil": {
+    "zh_name": "Mentha Silvestris油",
+    "aliases": [
+      "mentha_silvestris_oil",
+      "Mentha Silvestris油"
+    ]
+  },
+  "ceylon_tea_cinnamon_leaf": {
+    "zh_name": "锡兰茶肉桂叶",
+    "aliases": [
+      "ceylon_tea_cinnamon_leaf",
+      "锡兰茶肉桂叶"
+    ]
+  },
+  "berry": {
+    "zh_name": "浆果",
+    "aliases": [
+      "berry",
+      "浆果"
+    ]
+  },
+  "sudachi": {
+    "zh_name": "Sudachi",
+    "aliases": [
+      "sudachi",
+      "Sudachi"
+    ]
+  },
+  "cinnamon_leaf_oil": {
+    "zh_name": "肉桂叶油",
+    "aliases": [
+      "cinnamon_leaf_oil",
+      "肉桂叶油"
+    ]
+  },
+  "ceylon_citronella_oil": {
+    "zh_name": "锡兰香油油",
+    "aliases": [
+      "ceylon_citronella_oil",
+      "锡兰香油油"
+    ]
+  },
+  "navy_bean": {
+    "zh_name": "海军豆",
+    "aliases": [
+      "navy_bean",
+      "海军豆"
+    ]
+  },
+  "tabasco_pepper": {
+    "zh_name": "塔巴斯科胡椒",
+    "aliases": [
+      "tabasco_pepper",
+      "塔巴斯科胡椒"
+    ]
+  },
+  "zanthoxylum_piperitum": {
+    "zh_name": "Zanthoxylum piperitum",
+    "aliases": [
+      "zanthoxylum_piperitum",
+      "Zanthoxylum piperitum"
+    ]
+  },
+  "turkey": {
+    "zh_name": "火鸡",
+    "aliases": [
+      "turkey",
+      "火鸡"
+    ]
+  },
+  "spermaceti_oil": {
+    "zh_name": "精子油",
+    "aliases": [
+      "spermaceti_oil",
+      "精子油"
+    ]
+  },
+  "malagueta_pepper": {
+    "zh_name": "马拉格塔胡椒",
+    "aliases": [
+      "malagueta_pepper",
+      "马拉格塔胡椒"
+    ]
+  },
+  "red_wine": {
+    "zh_name": "红葡萄酒",
+    "aliases": [
+      "red_wine",
+      "红葡萄酒"
+    ]
+  },
+  "squash": {
+    "zh_name": "壁球",
+    "aliases": [
+      "squash",
+      "壁球"
+    ]
+  },
+  "thymus_zygis": {
+    "zh_name": "胸腺Zygis",
+    "aliases": [
+      "thymus_zygis",
+      "胸腺Zygis"
+    ]
+  },
+  "indian_hemp": {
+    "zh_name": "印度大麻",
+    "aliases": [
+      "indian_hemp",
+      "印度大麻"
+    ]
+  },
+  "jamaican_rum": {
+    "zh_name": "牙买加朗姆酒",
+    "aliases": [
+      "jamaican_rum",
+      "牙买加朗姆酒"
+    ]
+  },
+  "mashed_potato": {
+    "zh_name": "土豆泥",
+    "aliases": [
+      "mashed_potato",
+      "土豆泥"
+    ]
+  },
+  "boiled_beef": {
+    "zh_name": "煮牛肉",
+    "aliases": [
+      "boiled_beef",
+      "煮牛肉"
+    ],
+    "base_ingredient": "beef"
+  },
+  "green_tea_oil": {
+    "zh_name": "绿茶油",
+    "aliases": [
+      "green_tea_oil",
+      "绿茶油"
+    ]
+  },
+  "rhus_cotinus_leaf": {
+    "zh_name": "rhus cotinus叶",
+    "aliases": [
+      "rhus_cotinus_leaf",
+      "rhus cotinus叶"
+    ]
+  },
+  "coriander_oil": {
+    "zh_name": "香菜油",
+    "aliases": [
+      "coriander_oil",
+      "香菜油"
+    ]
+  },
+  "ledum_palustre": {
+    "zh_name": "Ledum Palustre",
+    "aliases": [
+      "ledum_palustre",
+      "Ledum Palustre"
+    ]
+  },
+  "passion_fruit": {
+    "zh_name": "百香果",
+    "aliases": [
+      "passion_fruit",
+      "百香果"
+    ]
+  },
+  "coffee": {
+    "zh_name": "咖啡",
+    "aliases": [
+      "coffee",
+      "咖啡"
+    ]
+  },
+  "magnolia_oil": {
+    "zh_name": "木兰油",
+    "aliases": [
+      "magnolia_oil",
+      "木兰油"
+    ]
+  },
+  "red_kidney_bean": {
+    "zh_name": "红肾豆",
+    "aliases": [
+      "red_kidney_bean",
+      "红肾豆"
+    ]
+  },
+  "cocoa_liquor": {
+    "zh_name": "可可酒",
+    "aliases": [
+      "cocoa_liquor",
+      "可可酒"
+    ]
+  },
+  "cryptomeria_japonica": {
+    "zh_name": "加密Japonica",
+    "aliases": [
+      "cryptomeria_japonica",
+      "加密Japonica"
+    ]
+  },
+  "calytrix_virgata": {
+    "zh_name": "Calytrix Virgata",
+    "aliases": [
+      "calytrix_virgata",
+      "Calytrix Virgata"
+    ]
+  },
+  "zanthoxylum_rhetsa_oil": {
+    "zh_name": "Zanthoxylum rhetsa油",
+    "aliases": [
+      "zanthoxylum_rhetsa_oil",
+      "Zanthoxylum rhetsa油"
+    ]
+  },
+  "macaroni": {
+    "zh_name": "通心粉",
+    "aliases": [
+      "macaroni",
+      "通心粉"
+    ]
+  },
+  "catfish": {
+    "zh_name": "鲶鱼",
+    "aliases": [
+      "catfish",
+      "鲶鱼"
+    ]
+  },
+  "sapodilla": {
+    "zh_name": "sapodilla",
+    "aliases": [
+      "sapodilla",
+      "sapodilla"
+    ]
+  },
+  "tangerine_oil": {
+    "zh_name": "橘子油",
+    "aliases": [
+      "tangerine_oil",
+      "橘子油"
+    ]
+  },
+  "cocoa_leaf": {
+    "zh_name": "可可叶",
+    "aliases": [
+      "cocoa_leaf",
+      "可可叶"
+    ]
+  },
+  "fruit": {
+    "zh_name": "水果",
+    "aliases": [
+      "fruit",
+      "水果"
+    ]
+  },
+  "hogweed": {
+    "zh_name": "霍格维德",
+    "aliases": [
+      "hogweed",
+      "霍格维德"
+    ]
+  },
+  "babaco": {
+    "zh_name": "巴巴科",
+    "aliases": [
+      "babaco",
+      "巴巴科"
+    ]
+  },
+  "salmon_roe": {
+    "zh_name": "鲑鱼玫瑰",
+    "aliases": [
+      "salmon_roe",
+      "鲑鱼玫瑰"
+    ]
+  },
+  "brown_rice": {
+    "zh_name": "糙米",
+    "aliases": [
+      "brown_rice",
+      "糙米"
+    ]
+  },
+  "eryngium_poterium": {
+    "zh_name": "红斑",
+    "aliases": [
+      "eryngium_poterium",
+      "红斑"
+    ]
+  },
+  "rhodotorula_glutinis": {
+    "zh_name": "杜鹃谷氨酸",
+    "aliases": [
+      "rhodotorula_glutinis",
+      "杜鹃谷氨酸"
+    ]
+  },
+  "choke_cherry": {
+    "zh_name": "cher樱桃",
+    "aliases": [
+      "choke_cherry",
+      "cher樱桃"
+    ]
+  },
+  "waste_wort": {
+    "zh_name": "废物麦芽汁",
+    "aliases": [
+      "waste_wort",
+      "废物麦芽汁"
+    ]
+  },
+  "veal": {
+    "zh_name": "小牛肉",
+    "aliases": [
+      "veal",
+      "小牛肉"
+    ],
+    "base_ingredient": "beef"
+  },
+  "boswellia_serrata_oil": {
+    "zh_name": "Boswellia Serrata油",
+    "aliases": [
+      "boswellia_serrata_oil",
+      "Boswellia Serrata油"
+    ]
+  },
+  "piper_officinarum": {
+    "zh_name": "Piper Officinarum",
+    "aliases": [
+      "piper_officinarum",
+      "Piper Officinarum"
+    ]
+  },
+  "nectandra_elaiophora": {
+    "zh_name": "Nectandra Elaiophora",
+    "aliases": [
+      "nectandra_elaiophora",
+      "Nectandra Elaiophora"
+    ]
+  },
+  "bitter_orange_leaf": {
+    "zh_name": "苦橙叶",
+    "aliases": [
+      "bitter_orange_leaf",
+      "苦橙叶"
+    ]
+  },
+  "wild_grape": {
+    "zh_name": "野葡萄",
+    "aliases": [
+      "wild_grape",
+      "野葡萄"
+    ]
+  },
+  "cilantro": {
+    "zh_name": "香菜",
+    "aliases": [
+      "cilantro",
+      "香菜"
+    ]
+  },
+  "crimean_white_grape_oil": {
+    "zh_name": "克里米亚白葡萄油",
+    "aliases": [
+      "crimean_white_grape_oil",
+      "克里米亚白葡萄油"
+    ]
+  },
+  "prunus": {
+    "zh_name": "李子",
+    "aliases": [
+      "prunus",
+      "李子"
+    ]
+  },
+  "rose": {
+    "zh_name": "玫瑰",
+    "aliases": [
+      "rose",
+      "玫瑰"
+    ]
+  },
+  "anise_hyssop": {
+    "zh_name": "大茴香",
+    "aliases": [
+      "anise_hyssop",
+      "大茴香"
+    ]
+  },
+  "cayenne": {
+    "zh_name": "辣椒",
+    "aliases": [
+      "cayenne",
+      "辣椒"
+    ]
+  },
+  "monarda_citriodora_oil": {
+    "zh_name": "Monarda citriodora油",
+    "aliases": [
+      "monarda_citriodora_oil",
+      "Monarda citriodora油"
+    ]
+  },
+  "grapefruit_oil": {
+    "zh_name": "葡萄柚油",
+    "aliases": [
+      "grapefruit_oil",
+      "葡萄柚油"
+    ]
+  },
+  "eucalyptus_amygdalina": {
+    "zh_name": "桉树杏仁核",
+    "aliases": [
+      "eucalyptus_amygdalina",
+      "桉树杏仁核"
+    ]
+  },
+  "melissa_oil": {
+    "zh_name": "梅利莎油",
+    "aliases": [
+      "melissa_oil",
+      "梅利莎油"
+    ]
+  },
+  "vitis": {
+    "zh_name": "vitis",
+    "aliases": [
+      "vitis",
+      "vitis"
+    ]
+  },
+  "jonquil": {
+    "zh_name": "琼奎尔",
+    "aliases": [
+      "jonquil",
+      "琼奎尔"
+    ]
+  },
+  "houttuynia_cordata_oil": {
+    "zh_name": "Houttuynia cordata油",
+    "aliases": [
+      "houttuynia_cordata_oil",
+      "Houttuynia cordata油"
+    ]
+  },
+  "endive": {
+    "zh_name": "苣荬菜",
+    "aliases": [
+      "endive",
+      "苣荬菜"
+    ]
+  },
+  "tobacco_leaf_oil": {
+    "zh_name": "烟草油",
+    "aliases": [
+      "tobacco_leaf_oil",
+      "烟草油"
+    ]
+  },
+  "orthodon_linalooliferum": {
+    "zh_name": "正极linalooliferum",
+    "aliases": [
+      "orthodon_linalooliferum",
+      "正极linalooliferum"
+    ]
+  },
+  "clam": {
+    "zh_name": "蛤",
+    "aliases": [
+      "clam",
+      "蛤"
+    ]
+  },
+  "thyme": {
+    "zh_name": "百里香",
+    "aliases": [
+      "thyme",
+      "百里香"
+    ]
+  },
+  "blackberry": {
+    "zh_name": "黑莓",
+    "aliases": [
+      "blackberry",
+      "黑莓"
+    ]
+  },
+  "geranium_oil": {
+    "zh_name": "天气油",
+    "aliases": [
+      "geranium_oil",
+      "天气油"
+    ]
+  },
+  "morus_bombycis_oil": {
+    "zh_name": "莫鲁斯Bombycis油",
+    "aliases": [
+      "morus_bombycis_oil",
+      "莫鲁斯Bombycis油"
+    ]
+  },
+  "lobster": {
+    "zh_name": "龙虾",
+    "aliases": [
+      "lobster",
+      "龙虾"
+    ]
+  },
+  "corn_mint": {
+    "zh_name": "玉米薄荷",
+    "aliases": [
+      "corn_mint",
+      "玉米薄荷"
+    ]
+  },
+  "sphaeranthus_indicus_oil": {
+    "zh_name": "sphaeranthus insuinus Oil",
+    "aliases": [
+      "sphaeranthus_indicus_oil",
+      "sphaeranthus insuinus Oil"
+    ]
+  },
+  "chicken_liver": {
+    "zh_name": "鸡肝",
+    "aliases": [
+      "chicken_liver",
+      "鸡肝"
+    ]
+  },
+  "origanum": {
+    "zh_name": "Origanum",
+    "aliases": [
+      "origanum",
+      "Origanum"
+    ]
+  },
+  "scotch_spearmint_oil": {
+    "zh_name": "苏格兰矛油",
+    "aliases": [
+      "scotch_spearmint_oil",
+      "苏格兰矛油"
+    ]
+  },
+  "marula": {
+    "zh_name": "玛拉",
+    "aliases": [
+      "marula",
+      "玛拉"
+    ]
+  },
+  "mastic_gum_fruit_oil": {
+    "zh_name": "乳胶水果油",
+    "aliases": [
+      "mastic_gum_fruit_oil",
+      "乳胶水果油"
+    ]
+  },
+  "graminaceae": {
+    "zh_name": "graminaceae",
+    "aliases": [
+      "graminaceae",
+      "graminaceae"
+    ]
+  },
+  "brazil_peppermint_oil": {
+    "zh_name": "巴西薄荷油",
+    "aliases": [
+      "brazil_peppermint_oil",
+      "巴西薄荷油"
+    ]
+  },
+  "zingiberaceae": {
+    "zh_name": "Zingiberaceae",
+    "aliases": [
+      "zingiberaceae",
+      "Zingiberaceae"
+    ]
+  },
+  "roasted_chicory_root": {
+    "zh_name": "烤菊苣根",
+    "aliases": [
+      "roasted_chicory_root",
+      "烤菊苣根"
+    ]
+  },
+  "cayenne_rosewood": {
+    "zh_name": "卡宴玫瑰木",
+    "aliases": [
+      "cayenne_rosewood",
+      "卡宴玫瑰木"
+    ]
+  },
+  "brazil_rosewood": {
+    "zh_name": "巴西玫瑰木",
+    "aliases": [
+      "brazil_rosewood",
+      "巴西玫瑰木"
+    ]
+  },
+  "smoked_herring": {
+    "zh_name": "抽烟",
+    "aliases": [
+      "smoked_herring",
+      "抽烟"
+    ]
+  },
+  "shrimp": {
+    "zh_name": "虾",
+    "aliases": [
+      "shrimp",
+      "虾"
+    ]
+  },
+  "pistachio": {
+    "zh_name": "开心果",
+    "aliases": [
+      "pistachio",
+      "开心果"
+    ]
+  },
+  "swiss_cheese": {
+    "zh_name": "瑞士奶酪",
+    "aliases": [
+      "swiss_cheese",
+      "瑞士奶酪"
+    ]
+  },
+  "wild_rice": {
+    "zh_name": "野米",
+    "aliases": [
+      "wild_rice",
+      "野米"
+    ]
+  },
+  "chive": {
+    "zh_name": "奇夫",
+    "aliases": [
+      "chive",
+      "奇夫"
+    ]
+  },
+  "sea_buckthorn": {
+    "zh_name": "海克索恩",
+    "aliases": [
+      "sea_buckthorn",
+      "海克索恩"
+    ]
+  },
+  "lavender_oil": {
+    "zh_name": "薰衣草油",
+    "aliases": [
+      "lavender_oil",
+      "薰衣草油"
+    ]
+  },
+  "orange_leaf": {
+    "zh_name": "橙叶",
+    "aliases": [
+      "orange_leaf",
+      "橙叶"
+    ]
+  },
+  "phellodendron_japonicum": {
+    "zh_name": "Phellodendron Japonicum",
+    "aliases": [
+      "phellodendron_japonicum",
+      "Phellodendron Japonicum"
+    ]
+  },
+  "white_bread": {
+    "zh_name": "白面包",
+    "aliases": [
+      "white_bread",
+      "白面包"
+    ]
+  },
+  "orange_oil": {
+    "zh_name": "橙油",
+    "aliases": [
+      "orange_oil",
+      "橙油"
+    ]
+  },
+  "yam": {
+    "zh_name": "薯",
+    "aliases": [
+      "yam",
+      "薯"
+    ]
+  },
+  "melaleuca_smithii": {
+    "zh_name": "Melaleuca Smithii",
+    "aliases": [
+      "melaleuca_smithii",
+      "Melaleuca Smithii"
+    ]
+  },
+  "anise": {
+    "zh_name": "八角",
+    "aliases": [
+      "anise",
+      "八角"
+    ]
+  },
+  "american_potato_chip": {
+    "zh_name": "美国土豆片",
+    "aliases": [
+      "american_potato_chip",
+      "美国土豆片"
+    ]
+  },
+  "mandarin_leaf_oil": {
+    "zh_name": "普通话叶油",
+    "aliases": [
+      "mandarin_leaf_oil",
+      "普通话叶油"
+    ]
+  },
+  "java_citronella": {
+    "zh_name": "Java Citronella",
+    "aliases": [
+      "java_citronella",
+      "Java Citronella"
+    ]
+  },
+  "clary_sage_bush": {
+    "zh_name": "克拉里·贤者灌木丛",
+    "aliases": [
+      "clary_sage_bush",
+      "克拉里·贤者灌木丛"
+    ]
+  },
+  "star_anise_oil": {
+    "zh_name": "星空油",
+    "aliases": [
+      "star_anise_oil",
+      "星空油"
+    ]
+  },
+  "cabreuva": {
+    "zh_name": "卡布鲁瓦",
+    "aliases": [
+      "cabreuva",
+      "卡布鲁瓦"
+    ]
+  },
+  "spanish_origanum_oil": {
+    "zh_name": "西班牙原始油",
+    "aliases": [
+      "spanish_origanum_oil",
+      "西班牙原始油"
+    ]
+  },
+  "raw_lamb": {
+    "zh_name": "生羔羊",
+    "aliases": [
+      "raw_lamb",
+      "生羔羊"
+    ]
+  },
+  "sauerkraut": {
+    "zh_name": "酸菜",
+    "aliases": [
+      "sauerkraut",
+      "酸菜"
+    ]
+  },
+  "rice_bran": {
+    "zh_name": "米麸",
+    "aliases": [
+      "rice_bran",
+      "米麸"
+    ]
+  },
+  "elsholtzia_argyi": {
+    "zh_name": "Elsholtzia Argyi",
+    "aliases": [
+      "elsholtzia_argyi",
+      "Elsholtzia Argyi"
+    ]
+  },
+  "elder_flower": {
+    "zh_name": "老花",
+    "aliases": [
+      "elder_flower",
+      "老花"
+    ]
+  },
+  "palmarosa": {
+    "zh_name": "帕尔马罗萨",
+    "aliases": [
+      "palmarosa",
+      "帕尔马罗萨"
+    ]
+  },
+  "sherry_wine": {
+    "zh_name": "雪利酒",
+    "aliases": [
+      "sherry_wine",
+      "雪利酒"
+    ]
+  },
+  "mandarin_peel_oil": {
+    "zh_name": "普通话果皮油",
+    "aliases": [
+      "mandarin_peel_oil",
+      "普通话果皮油"
+    ]
+  },
+  "cream": {
+    "zh_name": "奶油",
+    "aliases": [
+      "cream",
+      "奶油"
+    ]
+  },
+  "angelica": {
+    "zh_name": "当归",
+    "aliases": [
+      "angelica",
+      "当归"
+    ]
+  },
+  "basil_oil": {
+    "zh_name": "罗勒油",
+    "aliases": [
+      "basil_oil",
+      "罗勒油"
+    ]
+  },
+  "pinus_jeffreyi_terpentine": {
+    "zh_name": "Pinus Jeffreyi Terpentine",
+    "aliases": [
+      "pinus_jeffreyi_terpentine",
+      "Pinus Jeffreyi Terpentine"
+    ]
+  },
+  "verbena_oil": {
+    "zh_name": "马语油",
+    "aliases": [
+      "verbena_oil",
+      "马语油"
+    ]
+  },
+  "roasted_almond": {
+    "zh_name": "烤杏仁",
+    "aliases": [
+      "roasted_almond",
+      "烤杏仁"
+    ]
+  },
+  "monarda_punctata": {
+    "zh_name": "Monarda Punctata",
+    "aliases": [
+      "monarda_punctata",
+      "Monarda Punctata"
+    ]
+  },
+  "orris": {
+    "zh_name": "奥里斯",
+    "aliases": [
+      "orris",
+      "奥里斯"
+    ]
+  },
+  "clary_sage_oil": {
+    "zh_name": "克拉里鼠尾草油",
+    "aliases": [
+      "clary_sage_oil",
+      "克拉里鼠尾草油"
+    ]
+  },
+  "larix": {
+    "zh_name": "Larix",
+    "aliases": [
+      "larix",
+      "Larix"
+    ]
+  },
+  "wax_jambu": {
+    "zh_name": "蜡袋",
+    "aliases": [
+      "wax_jambu",
+      "蜡袋"
+    ]
+  },
+  "pear": {
+    "zh_name": "梨",
+    "aliases": [
+      "pear",
+      "梨"
+    ]
+  },
+  "dill_seed": {
+    "zh_name": "莳萝种子",
+    "aliases": [
+      "dill_seed",
+      "莳萝种子"
+    ]
+  },
+  "brandy": {
+    "zh_name": "白兰地",
+    "aliases": [
+      "brandy",
+      "白兰地"
+    ]
+  },
+  "butter_oil": {
+    "zh_name": "黄油油",
+    "aliases": [
+      "butter_oil",
+      "黄油油"
+    ]
+  },
+  "monkey_orange": {
+    "zh_name": "猴子橙",
+    "aliases": [
+      "monkey_orange",
+      "猴子橙"
+    ]
+  },
+  "oregano_oil": {
+    "zh_name": "牛至油",
+    "aliases": [
+      "oregano_oil",
+      "牛至油"
+    ]
+  },
+  "globefish": {
+    "zh_name": "Globefish",
+    "aliases": [
+      "globefish",
+      "Globefish"
+    ]
+  },
+  "roasted_turkey": {
+    "zh_name": "烤火鸡",
+    "aliases": [
+      "roasted_turkey",
+      "烤火鸡"
+    ]
+  },
+  "lemon_balm": {
+    "zh_name": "柠檬香脂",
+    "aliases": [
+      "lemon_balm",
+      "柠檬香脂"
+    ]
+  },
+  "rosa_borbonica": {
+    "zh_name": "罗莎·博尔伯尼卡（Rosa Borbonica）",
+    "aliases": [
+      "rosa_borbonica",
+      "罗莎·博尔伯尼卡（Rosa Borbonica）"
+    ]
+  },
+  "cinnamomum_camphora": {
+    "zh_name": "Cinnamomum Camphora",
+    "aliases": [
+      "cinnamomum_camphora",
+      "Cinnamomum Camphora"
+    ]
+  },
+  "brussels_sprout": {
+    "zh_name": "布鲁塞尔新芽",
+    "aliases": [
+      "brussels_sprout",
+      "布鲁塞尔新芽"
+    ]
+  },
+  "spanish_sage": {
+    "zh_name": "西班牙鼠尾草",
+    "aliases": [
+      "spanish_sage",
+      "西班牙鼠尾草"
+    ]
+  },
+  "cananga": {
+    "zh_name": "cananga",
+    "aliases": [
+      "cananga",
+      "cananga"
+    ]
+  },
+  "parmesan": {
+    "zh_name": "帕尔马干酪",
+    "aliases": [
+      "parmesan",
+      "帕尔马干酪"
+    ]
+  },
+  "porcini": {
+    "zh_name": "猪",
+    "aliases": [
+      "porcini",
+      "猪"
+    ]
+  },
+  "roman_chamomile": {
+    "zh_name": "罗马洋甘菊",
+    "aliases": [
+      "roman_chamomile",
+      "罗马洋甘菊"
+    ]
+  },
+  "ginger_oil": {
+    "zh_name": "生姜油",
+    "aliases": [
+      "ginger_oil",
+      "生姜油"
+    ]
+  },
+  "dairy": {
+    "zh_name": "奶制品",
+    "aliases": [
+      "dairy",
+      "奶制品"
+    ]
+  },
+  "pickled_ham": {
+    "zh_name": "腌火腿",
+    "aliases": [
+      "pickled_ham",
+      "腌火腿"
+    ]
+  },
+  "litsea_cubeba_fruit": {
+    "zh_name": "Litsea Cubeba水果",
+    "aliases": [
+      "litsea_cubeba_fruit",
+      "Litsea Cubeba水果"
+    ]
+  },
+  "lima_bean": {
+    "zh_name": "利马豆",
+    "aliases": [
+      "lima_bean",
+      "利马豆"
+    ]
+  },
+  "gardenia_flower_oil": {
+    "zh_name": "Gardenia花油",
+    "aliases": [
+      "gardenia_flower_oil",
+      "Gardenia花油"
+    ]
+  },
+  "helichrysum_italicum": {
+    "zh_name": "helichrysum italicum",
+    "aliases": [
+      "helichrysum_italicum",
+      "helichrysum italicum"
+    ]
+  },
+  "kidney_bean": {
+    "zh_name": "菜豆",
+    "aliases": [
+      "kidney_bean",
+      "菜豆"
+    ]
+  },
+  "vitis_labrusca": {
+    "zh_name": "乌布鲁斯卡郡",
+    "aliases": [
+      "vitis_labrusca",
+      "乌布鲁斯卡郡"
+    ]
+  },
+  "apple_brandy": {
+    "zh_name": "苹果白兰地",
+    "aliases": [
+      "apple_brandy",
+      "苹果白兰地"
+    ]
+  },
+  "mexican_goosefoot": {
+    "zh_name": "墨西哥鹅",
+    "aliases": [
+      "mexican_goosefoot",
+      "墨西哥鹅"
+    ]
+  },
+  "pickled_plum": {
+    "zh_name": "腌李子",
+    "aliases": [
+      "pickled_plum",
+      "腌李子"
+    ]
+  },
+  "dacrydium_colensoi": {
+    "zh_name": "Dacrydium colensoi",
+    "aliases": [
+      "dacrydium_colensoi",
+      "Dacrydium colensoi"
+    ]
+  },
+  "cinnamon_oil": {
+    "zh_name": "肉桂油",
+    "aliases": [
+      "cinnamon_oil",
+      "肉桂油"
+    ]
+  },
+  "snap_bean": {
+    "zh_name": "快点",
+    "aliases": [
+      "snap_bean",
+      "快点"
+    ]
+  },
+  "egg_noodle": {
+    "zh_name": "鸡蛋面",
+    "aliases": [
+      "egg_noodle",
+      "鸡蛋面"
+    ]
+  },
+  "michelia_champaca_oil": {
+    "zh_name": "米其里亚·尚卡油",
+    "aliases": [
+      "michelia_champaca_oil",
+      "米其里亚·尚卡油"
+    ]
+  },
+  "borosma_pulchellum": {
+    "zh_name": "硼骨",
+    "aliases": [
+      "borosma_pulchellum",
+      "硼骨"
+    ]
+  },
+  "papaver_somniferum": {
+    "zh_name": "爸爸Somniferum",
+    "aliases": [
+      "papaver_somniferum",
+      "爸爸Somniferum"
+    ]
+  },
+  "bay_laurel_oil": {
+    "zh_name": "海湾桂油",
+    "aliases": [
+      "bay_laurel_oil",
+      "海湾桂油"
+    ]
+  },
+  "lovage_leaf": {
+    "zh_name": "Lovage Leaf",
+    "aliases": [
+      "lovage_leaf",
+      "Lovage Leaf"
+    ]
+  },
+  "wallflower": {
+    "zh_name": "壁花",
+    "aliases": [
+      "wallflower",
+      "壁花"
+    ]
+  },
+  "ethiopian_pepper": {
+    "zh_name": "埃塞俄比亚胡椒",
+    "aliases": [
+      "ethiopian_pepper",
+      "埃塞俄比亚胡椒"
+    ]
+  },
+  "tea": {
+    "zh_name": "茶",
+    "aliases": [
+      "tea",
+      "茶"
+    ]
+  },
+  "plum_brandy": {
+    "zh_name": "梅花白兰地",
+    "aliases": [
+      "plum_brandy",
+      "梅花白兰地"
+    ]
+  },
+  "phallus_impudicus": {
+    "zh_name": "阴茎伊斯基库",
+    "aliases": [
+      "phallus_impudicus",
+      "阴茎伊斯基库"
+    ]
+  },
+  "bergamot": {
+    "zh_name": "佛手柑",
+    "aliases": [
+      "bergamot",
+      "佛手柑"
+    ]
+  },
+  "lavender_vera_oil": {
+    "zh_name": "薰衣草维拉油",
+    "aliases": [
+      "lavender_vera_oil",
+      "薰衣草维拉油"
+    ]
+  },
+  "nigra_oil": {
+    "zh_name": "尼格拉油",
+    "aliases": [
+      "nigra_oil",
+      "尼格拉油"
+    ]
+  },
+  "guava": {
+    "zh_name": "番石榴",
+    "aliases": [
+      "guava",
+      "番石榴"
+    ]
+  },
+  "bisabol_myrrh": {
+    "zh_name": "Bisabol没药",
+    "aliases": [
+      "bisabol_myrrh",
+      "Bisabol没药"
+    ]
+  },
+  "japanese_seafood": {
+    "zh_name": "日本海鲜",
+    "aliases": [
+      "japanese_seafood",
+      "日本海鲜"
+    ]
+  },
+  "pinus_jeffreyi": {
+    "zh_name": "Pinus Jeffreyi",
+    "aliases": [
+      "pinus_jeffreyi",
+      "Pinus Jeffreyi"
+    ]
+  },
+  "lantana_camara_oil": {
+    "zh_name": "Lantana Camara油",
+    "aliases": [
+      "lantana_camara_oil",
+      "Lantana Camara油"
+    ]
+  },
+  "black_tea_oil": {
+    "zh_name": "红茶油",
+    "aliases": [
+      "black_tea_oil",
+      "红茶油"
+    ]
+  },
+  "grapefruit_juice": {
+    "zh_name": "葡萄柚汁",
+    "aliases": [
+      "grapefruit_juice",
+      "葡萄柚汁"
+    ]
+  },
+  "artemisia_cina": {
+    "zh_name": "阿耳emisia cina",
+    "aliases": [
+      "artemisia_cina",
+      "阿耳emisia cina"
+    ]
+  },
+  "chamaecyparis_lawsoniana": {
+    "zh_name": "Chamaecyparis Lawsoniana",
+    "aliases": [
+      "chamaecyparis_lawsoniana",
+      "Chamaecyparis Lawsoniana"
+    ]
+  },
+  "dried_fig": {
+    "zh_name": "干图",
+    "aliases": [
+      "dried_fig",
+      "干图"
+    ]
+  },
+  "french_peppermint_oil": {
+    "zh_name": "法国薄荷油",
+    "aliases": [
+      "french_peppermint_oil",
+      "法国薄荷油"
+    ]
+  },
+  "grapefruit_blossom": {
+    "zh_name": "葡萄柚开花",
+    "aliases": [
+      "grapefruit_blossom",
+      "葡萄柚开花"
+    ]
+  },
+  "eucalyptus_microcorys_leaf_oil": {
+    "zh_name": "桉树微社会叶油",
+    "aliases": [
+      "eucalyptus_microcorys_leaf_oil",
+      "桉树微社会叶油"
+    ]
+  },
+  "datura_stramonium": {
+    "zh_name": "Datura Stramonium",
+    "aliases": [
+      "datura_stramonium",
+      "Datura Stramonium"
+    ]
+  },
+  "neroli": {
+    "zh_name": "Neroli",
+    "aliases": [
+      "neroli",
+      "Neroli"
+    ]
+  },
+  "pinus_communis_oil": {
+    "zh_name": "Pinus Communis Oil",
+    "aliases": [
+      "pinus_communis_oil",
+      "Pinus Communis Oil"
+    ]
+  },
+  "melaleuca_bracteata": {
+    "zh_name": "Melaleuca bracteata",
+    "aliases": [
+      "melaleuca_bracteata",
+      "Melaleuca bracteata"
+    ]
+  },
+  "mulberry_leaf": {
+    "zh_name": "桑叶叶",
+    "aliases": [
+      "mulberry_leaf",
+      "桑叶叶"
+    ]
+  },
+  "grape_syrup": {
+    "zh_name": "葡萄糖浆",
+    "aliases": [
+      "grape_syrup",
+      "葡萄糖浆"
+    ]
+  },
+  "lauraceae": {
+    "zh_name": "月桂科",
+    "aliases": [
+      "lauraceae",
+      "月桂科"
+    ]
+  },
+  "heracleum_villosum_oil": {
+    "zh_name": "Heracleum Villosum油",
+    "aliases": [
+      "heracleum_villosum_oil",
+      "Heracleum Villosum油"
+    ]
+  },
+  "dwarf_pine": {
+    "zh_name": "矮人松树",
+    "aliases": [
+      "dwarf_pine",
+      "矮人松树"
+    ]
+  },
+  "dalbergia_sissoo": {
+    "zh_name": "Dalbergia Sissoo",
+    "aliases": [
+      "dalbergia_sissoo",
+      "Dalbergia Sissoo"
+    ]
+  },
+  "roquefort_cheese": {
+    "zh_name": "Roquefort奶酪",
+    "aliases": [
+      "roquefort_cheese",
+      "Roquefort奶酪"
+    ]
+  },
+  "lingonberry_juice": {
+    "zh_name": "Lingonberry Juice",
+    "aliases": [
+      "lingonberry_juice",
+      "Lingonberry Juice"
+    ]
+  },
+  "fish_oil": {
+    "zh_name": "鱼油",
+    "aliases": [
+      "fish_oil",
+      "鱼油"
+    ]
+  },
+  "castoreum_oil": {
+    "zh_name": "卡斯特罗姆油",
+    "aliases": [
+      "castoreum_oil",
+      "卡斯特罗姆油"
+    ]
+  },
+  "hevea_brasiliensis_flower": {
+    "zh_name": "hevea brasiliensis花",
+    "aliases": [
+      "hevea_brasiliensis_flower",
+      "hevea brasiliensis花"
+    ]
+  },
+  "herring": {
+    "zh_name": "鲱鱼",
+    "aliases": [
+      "herring",
+      "鲱鱼"
+    ]
+  },
+  "crownberry": {
+    "zh_name": "Crownberry",
+    "aliases": [
+      "crownberry",
+      "Crownberry"
+    ]
+  },
+  "lean_fish": {
+    "zh_name": "瘦鱼",
+    "aliases": [
+      "lean_fish",
+      "瘦鱼"
+    ]
+  },
+  "ambrette_seed_oil": {
+    "zh_name": "Ambrette种子油",
+    "aliases": [
+      "ambrette_seed_oil",
+      "Ambrette种子油"
+    ]
+  },
+  "currant_leaf": {
+    "zh_name": "醋栗叶",
+    "aliases": [
+      "currant_leaf",
+      "醋栗叶"
+    ]
+  },
+  "prunus_laurocerasus": {
+    "zh_name": "Prunus laurocerasus",
+    "aliases": [
+      "prunus_laurocerasus",
+      "Prunus laurocerasus"
+    ]
+  },
+  "east_african_geranium": {
+    "zh_name": "东非天竺葵",
+    "aliases": [
+      "east_african_geranium",
+      "东非天竺葵"
+    ]
+  },
+  "bitter_orange_oil": {
+    "zh_name": "苦橙油",
+    "aliases": [
+      "bitter_orange_oil",
+      "苦橙油"
+    ]
+  },
+  "loquat": {
+    "zh_name": "枇杷",
+    "aliases": [
+      "loquat",
+      "枇杷"
+    ]
+  },
+  "agaricus": {
+    "zh_name": "口蘑",
+    "aliases": [
+      "agaricus",
+      "口蘑",
+      "蘑菇"
+    ]
+  },
+  "krill": {
+    "zh_name": "磷虾",
+    "aliases": [
+      "krill",
+      "磷虾"
+    ]
+  },
+  "marjoram_oil": {
+    "zh_name": "马郁兰精油",
+    "aliases": [
+      "marjoram_oil",
+      "马郁兰精油",
+      "马郁兰油"
+    ]
+  },
+  "citrus_fruit_blossom": {
+    "zh_name": "柑橘花",
+    "aliases": [
+      "citrus_fruit_blossom",
+      "柑橘花",
+      "橙花"
+    ]
+  },
+  "hinoki": {
+    "zh_name": "日本扁柏",
+    "aliases": [
+      "hinoki",
+      "日本扁柏",
+      "桧木"
+    ]
+  },
+  "malt": {
+    "zh_name": "麦芽",
+    "aliases": [
+      "malt",
+      "麦芽"
+    ]
+  },
+  "enokidake": {
+    "zh_name": "金针菇",
+    "aliases": [
+      "enokidake",
+      "金针菇"
+    ]
+  },
+  "hedychium_spicatum": {
+    "zh_name": "穗花姜花",
+    "aliases": [
+      "hedychium_spicatum",
+      "穗花姜花"
+    ]
+  },
+  "thea_chinensis_oil": {
+    "zh_name": "茶油",
+    "aliases": [
+      "thea_chinensis_oil",
+      "茶油",
+      "茶籽油"
+    ]
+  },
+  "eucalyptus_globulus_oil": {
+    "zh_name": "蓝桉精油",
+    "aliases": [
+      "eucalyptus_globulus_oil",
+      "蓝桉精油",
+      "蓝胶尤加利精油"
+    ]
+  },
+  "copaiba_balsam": {
+    "zh_name": "古巴香脂",
+    "aliases": [
+      "copaiba_balsam",
+      "古巴香脂",
+      "科派巴香脂"
+    ]
+  },
+  "american_pennyroyal": {
+    "zh_name": "美国胡薄荷",
+    "aliases": [
+      "american_pennyroyal",
+      "美国胡薄荷"
+    ]
+  },
+  "durian": {
+    "zh_name": "榴莲",
+    "aliases": [
+      "durian",
+      "榴莲"
+    ]
+  },
+  "ormenis_multicaulis": {
+    "zh_name": "摩洛哥洋甘菊",
+    "aliases": [
+      "ormenis_multicaulis",
+      "摩洛哥洋甘菊",
+      "野洋甘菊"
+    ]
+  },
+  "temoe_lawak": {
+    "zh_name": "爪哇姜黄",
+    "aliases": [
+      "temoe_lawak",
+      "爪哇姜黄"
+    ]
+  },
+  "ledum_palustre_oil": {
+    "zh_name": "杜香精油",
+    "aliases": [
+      "ledum_palustre_oil",
+      "杜香精油",
+      "杜香油"
+    ]
+  },
+  "juniperus_chinensis_oil": {
+    "zh_name": "桧柏精油",
+    "aliases": [
+      "juniperus_chinensis_oil",
+      "桧柏精油",
+      "圆柏精油"
+    ]
+  },
+  "chamaecyparis_formosensis_root_oil": {
+    "zh_name": "台湾红桧根部精油",
+    "aliases": [
+      "chamaecyparis_formosensis_root_oil",
+      "台湾红桧根部精油",
+      "红桧根油"
+    ]
+  },
+  "plant": {
+    "zh_name": "植物",
+    "aliases": [
+      "plant",
+      "植物"
+    ]
+  },
+  "zanthoxylum_piperitum_fruit_oil": {
+    "zh_name": "山椒果精油",
+    "aliases": [
+      "zanthoxylum_piperitum_fruit_oil",
+      "山椒果精油",
+      "日本花椒果油"
+    ]
+  },
+  "larix_americana": {
+    "zh_name": "美洲落叶松",
+    "aliases": [
+      "larix_americana",
+      "美洲落叶松"
+    ]
+  },
+  "caucas": {
+    "zh_name": "高加索植物",
+    "aliases": [
+      "caucas",
+      "高加索植物",
+      "高加索地区原料"
+    ]
+  },
+  "eucalyptus_macarthuri_oil": {
+    "zh_name": "桉树油",
+    "aliases": [
+      "eucalyptus_macarthuri_oil",
+      "桉树油"
+    ]
+  },
+  "mangosteen": {
+    "zh_name": "芒格斯汀",
+    "aliases": [
+      "mangosteen",
+      "芒格斯汀"
+    ]
+  },
+  "bulgarian_rose": {
+    "zh_name": "保加利亚玫瑰",
+    "aliases": [
+      "bulgarian_rose",
+      "保加利亚玫瑰"
+    ]
+  },
+  "mentha_longifolia_oil": {
+    "zh_name": "Mentha Longifolia油",
+    "aliases": [
+      "mentha_longifolia_oil",
+      "Mentha Longifolia油"
+    ]
+  },
+  "roasted_lamb": {
+    "zh_name": "烤全羊",
+    "aliases": [
+      "roasted_lamb",
+      "烤全羊"
+    ]
+  },
+  "hoary_basil_leaf_oil": {
+    "zh_name": "ho",
+    "aliases": [
+      "hoary_basil_leaf_oil",
+      "ho"
+    ]
+  },
+  "muscat_grape": {
+    "zh_name": "马斯喀特葡萄",
+    "aliases": [
+      "muscat_grape",
+      "马斯喀特葡萄"
+    ]
+  },
+  "phebalium_dentatum": {
+    "zh_name": "牙本质",
+    "aliases": [
+      "phebalium_dentatum",
+      "牙本质"
+    ]
+  },
+  "egg": {
+    "zh_name": "蛋",
+    "aliases": [
+      "egg",
+      "蛋"
+    ]
+  },
+  "turmeric": {
+    "zh_name": "姜黄",
+    "aliases": [
+      "turmeric",
+      "姜黄"
+    ]
+  },
+  "laurel_leaf_oil": {
+    "zh_name": "月桂树叶油",
+    "aliases": [
+      "laurel_leaf_oil",
+      "月桂树叶油"
+    ]
+  },
+  "pinus_sylvestris_oil": {
+    "zh_name": "Pinus Sylvestris Oil",
+    "aliases": [
+      "pinus_sylvestris_oil",
+      "Pinus Sylvestris Oil"
+    ]
+  },
+  "siberian_pine_needle_oil": {
+    "zh_name": "西伯利亚松针油",
+    "aliases": [
+      "siberian_pine_needle_oil",
+      "西伯利亚松针油"
+    ]
+  },
+  "seychelles_tea": {
+    "zh_name": "塞舌尔茶",
+    "aliases": [
+      "seychelles_tea",
+      "塞舌尔茶"
+    ]
+  },
+  "curcuma_aromatica": {
+    "zh_name": "Curcuma芳香族",
+    "aliases": [
+      "curcuma_aromatica",
+      "Curcuma芳香族"
+    ]
+  },
+  "corn_salad": {
+    "zh_name": "玉米沙拉",
+    "aliases": [
+      "corn_salad",
+      "玉米沙拉"
+    ]
+  },
+  "cajeput": {
+    "zh_name": "Cajeput",
+    "aliases": [
+      "cajeput",
+      "Cajeput"
+    ]
+  },
+  "katsuobushi": {
+    "zh_name": "Katsuobushi",
+    "aliases": [
+      "katsuobushi",
+      "Katsuobushi"
+    ]
+  },
+  "raw_beef": {
+    "zh_name": "生牛肉",
+    "aliases": [
+      "raw_beef",
+      "生牛肉"
+    ],
+    "base_ingredient": "beef"
+  },
+  "south_african_mentha_longifolia": {
+    "zh_name": "南非Mentha Longifolia",
+    "aliases": [
+      "south_african_mentha_longifolia",
+      "南非Mentha Longifolia"
+    ]
+  },
+  "mutton_liver": {
+    "zh_name": "羊肉肝",
+    "aliases": [
+      "mutton_liver",
+      "羊肉肝"
+    ]
+  },
+  "smoked_fish": {
+    "zh_name": "烟熏鱼",
+    "aliases": [
+      "smoked_fish",
+      "烟熏鱼"
+    ]
+  },
+  "burley_tobacco_oil": {
+    "zh_name": "Burley烟油",
+    "aliases": [
+      "burley_tobacco_oil",
+      "Burley烟油"
+    ]
+  },
+  "nobiru": {
+    "zh_name": "Nobiru",
+    "aliases": [
+      "nobiru",
+      "Nobiru"
+    ]
+  },
+  "tsuga_canadensis": {
+    "zh_name": "tsuga canadensis",
+    "aliases": [
+      "tsuga_canadensis",
+      "tsuga canadensis"
+    ]
+  },
+  "orthodon_citraliferum": {
+    "zh_name": "正极citralifum",
+    "aliases": [
+      "orthodon_citraliferum",
+      "正极citralifum"
+    ]
+  },
+  "skim_milk": {
+    "zh_name": "脱脂牛奶",
+    "aliases": [
+      "skim_milk",
+      "脱脂牛奶"
+    ]
+  },
+  "wasabi": {
+    "zh_name": "芥末",
+    "aliases": [
+      "wasabi",
+      "芥末"
+    ]
+  },
+  "vitis_labrusca_juice": {
+    "zh_name": "Vitis labrusca果汁",
+    "aliases": [
+      "vitis_labrusca_juice",
+      "Vitis labrusca果汁"
+    ]
+  },
+  "bulgarian_peppermint": {
+    "zh_name": "保加利亚薄荷",
+    "aliases": [
+      "bulgarian_peppermint",
+      "保加利亚薄荷"
+    ]
+  },
+  "muskmelon": {
+    "zh_name": "甜瓜",
+    "aliases": [
+      "muskmelon",
+      "甜瓜"
+    ]
+  },
+  "phebalium_dentatum_leaf": {
+    "zh_name": "牙本质叶片",
+    "aliases": [
+      "phebalium_dentatum_leaf",
+      "牙本质叶片"
+    ]
+  },
+  "corn_tortilla": {
+    "zh_name": "玉米饼",
+    "aliases": [
+      "corn_tortilla",
+      "玉米饼"
+    ]
+  },
+  "juniper_berry": {
+    "zh_name": "杜松浆果",
+    "aliases": [
+      "juniper_berry",
+      "杜松浆果"
+    ]
+  },
+  "vetiver": {
+    "zh_name": "香根草",
+    "aliases": [
+      "vetiver",
+      "香根草"
+    ]
+  },
+  "chicken_broth": {
+    "zh_name": "鸡肉汤",
+    "aliases": [
+      "chicken_broth",
+      "鸡肉汤"
+    ]
+  },
+  "zanthoxylum_rhetsa": {
+    "zh_name": "Zanthoxylum rhetsa",
+    "aliases": [
+      "zanthoxylum_rhetsa",
+      "Zanthoxylum rhetsa"
+    ]
+  },
+  "boronia_ledifolia_leaf": {
+    "zh_name": "Boronia Ledifolia叶",
+    "aliases": [
+      "boronia_ledifolia_leaf",
+      "Boronia Ledifolia叶"
+    ]
+  },
+  "fish": {
+    "zh_name": "鱼",
+    "aliases": [
+      "fish",
+      "鱼"
+    ]
+  },
+  "elsholtzia_ciliata_oil": {
+    "zh_name": "Elsholtzia ciliata油",
+    "aliases": [
+      "elsholtzia_ciliata_oil",
+      "Elsholtzia ciliata油"
+    ]
+  },
+  "ruta_pinnata_leaf_oil": {
+    "zh_name": "ruta pinnata叶油",
+    "aliases": [
+      "ruta_pinnata_leaf_oil",
+      "ruta pinnata叶油"
+    ]
+  },
+  "apricot_kernel": {
+    "zh_name": "杏核",
+    "aliases": [
+      "apricot_kernel",
+      "杏核"
+    ]
+  },
+  "lemongrass": {
+    "zh_name": "香茅",
+    "aliases": [
+      "lemongrass",
+      "香茅"
+    ]
+  },
+  "flower": {
+    "zh_name": "花",
+    "aliases": [
+      "flower",
+      "花"
+    ]
+  },
+  "garcia_mangostana": {
+    "zh_name": "Garcia Mangostana",
+    "aliases": [
+      "garcia_mangostana",
+      "Garcia Mangostana"
+    ]
+  },
+  "carob_fruit": {
+    "zh_name": "角豆水果",
+    "aliases": [
+      "carob_fruit",
+      "角豆水果"
+    ]
+  },
+  "roasted_nut": {
+    "zh_name": "烤坚果",
+    "aliases": [
+      "roasted_nut",
+      "烤坚果"
+    ]
+  },
+  "rhus_semialata": {
+    "zh_name": "Rhus semialata",
+    "aliases": [
+      "rhus_semialata",
+      "Rhus semialata"
+    ]
+  },
+  "bilberry_wine": {
+    "zh_name": "仅只礼葡萄酒",
+    "aliases": [
+      "bilberry_wine",
+      "仅只礼葡萄酒"
+    ]
+  },
+  "quince": {
+    "zh_name": "桲",
+    "aliases": [
+      "quince",
+      "桲"
+    ]
+  },
+  "spike_oil": {
+    "zh_name": "穗油",
+    "aliases": [
+      "spike_oil",
+      "穗油"
+    ]
+  },
+  "benzoin_resin": {
+    "zh_name": "苯并树脂",
+    "aliases": [
+      "benzoin_resin",
+      "苯并树脂"
+    ]
+  },
+  "cockroach": {
+    "zh_name": "蟑螂",
+    "aliases": [
+      "cockroach",
+      "蟑螂"
+    ]
+  },
+  "eucalyptus_macarthurii": {
+    "zh_name": "Eucalyptus MacArthurii",
+    "aliases": [
+      "eucalyptus_macarthurii",
+      "Eucalyptus MacArthurii"
+    ]
+  },
+  "cherimoya": {
+    "zh_name": "Cherimoya",
+    "aliases": [
+      "cherimoya",
+      "Cherimoya"
+    ]
+  },
+  "tobacco_leaf": {
+    "zh_name": "烟叶",
+    "aliases": [
+      "tobacco_leaf",
+      "烟叶"
+    ]
+  },
+  "algae": {
+    "zh_name": "藻类",
+    "aliases": [
+      "algae",
+      "藻类"
+    ]
+  },
+  "petitgrain_bergamot": {
+    "zh_name": "佛手柑叶精油",
+    "aliases": [
+      "petitgrain_bergamot",
+      "佛手柑叶精油"
+    ]
+  },
+  "concord_grape": {
+    "zh_name": "协和葡萄",
+    "aliases": [
+      "concord_grape",
+      "协和葡萄"
+    ]
+  },
+  "rice_husk": {
+    "zh_name": "稻壳",
+    "aliases": [
+      "rice_husk",
+      "稻壳"
+    ]
+  },
+  "eucalyptus_polibrac_tea_oil": {
+    "zh_name": "桉树polibrac茶油",
+    "aliases": [
+      "eucalyptus_polibrac_tea_oil",
+      "桉树polibrac茶油"
+    ]
+  },
+  "sweet_basil": {
+    "zh_name": "甜罗勒",
+    "aliases": [
+      "sweet_basil",
+      "甜罗勒"
+    ]
+  },
+  "cloudberry": {
+    "zh_name": "Cloudberry",
+    "aliases": [
+      "cloudberry",
+      "Cloudberry"
+    ]
+  },
+  "coffee_flower": {
+    "zh_name": "咖啡花",
+    "aliases": [
+      "coffee_flower",
+      "咖啡花"
+    ]
+  },
+  "fumaria_officinalis": {
+    "zh_name": "Fumaria officinalis",
+    "aliases": [
+      "fumaria_officinalis",
+      "Fumaria officinalis"
+    ]
+  },
+  "russian_peppermint_oil": {
+    "zh_name": "俄罗斯薄荷油",
+    "aliases": [
+      "russian_peppermint_oil",
+      "俄罗斯薄荷油"
+    ]
+  },
+  "pennyroyal_oil": {
+    "zh_name": "Pennyroyal油",
+    "aliases": [
+      "pennyroyal_oil",
+      "Pennyroyal油"
+    ]
+  },
+  "japanese_hop": {
+    "zh_name": "日本跳",
+    "aliases": [
+      "japanese_hop",
+      "日本跳"
+    ]
+  },
+  "black_tea": {
+    "zh_name": "红茶",
+    "aliases": [
+      "black_tea",
+      "红茶"
+    ]
+  },
+  "narcissus": {
+    "zh_name": "水仙",
+    "aliases": [
+      "narcissus",
+      "水仙"
+    ]
+  },
+  "mountain_papaya": {
+    "zh_name": "山木瓜",
+    "aliases": [
+      "mountain_papaya",
+      "山木瓜"
+    ]
+  },
+  "juniperus_sabina": {
+    "zh_name": "Sabina Juniperus",
+    "aliases": [
+      "juniperus_sabina",
+      "Sabina Juniperus"
+    ]
+  },
+  "orange_flower": {
+    "zh_name": "橙花",
+    "aliases": [
+      "orange_flower",
+      "橙花"
+    ]
+  },
+  "myrocarpus_frondosus": {
+    "zh_name": "myrocarpus frondosus",
+    "aliases": [
+      "myrocarpus_frondosus",
+      "myrocarpus frondosus"
+    ]
+  },
+  "smoked_pork_belly": {
+    "zh_name": "熏制猪肚",
+    "aliases": [
+      "smoked_pork_belly",
+      "熏制猪肚"
+    ]
+  },
+  "scallion": {
+    "zh_name": "葱",
+    "aliases": [
+      "scallion",
+      "葱"
+    ]
+  },
+  "melaleuca_trichostachya_oil": {
+    "zh_name": "Melaleuca Trichostachya油",
+    "aliases": [
+      "melaleuca_trichostachya_oil",
+      "Melaleuca Trichostachya油"
+    ]
+  },
+  "wintergreen_oil": {
+    "zh_name": "冬绿色油",
+    "aliases": [
+      "wintergreen_oil",
+      "冬绿色油"
+    ]
+  },
+  "banana": {
+    "zh_name": "香蕉",
+    "aliases": [
+      "banana",
+      "香蕉"
+    ]
+  },
+  "eucalyptus": {
+    "zh_name": "桉树",
+    "aliases": [
+      "eucalyptus",
+      "桉树"
+    ]
+  },
+  "dried_parsley": {
+    "zh_name": "干欧芹",
+    "aliases": [
+      "dried_parsley",
+      "干欧芹"
+    ]
+  },
+  "beechwood_tar": {
+    "zh_name": "比奇伍德焦油",
+    "aliases": [
+      "beechwood_tar",
+      "比奇伍德焦油"
+    ]
+  },
+  "lavandin_oil": {
+    "zh_name": "Lavandin油",
+    "aliases": [
+      "lavandin_oil",
+      "Lavandin油"
+    ]
+  },
+  "gruyere_cheese": {
+    "zh_name": "Gruyere奶酪",
+    "aliases": [
+      "gruyere_cheese",
+      "Gruyere奶酪"
+    ]
+  },
+  "blackberry_brandy": {
+    "zh_name": "黑莓白兰地",
+    "aliases": [
+      "blackberry_brandy",
+      "黑莓白兰地"
+    ]
+  },
+  "haddock": {
+    "zh_name": "黑线狗",
+    "aliases": [
+      "haddock",
+      "黑线狗"
+    ]
+  },
+  "trametes_graveolens": {
+    "zh_name": "Trametes Gravolens",
+    "aliases": [
+      "trametes_graveolens",
+      "Trametes Gravolens"
+    ]
+  },
+  "piper_chaba": {
+    "zh_name": "派珀·查巴（Piper Chaba）",
+    "aliases": [
+      "piper_chaba",
+      "派珀·查巴（Piper Chaba）"
+    ]
+  },
+  "onion_juice": {
+    "zh_name": "洋葱汁",
+    "aliases": [
+      "onion_juice",
+      "洋葱汁"
+    ]
+  },
+  "kiwi": {
+    "zh_name": "猕猴桃",
+    "aliases": [
+      "kiwi",
+      "猕猴桃"
+    ]
+  },
+  "artemisia_ferganensis": {
+    "zh_name": "阿耳厄米cer虫",
+    "aliases": [
+      "artemisia_ferganensis",
+      "阿耳厄米cer虫"
+    ]
+  },
+  "corn_grit": {
+    "zh_name": "玉米砂",
+    "aliases": [
+      "corn_grit",
+      "玉米砂"
+    ]
+  },
+  "stirlingia_latifolia": {
+    "zh_name": "Stirlingia latifolia",
+    "aliases": [
+      "stirlingia_latifolia",
+      "Stirlingia latifolia"
+    ]
+  },
+  "lavandin": {
+    "zh_name": "拉瓦丁",
+    "aliases": [
+      "lavandin",
+      "拉瓦丁"
+    ]
+  },
+  "sherry": {
+    "zh_name": "雪利酒",
+    "aliases": [
+      "sherry",
+      "雪利酒"
+    ]
+  },
+  "roasted_green_tea": {
+    "zh_name": "烤绿茶",
+    "aliases": [
+      "roasted_green_tea",
+      "烤绿茶"
+    ]
+  },
+  "scotch_whiskey": {
+    "zh_name": "苏格兰威士忌",
+    "aliases": [
+      "scotch_whiskey",
+      "苏格兰威士忌"
+    ]
+  },
+  "litsea_zeylanica": {
+    "zh_name": "Litsea Zeylanica",
+    "aliases": [
+      "litsea_zeylanica",
+      "Litsea Zeylanica"
+    ]
+  },
+  "nepeta_japonica": {
+    "zh_name": "Nepeta Japonica",
+    "aliases": [
+      "nepeta_japonica",
+      "Nepeta Japonica"
+    ]
+  },
+  "cognac_oil": {
+    "zh_name": "干邑油",
+    "aliases": [
+      "cognac_oil",
+      "干邑油"
+    ]
+  },
+  "salmon": {
+    "zh_name": "三文鱼",
+    "aliases": [
+      "salmon",
+      "三文鱼"
+    ]
+  },
+  "russian_champagne": {
+    "zh_name": "俄罗斯香槟",
+    "aliases": [
+      "russian_champagne",
+      "俄罗斯香槟"
+    ]
+  },
+  "cigarette": {
+    "zh_name": "卷烟",
+    "aliases": [
+      "cigarette",
+      "卷烟"
+    ]
+  },
+  "mace": {
+    "zh_name": "锤",
+    "aliases": [
+      "mace",
+      "锤"
+    ]
+  },
+  "oyster": {
+    "zh_name": "牡蛎",
+    "aliases": [
+      "oyster",
+      "牡蛎"
+    ]
+  },
+  "soybean_oil": {
+    "zh_name": "大豆油",
+    "aliases": [
+      "soybean_oil",
+      "大豆油"
+    ]
+  },
+  "raspberry_brandy": {
+    "zh_name": "覆盆子白兰地",
+    "aliases": [
+      "raspberry_brandy",
+      "覆盆子白兰地"
+    ]
+  },
+  "tuber": {
+    "zh_name": "块茎",
+    "aliases": [
+      "tuber",
+      "块茎"
+    ]
+  },
+  "rancid_coconut_oil": {
+    "zh_name": "腐烂的椰子油",
+    "aliases": [
+      "rancid_coconut_oil",
+      "腐烂的椰子油"
+    ]
+  },
+  "brewed_tea": {
+    "zh_name": "酿造的茶",
+    "aliases": [
+      "brewed_tea",
+      "酿造的茶"
+    ]
+  },
+  "roasted_onion": {
+    "zh_name": "烤洋葱",
+    "aliases": [
+      "roasted_onion",
+      "烤洋葱"
+    ]
+  },
+  "cumin_fruit_oil": {
+    "zh_name": "小茴香水果油",
+    "aliases": [
+      "cumin_fruit_oil",
+      "小茴香水果油"
+    ]
+  },
+  "thuja_plicata": {
+    "zh_name": "Thuja Plicata",
+    "aliases": [
+      "thuja_plicata",
+      "Thuja Plicata"
+    ]
+  },
+  "roselle": {
+    "zh_name": "罗斯尔",
+    "aliases": [
+      "roselle",
+      "罗斯尔"
+    ]
+  },
+  "ceylon_cinnamon": {
+    "zh_name": "锡兰肉桂",
+    "aliases": [
+      "ceylon_cinnamon",
+      "锡兰肉桂"
+    ]
+  },
+  "japanese_star_anise": {
+    "zh_name": "日本星茴香",
+    "aliases": [
+      "japanese_star_anise",
+      "日本星茴香"
+    ]
+  },
+  "backhousia_citriodora_oil": {
+    "zh_name": "壳质油",
+    "aliases": [
+      "backhousia_citriodora_oil",
+      "壳质油"
+    ]
+  },
+  "eucalyptus_goniocalyx": {
+    "zh_name": "桉树菌",
+    "aliases": [
+      "eucalyptus_goniocalyx",
+      "桉树菌"
+    ]
+  },
+  "fried_beef": {
+    "zh_name": "炸牛肉",
+    "aliases": [
+      "fried_beef",
+      "炸牛肉"
+    ],
+    "base_ingredient": "beef"
+  },
+  "oak_tar_oil": {
+    "zh_name": "橡木油",
+    "aliases": [
+      "oak_tar_oil",
+      "橡木油"
+    ]
+  },
+  "larix_deciduas": {
+    "zh_name": "Larix Deciduas",
+    "aliases": [
+      "larix_deciduas",
+      "Larix Deciduas"
+    ]
+  },
+  "cupressus_lusitanica": {
+    "zh_name": "cupressus lusitanica",
+    "aliases": [
+      "cupressus_lusitanica",
+      "cupressus lusitanica"
+    ]
+  },
+  "japanese_whiskey": {
+    "zh_name": "日本威士忌",
+    "aliases": [
+      "japanese_whiskey",
+      "日本威士忌"
+    ]
+  },
+  "ashanti_pepper": {
+    "zh_name": "阿散蒂胡椒",
+    "aliases": [
+      "ashanti_pepper",
+      "阿散蒂胡椒"
+    ]
+  },
+  "saigon_cinnamon": {
+    "zh_name": "西贡肉桂",
+    "aliases": [
+      "saigon_cinnamon",
+      "西贡肉桂"
+    ]
+  },
+  "long_pepper": {
+    "zh_name": "长胡椒",
+    "aliases": [
+      "long_pepper",
+      "长胡椒"
+    ]
+  },
+  "orthodon_methylisoeugenoliferum_oil": {
+    "zh_name": "正极甲基二烯酚油",
+    "aliases": [
+      "orthodon_methylisoeugenoliferum_oil",
+      "正极甲基二烯酚油"
+    ]
+  },
+  "roasted_malt": {
+    "zh_name": "烤麦芽",
+    "aliases": [
+      "roasted_malt",
+      "烤麦芽"
+    ]
+  },
+  "calytrix_tetragona": {
+    "zh_name": "钙曲四角形",
+    "aliases": [
+      "calytrix_tetragona",
+      "钙曲四角形"
+    ]
+  },
+  "coprosma_foetidissima_leaf": {
+    "zh_name": "coprosma foetidissima叶",
+    "aliases": [
+      "coprosma_foetidissima_leaf",
+      "coprosma foetidissima叶"
+    ]
+  },
+  "lemon_eucalyptus": {
+    "zh_name": "柠檬桉树",
+    "aliases": [
+      "lemon_eucalyptus",
+      "柠檬桉树"
+    ]
+  },
+  "psilocaulon_absimile": {
+    "zh_name": "psilocaulon脓肿",
+    "aliases": [
+      "psilocaulon_absimile",
+      "psilocaulon脓肿"
+    ]
+  },
+  "kaempferia_ethel_bulb_oil": {
+    "zh_name": "Kaempferia Ethel Bulb Oil",
+    "aliases": [
+      "kaempferia_ethel_bulb_oil",
+      "Kaempferia Ethel Bulb Oil"
+    ]
+  },
+  "onion_oil": {
+    "zh_name": "洋葱油",
+    "aliases": [
+      "onion_oil",
+      "洋葱油"
+    ]
+  },
+  "cloudberry_oil": {
+    "zh_name": "Cloudberry油",
+    "aliases": [
+      "cloudberry_oil",
+      "Cloudberry油"
+    ]
+  },
+  "polianthes_tuberosa_oil": {
+    "zh_name": "polianththes tuberosa油",
+    "aliases": [
+      "polianthes_tuberosa_oil",
+      "polianththes tuberosa油"
+    ]
+  },
+  "laurel": {
+    "zh_name": "月桂树",
+    "aliases": [
+      "laurel",
+      "月桂树"
+    ]
+  },
+  "mint_oil": {
+    "zh_name": "薄荷油",
+    "aliases": [
+      "mint_oil",
+      "薄荷油"
+    ]
+  },
+  "cymbopogon_citralis_oil": {
+    "zh_name": "cymbopogon citralis油",
+    "aliases": [
+      "cymbopogon_citralis_oil",
+      "cymbopogon citralis油"
+    ]
+  },
+  "ambrette_seed": {
+    "zh_name": "Ambrette种子",
+    "aliases": [
+      "ambrette_seed",
+      "Ambrette种子"
+    ]
+  },
+  "orthodon_methylisoeugenoliferum": {
+    "zh_name": "正极甲基异烯烯醇",
+    "aliases": [
+      "orthodon_methylisoeugenoliferum",
+      "正极甲基异烯烯醇"
+    ]
+  },
+  "american_cranberry": {
+    "zh_name": "美国蔓越莓",
+    "aliases": [
+      "american_cranberry",
+      "美国蔓越莓"
+    ]
+  },
+  "chenopodium": {
+    "zh_name": "Chenopodium",
+    "aliases": [
+      "chenopodium",
+      "Chenopodium"
+    ]
+  },
+  "elderberry": {
+    "zh_name": "接骨木浆果",
+    "aliases": [
+      "elderberry",
+      "接骨木浆果"
+    ]
+  },
+  "sperm_whale_oil": {
+    "zh_name": "晶石鲸油",
+    "aliases": [
+      "sperm_whale_oil",
+      "晶石鲸油"
+    ]
+  },
+  "citrus_oil": {
+    "zh_name": "柑橘油",
+    "aliases": [
+      "citrus_oil",
+      "柑橘油"
+    ]
+  },
+  "champaca": {
+    "zh_name": "Champaca",
+    "aliases": [
+      "champaca",
+      "Champaca"
+    ]
+  },
+  "violet_flower": {
+    "zh_name": "紫花花",
+    "aliases": [
+      "violet_flower",
+      "紫花花"
+    ]
+  },
+  "eucalyptus_citridora": {
+    "zh_name": "桉树桉树",
+    "aliases": [
+      "eucalyptus_citridora",
+      "桉树桉树"
+    ]
+  },
+  "ligusticum_acutilobum": {
+    "zh_name": "ligusticum acutilobum",
+    "aliases": [
+      "ligusticum_acutilobum",
+      "ligusticum acutilobum"
+    ]
+  },
+  "pennyroyal": {
+    "zh_name": "Pennyroyal",
+    "aliases": [
+      "pennyroyal",
+      "Pennyroyal"
+    ]
+  },
+  "bergamot_peel_oil": {
+    "zh_name": "佛手柑油",
+    "aliases": [
+      "bergamot_peel_oil",
+      "佛手柑油"
+    ]
+  },
+  "cubeb": {
+    "zh_name": "立方体",
+    "aliases": [
+      "cubeb",
+      "立方体"
+    ]
+  },
+  "east_indian_geranium": {
+    "zh_name": "东印度天Geranium",
+    "aliases": [
+      "east_indian_geranium",
+      "东印度天Geranium"
+    ]
+  },
+  "blue_cheese": {
+    "zh_name": "蓝纹奶酪",
+    "aliases": [
+      "blue_cheese",
+      "蓝纹奶酪"
+    ]
+  },
+  "geraniaceae": {
+    "zh_name": "香菜科",
+    "aliases": [
+      "geraniaceae",
+      "香菜科"
+    ]
+  },
+  "asarum_arifolium_root_oil": {
+    "zh_name": "asarum arifolium root油",
+    "aliases": [
+      "asarum_arifolium_root_oil",
+      "asarum arifolium root油"
+    ]
+  },
+  "silk_fibrooin": {
+    "zh_name": "丝绸纤维",
+    "aliases": [
+      "silk_fibrooin",
+      "丝绸纤维"
+    ]
+  },
+  "olive_oil": {
+    "zh_name": "橄榄油",
+    "aliases": [
+      "olive_oil",
+      "橄榄油"
+    ]
+  },
+  "kencur_oil": {
+    "zh_name": "kencur油",
+    "aliases": [
+      "kencur_oil",
+      "kencur油"
+    ]
+  },
+  "scallop": {
+    "zh_name": "扇贝",
+    "aliases": [
+      "scallop",
+      "扇贝"
+    ]
+  },
+  "pear_brandy": {
+    "zh_name": "梨白兰地",
+    "aliases": [
+      "pear_brandy",
+      "梨白兰地"
+    ]
+  },
+  "picea_balsamea_oil": {
+    "zh_name": "PICEA香脂油",
+    "aliases": [
+      "picea_balsamea_oil",
+      "PICEA香脂油"
+    ]
+  },
+  "provolone_cheese": {
+    "zh_name": "普罗酮奶酪",
+    "aliases": [
+      "provolone_cheese",
+      "普罗酮奶酪"
+    ]
+  },
+  "bulgarian_rose_oil": {
+    "zh_name": "保加利亚玫瑰油",
+    "aliases": [
+      "bulgarian_rose_oil",
+      "保加利亚玫瑰油"
+    ]
+  },
+  "abies_sibirica": {
+    "zh_name": "阿比斯·西比里卡（Abies Sibirica）",
+    "aliases": [
+      "abies_sibirica",
+      "阿比斯·西比里卡（Abies Sibirica）"
+    ]
+  },
+  "horseradish_oil": {
+    "zh_name": "辣根油",
+    "aliases": [
+      "horseradish_oil",
+      "辣根油"
+    ]
+  },
+  "red_algae": {
+    "zh_name": "红藻",
+    "aliases": [
+      "red_algae",
+      "红藻"
+    ]
+  },
+  "buttermilk": {
+    "zh_name": "酪乳",
+    "aliases": [
+      "buttermilk",
+      "酪乳"
+    ]
+  },
+  "palm_fruit": {
+    "zh_name": "棕榈果",
+    "aliases": [
+      "palm_fruit",
+      "棕榈果"
+    ]
+  },
+  "vietnamese_black_tea": {
+    "zh_name": "越南红茶",
+    "aliases": [
+      "vietnamese_black_tea",
+      "越南红茶"
+    ]
+  },
+  "micromeria_abyssinica": {
+    "zh_name": "阿比西尼卡菌",
+    "aliases": [
+      "micromeria_abyssinica",
+      "阿比西尼卡菌"
+    ]
+  },
+  "vinegar": {
+    "zh_name": "醋",
+    "aliases": [
+      "vinegar",
+      "醋"
+    ]
+  },
+  "fermented_shrimp": {
+    "zh_name": "发酵虾",
+    "aliases": [
+      "fermented_shrimp",
+      "发酵虾"
+    ]
+  },
+  "burley_tobacco": {
+    "zh_name": "Burley烟草",
+    "aliases": [
+      "burley_tobacco",
+      "Burley烟草"
+    ]
+  },
+  "liver": {
+    "zh_name": "肝",
+    "aliases": [
+      "liver",
+      "肝"
+    ]
+  },
+  "wild_bergamot": {
+    "zh_name": "野生佛手柑",
+    "aliases": [
+      "wild_bergamot",
+      "野生佛手柑"
+    ]
+  },
+  "picea_canadensis": {
+    "zh_name": "picea canadensis",
+    "aliases": [
+      "picea_canadensis",
+      "picea canadensis"
+    ]
+  },
+  "feronia_elephantum": {
+    "zh_name": "Feronia Elephantum",
+    "aliases": [
+      "feronia_elephantum",
+      "Feronia Elephantum"
+    ]
+  },
+  "petitgrain_bigarade": {
+    "zh_name": "Petitgrain bigarade",
+    "aliases": [
+      "petitgrain_bigarade",
+      "Petitgrain bigarade"
+    ]
+  },
+  "cabernet_sauvignon_grape": {
+    "zh_name": "赤霞珠葡萄",
+    "aliases": [
+      "cabernet_sauvignon_grape",
+      "赤霞珠葡萄"
+    ]
+  },
+  "capsicum": {
+    "zh_name": "辣椒",
+    "aliases": [
+      "capsicum",
+      "辣椒"
+    ]
+  },
+  "potato_chip": {
+    "zh_name": "薯片",
+    "aliases": [
+      "potato_chip",
+      "薯片"
+    ]
+  },
+  "carnation_oil": {
+    "zh_name": "康乃馨油",
+    "aliases": [
+      "carnation_oil",
+      "康乃馨油"
+    ]
+  },
+  "oriental_storax": {
+    "zh_name": "东方storax",
+    "aliases": [
+      "oriental_storax",
+      "东方storax"
+    ]
+  },
+  "citrus_limetta_oil": {
+    "zh_name": "柑橘利利塔油",
+    "aliases": [
+      "citrus_limetta_oil",
+      "柑橘利利塔油"
+    ]
+  },
+  "black_currant": {
+    "zh_name": "黑醋栗",
+    "aliases": [
+      "black_currant",
+      "黑醋栗"
+    ]
+  },
+  "french_bean": {
+    "zh_name": "法国豆",
+    "aliases": [
+      "french_bean",
+      "法国豆"
+    ]
+  },
+  "smoked_fatty_fish": {
+    "zh_name": "烟熏脂鱼",
+    "aliases": [
+      "smoked_fatty_fish",
+      "烟熏脂鱼"
+    ]
+  },
+  "origanum_oil": {
+    "zh_name": "Origanum油",
+    "aliases": [
+      "origanum_oil",
+      "Origanum油"
+    ]
+  },
+  "scotch_spearmint": {
+    "zh_name": "苏格兰留兰派",
+    "aliases": [
+      "scotch_spearmint",
+      "苏格兰留兰派"
+    ]
+  },
+  "populus_balsamifera": {
+    "zh_name": "populus balsamifera",
+    "aliases": [
+      "populus_balsamifera",
+      "populus balsamifera"
+    ]
+  },
+  "fruit_juice": {
+    "zh_name": "果汁",
+    "aliases": [
+      "fruit_juice",
+      "果汁"
+    ]
+  },
+  "mandarin_oil": {
+    "zh_name": "普通话油",
+    "aliases": [
+      "mandarin_oil",
+      "普通话油"
+    ]
+  },
+  "ewe": {
+    "zh_name": "母羊",
+    "aliases": [
+      "ewe",
+      "母羊"
+    ]
+  },
+  "chicory": {
+    "zh_name": "奇异",
+    "aliases": [
+      "chicory",
+      "奇异"
+    ]
+  },
+  "cayenne_bois_de_rose": {
+    "zh_name": "cayenne bois de Rose",
+    "aliases": [
+      "cayenne_bois_de_rose",
+      "cayenne bois de Rose"
+    ]
+  },
+  "california_laurel_oil": {
+    "zh_name": "加利福尼亚月桂油油",
+    "aliases": [
+      "california_laurel_oil",
+      "加利福尼亚月桂油油"
+    ]
+  },
+  "chinese_quince_peel": {
+    "zh_name": "中国木瓜皮",
+    "aliases": [
+      "chinese_quince_peel",
+      "中国木瓜皮"
+    ]
+  },
+  "wood_tar": {
+    "zh_name": "木焦油",
+    "aliases": [
+      "wood_tar",
+      "木焦油"
+    ]
+  },
+  "andropogon_gragrans": {
+    "zh_name": "andropogon gragrans",
+    "aliases": [
+      "andropogon_gragrans",
+      "andropogon gragrans"
+    ]
+  },
+  "cabbage_juice": {
+    "zh_name": "卷心菜汁",
+    "aliases": [
+      "cabbage_juice",
+      "卷心菜汁"
+    ]
+  },
+  "baeckea_citriodora": {
+    "zh_name": "Baeckea citriodora",
+    "aliases": [
+      "baeckea_citriodora",
+      "Baeckea citriodora"
+    ]
+  },
+  "fried_cured_pork": {
+    "zh_name": "炸猪肉",
+    "aliases": [
+      "fried_cured_pork",
+      "炸猪肉"
+    ]
+  },
+  "cucumber": {
+    "zh_name": "黄瓜",
+    "aliases": [
+      "cucumber",
+      "黄瓜"
+    ]
+  },
+  "pimento": {
+    "zh_name": "多香",
+    "aliases": [
+      "pimento",
+      "多香"
+    ]
+  },
+  "pimenta": {
+    "zh_name": "皮门塔",
+    "aliases": [
+      "pimenta",
+      "皮门塔"
+    ]
+  },
+  "almond_flower": {
+    "zh_name": "杏仁花",
+    "aliases": [
+      "almond_flower",
+      "杏仁花"
+    ]
+  },
+  "sumac": {
+    "zh_name": "漆树",
+    "aliases": [
+      "sumac",
+      "漆树"
+    ]
+  },
+  "mentha_aquatica": {
+    "zh_name": "Mentha Aquatica",
+    "aliases": [
+      "mentha_aquatica",
+      "Mentha Aquatica"
+    ]
+  },
+  "feces": {
+    "zh_name": "屎",
+    "aliases": [
+      "feces",
+      "屎"
+    ]
+  },
+  "oak_musk": {
+    "zh_name": "橡树麝香",
+    "aliases": [
+      "oak_musk",
+      "橡树麝香"
+    ]
+  },
+  "crayfish": {
+    "zh_name": "小龙虾",
+    "aliases": [
+      "crayfish",
+      "小龙虾"
+    ]
+  },
+  "sauvignon_blanc_grape": {
+    "zh_name": "长相思葡萄",
+    "aliases": [
+      "sauvignon_blanc_grape",
+      "长相思葡萄"
+    ]
+  },
+  "roasted_pork": {
+    "zh_name": "烤猪肉",
+    "aliases": [
+      "roasted_pork",
+      "烤猪肉"
+    ]
+  },
+  "unprocessed_rice": {
+    "zh_name": "未加工的米饭",
+    "aliases": [
+      "unprocessed_rice",
+      "未加工的米饭"
+    ]
+  },
+  "andropogon_jwarancusa": {
+    "zh_name": "Andropogon Jwarancusa",
+    "aliases": [
+      "andropogon_jwarancusa",
+      "Andropogon Jwarancusa"
+    ]
+  },
+  "atropa_belladonna_leaf": {
+    "zh_name": "Atropa Belladonna叶",
+    "aliases": [
+      "atropa_belladonna_leaf",
+      "Atropa Belladonna叶"
+    ]
+  },
+  "barosma_crenulata": {
+    "zh_name": "Barosma Crenulata",
+    "aliases": [
+      "barosma_crenulata",
+      "Barosma Crenulata"
+    ]
+  },
+  "boiled_pork": {
+    "zh_name": "煮猪肉",
+    "aliases": [
+      "boiled_pork",
+      "煮猪肉"
+    ]
+  },
+  "horseradish": {
+    "zh_name": "辣根",
+    "aliases": [
+      "horseradish",
+      "辣根"
+    ]
+  },
+  "roasted_shrimp": {
+    "zh_name": "烤虾",
+    "aliases": [
+      "roasted_shrimp",
+      "烤虾"
+    ]
+  },
+  "kumquat": {
+    "zh_name": "金橘",
+    "aliases": [
+      "kumquat",
+      "金橘"
+    ]
+  },
+  "holy_basil": {
+    "zh_name": "罗勒",
+    "aliases": [
+      "holy_basil",
+      "罗勒"
+    ]
+  },
+  "chinese_quince": {
+    "zh_name": "楂",
+    "aliases": [
+      "chinese_quince",
+      "楂"
+    ]
+  },
+  "asperula_odorosa": {
+    "zh_name": "阿斯皮拉·奥多罗萨（Asperula Odorosa）",
+    "aliases": [
+      "asperula_odorosa",
+      "阿斯皮拉·奥多罗萨（Asperula Odorosa）"
+    ]
+  },
+  "callitris_drummondii": {
+    "zh_name": "Callitris Drummondii",
+    "aliases": [
+      "callitris_drummondii",
+      "Callitris Drummondii"
+    ]
+  },
+  "peru_balsam": {
+    "zh_name": "秘鲁香脂",
+    "aliases": [
+      "peru_balsam",
+      "秘鲁香脂"
+    ]
+  },
+  "muscat_grape_juice": {
+    "zh_name": "马斯喀特葡萄汁",
+    "aliases": [
+      "muscat_grape_juice",
+      "马斯喀特葡萄汁"
+    ]
+  },
+  "beet_root": {
+    "zh_name": "甜菜根",
+    "aliases": [
+      "beet_root",
+      "甜菜根"
+    ]
+  },
+  "thymus_caespeititius": {
+    "zh_name": "百里香caespeitius",
+    "aliases": [
+      "thymus_caespeititius",
+      "百里香caespeitius"
+    ]
+  },
+  "jackfruit": {
+    "zh_name": "菠萝蜜",
+    "aliases": [
+      "jackfruit",
+      "菠萝蜜"
+    ]
+  },
+  "oxidized_skim_milk": {
+    "zh_name": "氧化的脱脂牛奶",
+    "aliases": [
+      "oxidized_skim_milk",
+      "氧化的脱脂牛奶"
+    ]
+  },
+  "cooked_apple": {
+    "zh_name": "煮熟的苹果",
+    "aliases": [
+      "cooked_apple",
+      "煮熟的苹果"
+    ]
+  },
+  "german_chamomile_oil": {
+    "zh_name": "德国洋甘菊油",
+    "aliases": [
+      "german_chamomile_oil",
+      "德国洋甘菊油"
+    ]
+  },
+  "ceylon_tea_citronella_oil": {
+    "zh_name": "锡兰茶香菜油",
+    "aliases": [
+      "ceylon_tea_citronella_oil",
+      "锡兰茶香菜油"
+    ]
+  },
+  "demon_red": {
+    "zh_name": "恶魔红",
+    "aliases": [
+      "demon_red",
+      "恶魔红"
+    ]
+  },
+  "annona_reticulata": {
+    "zh_name": "Annona Reticulata",
+    "aliases": [
+      "annona_reticulata",
+      "Annona Reticulata"
+    ]
+  },
+  "caraway_seed": {
+    "zh_name": "香菜种子",
+    "aliases": [
+      "caraway_seed",
+      "香菜种子"
+    ]
+  },
+  "abies_balsamea_oil": {
+    "zh_name": "阿贝斯香脂油",
+    "aliases": [
+      "abies_balsamea_oil",
+      "阿贝斯香脂油"
+    ]
+  },
+  "zucchini": {
+    "zh_name": "西葫芦",
+    "aliases": [
+      "zucchini",
+      "西葫芦"
+    ]
+  },
+  "pilchard": {
+    "zh_name": "皮勒查德",
+    "aliases": [
+      "pilchard",
+      "皮勒查德"
+    ]
+  },
+  "horse_mackerel": {
+    "zh_name": "马鲭鱼",
+    "aliases": [
+      "horse_mackerel",
+      "马鲭鱼"
+    ]
+  },
+  "palm": {
+    "zh_name": "棕榈",
+    "aliases": [
+      "palm",
+      "棕榈"
+    ]
+  },
+  "salvia_grandifiora_oil": {
+    "zh_name": "Salvia Grandifiora油",
+    "aliases": [
+      "salvia_grandifiora_oil",
+      "Salvia Grandifiora油"
+    ]
+  },
+  "beef_tallow": {
+    "zh_name": "牛肉牛",
+    "aliases": [
+      "beef_tallow",
+      "牛肉牛"
+    ],
+    "base_ingredient": "beef"
+  },
+  "lard": {
+    "zh_name": "猪油",
+    "aliases": [
+      "lard",
+      "猪油"
+    ]
+  },
+  "ananas_sativus": {
+    "zh_name": "Ananas sativus",
+    "aliases": [
+      "ananas_sativus",
+      "Ananas sativus"
+    ]
+  },
+  "pea": {
+    "zh_name": "豌豆",
+    "aliases": [
+      "pea",
+      "豌豆"
+    ]
+  },
+  "rum": {
+    "zh_name": "朗姆酒",
+    "aliases": [
+      "rum",
+      "朗姆酒"
+    ]
+  },
+  "jaborandi_leaf_oil": {
+    "zh_name": "Jaborandi叶油",
+    "aliases": [
+      "jaborandi_leaf_oil",
+      "Jaborandi叶油"
+    ]
+  },
+  "rue": {
+    "zh_name": "后悔",
+    "aliases": [
+      "rue",
+      "后悔"
+    ]
+  },
+  "raw_peanut": {
+    "zh_name": "生花生",
+    "aliases": [
+      "raw_peanut",
+      "生花生"
+    ]
+  },
+  "corn_mint_oil": {
+    "zh_name": "玉米薄荷油",
+    "aliases": [
+      "corn_mint_oil",
+      "玉米薄荷油"
+    ]
+  },
+  "raspberry": {
+    "zh_name": "覆盆子",
+    "aliases": [
+      "raspberry",
+      "覆盆子"
+    ]
+  },
+  "pelargonium": {
+    "zh_name": "Pelargonium",
+    "aliases": [
+      "pelargonium",
+      "Pelargonium"
+    ]
+  },
+  "smoked_salmon": {
+    "zh_name": "烟熏三文鱼",
+    "aliases": [
+      "smoked_salmon",
+      "烟熏三文鱼"
+    ]
+  },
+  "acacia_farnesiana": {
+    "zh_name": "Acacia Farnesiana",
+    "aliases": [
+      "acacia_farnesiana",
+      "Acacia Farnesiana"
+    ]
+  },
+  "oatmeal": {
+    "zh_name": "麦片",
+    "aliases": [
+      "oatmeal",
+      "麦片"
+    ]
+  },
+  "rhododendron_fauriae_leaf": {
+    "zh_name": "杜鹃花叶叶",
+    "aliases": [
+      "rhododendron_fauriae_leaf",
+      "杜鹃花叶叶"
+    ]
+  },
+  "imperatoria": {
+    "zh_name": "Imperatoria",
+    "aliases": [
+      "imperatoria",
+      "Imperatoria"
+    ]
+  },
+  "chamomile_oil": {
+    "zh_name": "洋甘菊油",
+    "aliases": [
+      "chamomile_oil",
+      "洋甘菊油"
+    ]
+  },
+  "israeli_orange": {
+    "zh_name": "以色列橙",
+    "aliases": [
+      "israeli_orange",
+      "以色列橙"
+    ]
+  },
+  "pine_oil": {
+    "zh_name": "松油",
+    "aliases": [
+      "pine_oil",
+      "松油"
+    ]
+  },
+  "japanese_peppermint_oil": {
+    "zh_name": "日本薄荷油",
+    "aliases": [
+      "japanese_peppermint_oil",
+      "日本薄荷油"
+    ]
+  },
+  "thaumatococcus_daniellii": {
+    "zh_name": "thaumatococcus daniellii",
+    "aliases": [
+      "thaumatococcus_daniellii",
+      "thaumatococcus daniellii"
+    ]
+  },
+  "melilotus_officinalis_flower": {
+    "zh_name": "Melilotus officinalis花",
+    "aliases": [
+      "melilotus_officinalis_flower",
+      "Melilotus officinalis花"
+    ]
+  },
+  "french_fried_potato": {
+    "zh_name": "炸薯条",
+    "aliases": [
+      "french_fried_potato",
+      "炸薯条"
+    ]
+  },
+  "cinnamomum_oliveri_leaf": {
+    "zh_name": "Cinnamomum oliveri叶",
+    "aliases": [
+      "cinnamomum_oliveri_leaf",
+      "Cinnamomum oliveri叶"
+    ]
+  },
+  "chinese_cabbage": {
+    "zh_name": "白菜",
+    "aliases": [
+      "chinese_cabbage",
+      "白菜"
+    ]
+  },
+  "pelargonium_tomentosum": {
+    "zh_name": "Pelargonium tomentosum",
+    "aliases": [
+      "pelargonium_tomentosum",
+      "Pelargonium tomentosum"
+    ]
+  },
+  "atropa_belladonna_root": {
+    "zh_name": "Atropa Belladonna根",
+    "aliases": [
+      "atropa_belladonna_root",
+      "Atropa Belladonna根"
+    ]
+  },
+  "creosote": {
+    "zh_name": "杂酚油",
+    "aliases": [
+      "creosote",
+      "杂酚油"
+    ]
+  },
+  "vegetable_oil": {
+    "zh_name": "植物油",
+    "aliases": [
+      "vegetable_oil",
+      "植物油"
+    ]
+  },
+  "green_bell_pepper": {
+    "zh_name": "绿色的胡椒",
+    "aliases": [
+      "green_bell_pepper",
+      "绿色的胡椒"
+    ]
+  },
+  "beef_liver": {
+    "zh_name": "牛肉肝",
+    "aliases": [
+      "beef_liver",
+      "牛肉肝"
+    ],
+    "base_ingredient": "beef"
+  },
+  "banana_passion_fruit": {
+    "zh_name": "香蕉百香果",
+    "aliases": [
+      "banana_passion_fruit",
+      "香蕉百香果"
+    ]
+  },
+  "cream_cheese": {
+    "zh_name": "奶油奶酪",
+    "aliases": [
+      "cream_cheese",
+      "奶油奶酪"
+    ]
+  },
+  "oat_groat": {
+    "zh_name": "燕麦果",
+    "aliases": [
+      "oat_groat",
+      "燕麦果"
+    ]
+  },
+  "jonquil_oil": {
+    "zh_name": "Jonquil油",
+    "aliases": [
+      "jonquil_oil",
+      "Jonquil油"
+    ]
+  },
+  "apricot": {
+    "zh_name": "杏",
+    "aliases": [
+      "apricot",
+      "杏"
+    ]
+  },
+  "peppermint": {
+    "zh_name": "薄荷",
+    "aliases": [
+      "peppermint",
+      "薄荷"
+    ]
+  },
+  "cassia_oil": {
+    "zh_name": "卡西亚油",
+    "aliases": [
+      "cassia_oil",
+      "卡西亚油"
+    ]
+  },
+  "sea_algae": {
+    "zh_name": "海藻",
+    "aliases": [
+      "sea_algae",
+      "海藻"
+    ]
+  },
+  "pinus_avium_fruit": {
+    "zh_name": "Pinus Avium果实",
+    "aliases": [
+      "pinus_avium_fruit",
+      "Pinus Avium果实"
+    ]
+  },
+  "dill": {
+    "zh_name": "莳萝",
+    "aliases": [
+      "dill",
+      "莳萝"
+    ]
+  },
+  "bay_laurel": {
+    "zh_name": "海湾月桂树",
+    "aliases": [
+      "bay_laurel",
+      "海湾月桂树"
+    ]
+  },
+  "rotundifolia": {
+    "zh_name": "圆形",
+    "aliases": [
+      "rotundifolia",
+      "圆形"
+    ]
+  },
+  "rose_wine": {
+    "zh_name": "桃红葡萄酒",
+    "aliases": [
+      "rose_wine",
+      "桃红葡萄酒"
+    ]
+  },
+  "cardamom_oil": {
+    "zh_name": "豆蔻油",
+    "aliases": [
+      "cardamom_oil",
+      "豆蔻油"
+    ]
+  },
+  "sandalwood": {
+    "zh_name": "檀香",
+    "aliases": [
+      "sandalwood",
+      "檀香"
+    ]
+  },
+  "satsuma": {
+    "zh_name": "Satsuma",
+    "aliases": [
+      "satsuma",
+      "Satsuma"
+    ]
+  },
+  "lemon": {
+    "zh_name": "柠檬",
+    "aliases": [
+      "lemon",
+      "柠檬"
+    ]
+  },
+  "peach": {
+    "zh_name": "桃",
+    "aliases": [
+      "peach",
+      "桃"
+    ]
+  },
+  "saffron": {
+    "zh_name": "藏红花",
+    "aliases": [
+      "saffron",
+      "藏红花"
+    ]
+  },
+  "ananas_sativus_oil": {
+    "zh_name": "Ananas sativus油",
+    "aliases": [
+      "ananas_sativus_oil",
+      "Ananas sativus油"
+    ]
+  },
+  "pinto_bean": {
+    "zh_name": "Pinto Bean",
+    "aliases": [
+      "pinto_bean",
+      "Pinto Bean"
+    ]
+  },
+  "callitris_intratropica": {
+    "zh_name": "Callitris粒内",
+    "aliases": [
+      "callitris_intratropica",
+      "Callitris粒内"
+    ]
+  },
+  "labiatae": {
+    "zh_name": "拉比亚",
+    "aliases": [
+      "labiatae",
+      "拉比亚"
+    ]
+  },
+  "eucalyptus_radiata_oil": {
+    "zh_name": "桉树油",
+    "aliases": [
+      "eucalyptus_radiata_oil",
+      "桉树油"
+    ]
+  },
+  "mustard": {
+    "zh_name": "芥末",
+    "aliases": [
+      "mustard",
+      "芥末"
+    ]
+  },
+  "kaffir_lime": {
+    "zh_name": "卡菲尔青柠",
+    "aliases": [
+      "kaffir_lime",
+      "卡菲尔青柠"
+    ]
+  },
+  "gardenia": {
+    "zh_name": "gardenia",
+    "aliases": [
+      "gardenia",
+      "gardenia"
+    ]
+  },
+  "strawberry_juice": {
+    "zh_name": "草莓汁",
+    "aliases": [
+      "strawberry_juice",
+      "草莓汁"
+    ]
+  },
+  "cistus_labdanum": {
+    "zh_name": "cistus labdanum",
+    "aliases": [
+      "cistus_labdanum",
+      "cistus labdanum"
+    ]
+  },
+  "cuttlefish": {
+    "zh_name": "乌贼",
+    "aliases": [
+      "cuttlefish",
+      "乌贼"
+    ]
+  },
+  "abies_sibirica_oil": {
+    "zh_name": "Abies Sibirica油",
+    "aliases": [
+      "abies_sibirica_oil",
+      "Abies Sibirica油"
+    ]
+  },
+  "clove_oil": {
+    "zh_name": "丁香油",
+    "aliases": [
+      "clove_oil",
+      "丁香油"
+    ]
+  },
+  "emmental_cheese": {
+    "zh_name": "emmental奶酪",
+    "aliases": [
+      "emmental_cheese",
+      "emmental奶酪"
+    ]
+  },
+  "guarana": {
+    "zh_name": "瓜拉纳",
+    "aliases": [
+      "guarana",
+      "瓜拉纳"
+    ]
+  },
+  "juniper_oil": {
+    "zh_name": "杜松油",
+    "aliases": [
+      "juniper_oil",
+      "杜松油"
+    ]
+  },
+  "pinus_punulio": {
+    "zh_name": "Pinus Punulio",
+    "aliases": [
+      "pinus_punulio",
+      "Pinus Punulio"
+    ]
+  },
+  "wheat_bread": {
+    "zh_name": "小麦面包",
+    "aliases": [
+      "wheat_bread",
+      "小麦面包"
+    ]
+  },
+  "cured_ham": {
+    "zh_name": "治愈火腿",
+    "aliases": [
+      "cured_ham",
+      "治愈火腿"
+    ]
+  },
+  "artemisia_dracunculus_oil": {
+    "zh_name": "阿耳厄米果油",
+    "aliases": [
+      "artemisia_dracunculus_oil",
+      "阿耳厄米果油"
+    ]
+  },
+  "melaleuca_paucifiora_oil": {
+    "zh_name": "Melaleuca paucifiora油",
+    "aliases": [
+      "melaleuca_paucifiora_oil",
+      "Melaleuca paucifiora油"
+    ]
+  },
+  "callitris_gracilis": {
+    "zh_name": "Callitris gracilis",
+    "aliases": [
+      "callitris_gracilis",
+      "Callitris gracilis"
+    ]
+  },
+  "cabernet_sauvignon_wine": {
+    "zh_name": "赤霞珠葡萄酒",
+    "aliases": [
+      "cabernet_sauvignon_wine",
+      "赤霞珠葡萄酒"
+    ]
+  },
+  "bulgarian_tobacco": {
+    "zh_name": "保加利亚烟草",
+    "aliases": [
+      "bulgarian_tobacco",
+      "保加利亚烟草"
+    ]
+  },
+  "hog_plum": {
+    "zh_name": "猪李",
+    "aliases": [
+      "hog_plum",
+      "猪李"
+    ]
+  },
+  "peanut": {
+    "zh_name": "花生",
+    "aliases": [
+      "peanut",
+      "花生"
+    ]
+  },
+  "geranium": {
+    "zh_name": "天竺葵",
+    "aliases": [
+      "geranium",
+      "天竺葵"
+    ]
+  },
+  "dried_kidney_bean": {
+    "zh_name": "干肾豆",
+    "aliases": [
+      "dried_kidney_bean",
+      "干肾豆"
+    ]
+  },
+  "schizandra_nigra_oil": {
+    "zh_name": "Schizandra nigra油",
+    "aliases": [
+      "schizandra_nigra_oil",
+      "Schizandra nigra油"
+    ]
+  },
+  "toasted_oat_groat": {
+    "zh_name": "烤燕麦味",
+    "aliases": [
+      "toasted_oat_groat",
+      "烤燕麦味"
+    ]
+  },
+  "eucalyptus_globulus": {
+    "zh_name": "桉树球",
+    "aliases": [
+      "eucalyptus_globulus",
+      "桉树球"
+    ]
+  },
+  "cinnamomum_kanahirain": {
+    "zh_name": "Cinnamomum Kanahirain",
+    "aliases": [
+      "cinnamomum_kanahirain",
+      "Cinnamomum Kanahirain"
+    ]
+  },
+  "cassia": {
+    "zh_name": "卡西亚",
+    "aliases": [
+      "cassia",
+      "卡西亚"
+    ]
+  },
+  "wheat_bran": {
+    "zh_name": "小麦麸皮",
+    "aliases": [
+      "wheat_bran",
+      "小麦麸皮"
+    ]
+  },
+  "curcuma": {
+    "zh_name": "姜黄",
+    "aliases": [
+      "curcuma",
+      "姜黄"
+    ]
+  },
+  "ouzo": {
+    "zh_name": "ouzo",
+    "aliases": [
+      "ouzo",
+      "ouzo"
+    ]
+  },
+  "cinnamomum_oil": {
+    "zh_name": "肉桂油",
+    "aliases": [
+      "cinnamomum_oil",
+      "肉桂油"
+    ]
+  },
+  "oxystigma_buccholtzii_flower": {
+    "zh_name": "氧史成为",
+    "aliases": [
+      "oxystigma_buccholtzii_flower",
+      "氧史成为"
+    ]
+  },
+  "fruit_brandy": {
+    "zh_name": "水果白兰地",
+    "aliases": [
+      "fruit_brandy",
+      "水果白兰地"
+    ]
+  },
+  "asparagus": {
+    "zh_name": "芦笋",
+    "aliases": [
+      "asparagus",
+      "芦笋"
+    ]
+  },
+  "artemisia_herba_alba": {
+    "zh_name": "hartemisia herba alba",
+    "aliases": [
+      "artemisia_herba_alba",
+      "hartemisia herba alba"
+    ]
+  },
+  "japanese_star_anise_oil": {
+    "zh_name": "日本星茴香油",
+    "aliases": [
+      "japanese_star_anise_oil",
+      "日本星茴香油"
+    ]
+  },
+  "artemisia_brevifolia": {
+    "zh_name": "arrtemisia brevifolia",
+    "aliases": [
+      "artemisia_brevifolia",
+      "arrtemisia brevifolia"
+    ]
+  },
+  "myrtleberry": {
+    "zh_name": "桃金娘",
+    "aliases": [
+      "myrtleberry",
+      "桃金娘"
+    ]
+  },
+  "wheat": {
+    "zh_name": "小麦",
+    "aliases": [
+      "wheat",
+      "小麦"
+    ]
+  },
+  "gastrochilus_pandurata_oil": {
+    "zh_name": "琴叶盆距兰精油",
+    "aliases": [
+      "gastrochilus_pandurata_oil",
+      "琴叶盆距兰精油"
+    ]
+  },
+  "grape_must": {
+    "zh_name": "葡萄醪",
+    "aliases": [
+      "grape_must",
+      "葡萄醪",
+      "未发酵葡萄汁"
+    ]
+  },
+  "tarragon": {
+    "zh_name": "龙蒿",
+    "aliases": [
+      "tarragon",
+      "龙蒿",
+      "龙艾",
+      "estragon"
+    ]
+  },
+  "soy_sauce": {
+    "zh_name": "酱油",
+    "aliases": [
+      "soy_sauce",
+      "酱油"
+    ]
+  },
+  "mentha_timija": {
+    "zh_name": "Mentha Timija",
+    "aliases": [
+      "mentha_timija",
+      "Mentha Timija"
+    ]
+  },
+  "coal_tar": {
+    "zh_name": "煤焦油",
+    "aliases": [
+      "coal_tar",
+      "煤焦油"
+    ]
+  },
+  "thaumatococcus_daniellii_fruit": {
+    "zh_name": "thaumatococcus daniellii果实",
+    "aliases": [
+      "thaumatococcus_daniellii_fruit",
+      "thaumatococcus daniellii果实"
+    ]
+  },
+  "southern_pea": {
+    "zh_name": "南豌豆",
+    "aliases": [
+      "southern_pea",
+      "南豌豆"
+    ]
+  },
+  "rosaceae": {
+    "zh_name": "酒渣鼻",
+    "aliases": [
+      "rosaceae",
+      "酒渣鼻"
+    ]
+  },
+  "tangerine_peel_oil": {
+    "zh_name": "橘皮油",
+    "aliases": [
+      "tangerine_peel_oil",
+      "橘皮油"
+    ]
+  },
+  "raw_soybean_oil": {
+    "zh_name": "生大豆油",
+    "aliases": [
+      "raw_soybean_oil",
+      "生大豆油"
+    ]
+  },
+  "rhus_glabra": {
+    "zh_name": "Rhus Glabra",
+    "aliases": [
+      "rhus_glabra",
+      "Rhus Glabra"
+    ]
+  },
+  "tea_leaf_oil": {
+    "zh_name": "茶叶油",
+    "aliases": [
+      "tea_leaf_oil",
+      "茶叶油"
+    ]
+  },
+  "buckwheat": {
+    "zh_name": "荞麦",
+    "aliases": [
+      "buckwheat",
+      "荞麦"
+    ]
+  },
+  "popcorn": {
+    "zh_name": "爆米花",
+    "aliases": [
+      "popcorn",
+      "爆米花"
+    ]
+  },
+  "mussel": {
+    "zh_name": "蚌",
+    "aliases": [
+      "mussel",
+      "蚌"
+    ]
+  },
+  "peppermint_oil": {
+    "zh_name": "薄荷油",
+    "aliases": [
+      "peppermint_oil",
+      "薄荷油"
+    ]
+  },
+  "apple": {
+    "zh_name": "苹果",
+    "aliases": [
+      "apple",
+      "苹果"
+    ]
+  },
+  "wood_spirit": {
+    "zh_name": "木醇",
+    "aliases": [
+      "wood_spirit",
+      "木醇"
+    ]
+  },
+  "lime": {
+    "zh_name": "酸橙",
+    "aliases": [
+      "lime",
+      "酸橙"
+    ]
+  },
+  "robinia_pseudoacacia_oil": {
+    "zh_name": "罗尼亚假单胞菌油",
+    "aliases": [
+      "robinia_pseudoacacia_oil",
+      "罗尼亚假单胞菌油"
+    ]
+  },
+  "rutabaga": {
+    "zh_name": "鲁塔巴加",
+    "aliases": [
+      "rutabaga",
+      "鲁塔巴加"
+    ]
+  },
+  "eucalyptus_australianavar_oil": {
+    "zh_name": "桉树油",
+    "aliases": [
+      "eucalyptus_australianavar_oil",
+      "桉树油"
+    ]
+  },
+  "liatris_odoratissima": {
+    "zh_name": "Liatris odoratissima",
+    "aliases": [
+      "liatris_odoratissima",
+      "Liatris odoratissima"
+    ]
+  },
+  "crab": {
+    "zh_name": "螃蟹",
+    "aliases": [
+      "crab",
+      "螃蟹"
+    ]
+  },
+  "alpinia_malaccensis_oil": {
+    "zh_name": "阿尔卑斯菌油",
+    "aliases": [
+      "alpinia_malaccensis_oil",
+      "阿尔卑斯菌油"
+    ]
+  },
+  "raw_fish": {
+    "zh_name": "生鱼",
+    "aliases": [
+      "raw_fish",
+      "生鱼"
+    ]
+  },
+  "thuja_standishii": {
+    "zh_name": "Thuja Standishii",
+    "aliases": [
+      "thuja_standishii",
+      "Thuja Standishii"
+    ]
+  },
+  "tangerine": {
+    "zh_name": "柑橘",
+    "aliases": [
+      "tangerine",
+      "柑橘"
+    ]
+  },
+  "citrus_juice": {
+    "zh_name": "柑橘汁",
+    "aliases": [
+      "citrus_juice",
+      "柑橘汁"
+    ]
+  },
+  "french_marigold_oil": {
+    "zh_name": "法国万寿菊油",
+    "aliases": [
+      "french_marigold_oil",
+      "法国万寿菊油"
+    ]
+  },
+  "bitter_almond_oil": {
+    "zh_name": "苦杏仁油",
+    "aliases": [
+      "bitter_almond_oil",
+      "苦杏仁油"
+    ]
+  },
+  "salvia_spinosa": {
+    "zh_name": "Salvia spinosa",
+    "aliases": [
+      "salvia_spinosa",
+      "Salvia spinosa"
+    ]
+  },
+  "lamb_liver": {
+    "zh_name": "羊肝",
+    "aliases": [
+      "lamb_liver",
+      "羊肝"
+    ]
+  },
+  "mammee": {
+    "zh_name": "妈妈",
+    "aliases": [
+      "mammee",
+      "妈妈"
+    ]
+  },
+  "myrcia_acris": {
+    "zh_name": "Myrcia acris",
+    "aliases": [
+      "myrcia_acris",
+      "Myrcia acris"
+    ]
+  },
+  "bystropogon_mollis_leaf_oil": {
+    "zh_name": "Bystropogon Mollis叶油",
+    "aliases": [
+      "bystropogon_mollis_leaf_oil",
+      "Bystropogon Mollis叶油"
+    ]
+  },
+  "callitris": {
+    "zh_name": "Callitris",
+    "aliases": [
+      "callitris",
+      "Callitris"
+    ]
+  },
+  "roasted_barley": {
+    "zh_name": "烤大麦",
+    "aliases": [
+      "roasted_barley",
+      "烤大麦"
+    ]
+  },
+  "tuberose": {
+    "zh_name": "结核糖",
+    "aliases": [
+      "tuberose",
+      "结核糖"
+    ]
+  },
+  "lamb": {
+    "zh_name": "羊肉",
+    "aliases": [
+      "lamb",
+      "羊肉"
+    ]
+  },
+  "violet_leaf_oil": {
+    "zh_name": "紫罗兰叶油",
+    "aliases": [
+      "violet_leaf_oil",
+      "紫罗兰叶油"
+    ]
+  },
+  "wood_apple": {
+    "zh_name": "木苹果",
+    "aliases": [
+      "wood_apple",
+      "木苹果"
+    ]
+  },
+  "rhubarb": {
+    "zh_name": "大黄",
+    "aliases": [
+      "rhubarb",
+      "大黄"
+    ]
+  },
+  "custard_apple": {
+    "zh_name": "蛋糕苹果",
+    "aliases": [
+      "custard_apple",
+      "蛋糕苹果"
+    ]
+  },
+  "russian_cheese": {
+    "zh_name": "俄罗斯奶酪",
+    "aliases": [
+      "russian_cheese",
+      "俄罗斯奶酪"
+    ]
+  },
+  "animal": {
+    "zh_name": "动物",
+    "aliases": [
+      "animal",
+      "动物"
+    ]
+  },
+  "pelargonium_capitaux": {
+    "zh_name": "Pelargonium Capitaux",
+    "aliases": [
+      "pelargonium_capitaux",
+      "Pelargonium Capitaux"
+    ]
+  },
+  "angelica_root": {
+    "zh_name": "当归根",
+    "aliases": [
+      "angelica_root",
+      "当归根"
+    ]
+  },
+  "darwinia_grandiflora_oil": {
+    "zh_name": "达尔文尼亚grandiflora油",
+    "aliases": [
+      "darwinia_grandiflora_oil",
+      "达尔文尼亚grandiflora油"
+    ]
+  },
+  "persea_gratissima_peel": {
+    "zh_name": "persea gratissima peel",
+    "aliases": [
+      "persea_gratissima_peel",
+      "persea gratissima peel"
+    ]
+  },
+  "kohlrabi": {
+    "zh_name": "苤",
+    "aliases": [
+      "kohlrabi",
+      "苤"
+    ]
+  },
+  "cardamom": {
+    "zh_name": "豆蔻",
+    "aliases": [
+      "cardamom",
+      "豆蔻"
+    ]
+  },
+  "rhodophyllus_icterus": {
+    "zh_name": "黄果lus曲线",
+    "aliases": [
+      "rhodophyllus_icterus",
+      "黄果lus曲线"
+    ]
+  },
+  "mozzarella_cheese": {
+    "zh_name": "马苏里拉奶酪",
+    "aliases": [
+      "mozzarella_cheese",
+      "马苏里拉奶酪"
+    ]
+  },
+  "rye_ergot": {
+    "zh_name": "黑麦麦角",
+    "aliases": [
+      "rye_ergot",
+      "黑麦麦角"
+    ]
+  },
+  "cabbage": {
+    "zh_name": "卷心菜",
+    "aliases": [
+      "cabbage",
+      "卷心菜"
+    ]
+  },
+  "pork_sausage": {
+    "zh_name": "猪肉香肠",
+    "aliases": [
+      "pork_sausage",
+      "猪肉香肠"
+    ]
+  },
+  "armenian_muscat_grape_oil": {
+    "zh_name": "亚美尼亚马斯喀特葡萄油",
+    "aliases": [
+      "armenian_muscat_grape_oil",
+      "亚美尼亚马斯喀特葡萄油"
+    ]
+  },
+  "tomato": {
+    "zh_name": "番茄",
+    "aliases": [
+      "tomato",
+      "番茄"
+    ]
+  },
+  "violet_root": {
+    "zh_name": "紫色根",
+    "aliases": [
+      "violet_root",
+      "紫色根"
+    ]
+  },
+  "nance": {
+    "zh_name": "南斯",
+    "aliases": [
+      "nance",
+      "南斯"
+    ]
+  },
+  "ylangylang": {
+    "zh_name": "ylangylang",
+    "aliases": [
+      "ylangylang",
+      "ylangylang"
+    ]
+  },
+  "ocimum_viride": {
+    "zh_name": "Ocimum viride",
+    "aliases": [
+      "ocimum_viride",
+      "Ocimum viride"
+    ]
+  },
+  "fatty_fish": {
+    "zh_name": "脂肪鱼",
+    "aliases": [
+      "fatty_fish",
+      "脂肪鱼"
+    ]
+  },
+  "magnolia_grandiflora": {
+    "zh_name": "木兰grandiflora",
+    "aliases": [
+      "magnolia_grandiflora",
+      "木兰grandiflora"
+    ]
+  },
+  "tobacco_flower": {
+    "zh_name": "烟草花",
+    "aliases": [
+      "tobacco_flower",
+      "烟草花"
+    ]
+  },
+  "kumazasa": {
+    "zh_name": "库马萨萨",
+    "aliases": [
+      "kumazasa",
+      "库马萨萨"
+    ]
+  },
+  "acacia_dealbata": {
+    "zh_name": "相思dealbata",
+    "aliases": [
+      "acacia_dealbata",
+      "相思dealbata"
+    ]
+  },
+  "peanut_oil": {
+    "zh_name": "花生油",
+    "aliases": [
+      "peanut_oil",
+      "花生油"
+    ]
+  },
+  "artichoke": {
+    "zh_name": "朝鲜蓟",
+    "aliases": [
+      "artichoke",
+      "朝鲜蓟"
+    ]
+  },
+  "ocimum_gratissimum": {
+    "zh_name": "ocimum Gratissimum",
+    "aliases": [
+      "ocimum_gratissimum",
+      "ocimum Gratissimum"
+    ]
+  },
+  "litsea_odorifera_oil": {
+    "zh_name": "Litsea Odorifera油",
+    "aliases": [
+      "litsea_odorifera_oil",
+      "Litsea Odorifera油"
+    ]
+  },
+  "pawpaw": {
+    "zh_name": "pawpaw",
+    "aliases": [
+      "pawpaw",
+      "pawpaw"
+    ]
+  },
+  "walnut": {
+    "zh_name": "核桃",
+    "aliases": [
+      "walnut",
+      "核桃"
+    ]
+  },
+  "japanese_ho_leaf_oil": {
+    "zh_name": "日本叶油",
+    "aliases": [
+      "japanese_ho_leaf_oil",
+      "日本叶油"
+    ]
+  },
+  "orange": {
+    "zh_name": "橙子",
+    "aliases": [
+      "orange",
+      "橙子"
+    ]
+  },
+  "roasted_pecan": {
+    "zh_name": "烤山核桃",
+    "aliases": [
+      "roasted_pecan",
+      "烤山核桃"
+    ]
+  },
+  "abies_alba_pine_needle": {
+    "zh_name": "阿尔巴松子",
+    "aliases": [
+      "abies_alba_pine_needle",
+      "阿尔巴松子"
+    ]
+  },
+  "callitris_rubusta": {
+    "zh_name": "Callitris Rubusta",
+    "aliases": [
+      "callitris_rubusta",
+      "Callitris Rubusta"
+    ]
+  },
+  "citrus": {
+    "zh_name": "柑橘",
+    "aliases": [
+      "citrus",
+      "柑橘"
+    ]
+  },
+  "artemisia_frigida_oil": {
+    "zh_name": "阿耳emisia frigida油",
+    "aliases": [
+      "artemisia_frigida_oil",
+      "阿耳emisia frigida油"
+    ]
+  },
+  "orthodon": {
+    "zh_name": "正道",
+    "aliases": [
+      "orthodon",
+      "正道"
+    ]
+  },
+  "roman_chamomile_oil": {
+    "zh_name": "罗马洋甘菊油",
+    "aliases": [
+      "roman_chamomile_oil",
+      "罗马洋甘菊油"
+    ]
+  },
+  "jasminum_odoratissimum_oil": {
+    "zh_name": "茉莉气味的油",
+    "aliases": [
+      "jasminum_odoratissimum_oil",
+      "茉莉气味的油"
+    ]
+  },
+  "ormenis_mixta_oil": {
+    "zh_name": "Ormenis Mixta油",
+    "aliases": [
+      "ormenis_mixta_oil",
+      "Ormenis Mixta油"
+    ]
+  },
+  "coriander": {
+    "zh_name": "香菜",
+    "aliases": [
+      "coriander",
+      "香菜"
+    ]
+  },
+  "ptychotis_ajowan_seed_oil": {
+    "zh_name": "ptychotis ajowan种​​子油",
+    "aliases": [
+      "ptychotis_ajowan_seed_oil",
+      "ptychotis ajowan种​​子油"
+    ]
+  },
+  "cider": {
+    "zh_name": "苹果酒",
+    "aliases": [
+      "cider",
+      "苹果酒"
+    ]
+  },
+  "araucaria_cunninghamii": {
+    "zh_name": "Araucaria Cunninghamii",
+    "aliases": [
+      "araucaria_cunninghamii",
+      "Araucaria Cunninghamii"
+    ]
+  },
+  "grilled_pork": {
+    "zh_name": "烤猪肉",
+    "aliases": [
+      "grilled_pork",
+      "烤猪肉"
+    ]
+  },
+  "ambrette": {
+    "zh_name": "Ambrette",
+    "aliases": [
+      "ambrette",
+      "Ambrette"
+    ]
+  },
+  "ceylon_citronella": {
+    "zh_name": "锡兰·香龙氏菌",
+    "aliases": [
+      "ceylon_citronella",
+      "锡兰·香龙氏菌"
+    ]
+  },
+  "lilac": {
+    "zh_name": "紫丁香",
+    "aliases": [
+      "lilac",
+      "紫丁香"
+    ]
+  },
+  "litsea_cubeba_oil": {
+    "zh_name": "Litsea Cubeba油",
+    "aliases": [
+      "litsea_cubeba_oil",
+      "Litsea Cubeba油"
+    ]
+  },
+  "lentil": {
+    "zh_name": "小扁豆",
+    "aliases": [
+      "lentil",
+      "小扁豆"
+    ]
+  },
+  "pinanona": {
+    "zh_name": "Pinanona",
+    "aliases": [
+      "pinanona",
+      "Pinanona"
+    ]
+  },
+  "whole_grain_wheat_flour": {
+    "zh_name": "全麦麦面粉",
+    "aliases": [
+      "whole_grain_wheat_flour",
+      "全麦麦面粉"
+    ]
+  },
+  "luraceae_oil": {
+    "zh_name": "luraceae油",
+    "aliases": [
+      "luraceae_oil",
+      "luraceae油"
+    ]
+  },
+  "mate": {
+    "zh_name": "伴侣",
+    "aliases": [
+      "mate",
+      "伴侣"
+    ]
+  },
+  "barley": {
+    "zh_name": "大麦",
+    "aliases": [
+      "barley",
+      "大麦"
+    ]
+  },
+  "pepino_melon": {
+    "zh_name": "pepino瓜",
+    "aliases": [
+      "pepino_melon",
+      "pepino瓜"
+    ]
+  },
+  "sparkling_wine": {
+    "zh_name": "起泡酒",
+    "aliases": [
+      "sparkling_wine",
+      "起泡酒"
+    ]
+  },
+  "elderberry_fruit": {
+    "zh_name": "接骨木果实",
+    "aliases": [
+      "elderberry_fruit",
+      "接骨木果实"
+    ]
+  },
+  "pinus_sabiniana": {
+    "zh_name": "Pinus Sabiniana",
+    "aliases": [
+      "pinus_sabiniana",
+      "Pinus Sabiniana"
+    ]
+  },
+  "caesalpinia_spinosa": {
+    "zh_name": "凯撒皮亚脊柱",
+    "aliases": [
+      "caesalpinia_spinosa",
+      "凯撒皮亚脊柱"
+    ]
+  },
+  "monarda_punctata_oil": {
+    "zh_name": "Monarda Punctata油",
+    "aliases": [
+      "monarda_punctata_oil",
+      "Monarda Punctata油"
+    ]
+  },
+  "agathosma_gnidioides_leaf_oil": {
+    "zh_name": "Agathosma gnidioides叶油",
+    "aliases": [
+      "agathosma_gnidioides_leaf_oil",
+      "Agathosma gnidioides叶油"
+    ]
+  },
+  "wild_raspberry": {
+    "zh_name": "野生覆盆子",
+    "aliases": [
+      "wild_raspberry",
+      "野生覆盆子"
+    ]
+  },
+  "angelica_seed": {
+    "zh_name": "当归种子",
+    "aliases": [
+      "angelica_seed",
+      "当归种子"
+    ]
+  },
+  "mastic_gum": {
+    "zh_name": "乳胶口香糖",
+    "aliases": [
+      "mastic_gum",
+      "乳胶口香糖"
+    ]
+  },
+  "bell_pepper": {
+    "zh_name": "灯笼椒",
+    "aliases": [
+      "bell_pepper",
+      "灯笼椒"
+    ]
+  },
+  "artemisia_santolinifolia_oil": {
+    "zh_name": "Artemisia Santolinifolia油",
+    "aliases": [
+      "artemisia_santolinifolia_oil",
+      "Artemisia Santolinifolia油"
+    ]
+  },
+  "litsea_citrata": {
+    "zh_name": "Litsea Citrata",
+    "aliases": [
+      "litsea_citrata",
+      "Litsea Citrata"
+    ]
+  },
+  "honduras_peru_balsam": {
+    "zh_name": "洪都拉斯秘鲁香脂",
+    "aliases": [
+      "honduras_peru_balsam",
+      "洪都拉斯秘鲁香脂"
+    ]
+  },
+  "rooibus_tea": {
+    "zh_name": "Rooibus茶",
+    "aliases": [
+      "rooibus_tea",
+      "Rooibus茶"
+    ]
+  },
+  "parsnip": {
+    "zh_name": "欧洲防风草",
+    "aliases": [
+      "parsnip",
+      "欧洲防风草"
+    ]
+  },
+  "romano_cheese": {
+    "zh_name": "罗曼诺奶酪",
+    "aliases": [
+      "romano_cheese",
+      "罗曼诺奶酪"
+    ]
+  },
+  "beech_tar_creosote": {
+    "zh_name": "Beech tar creosote",
+    "aliases": [
+      "beech_tar_creosote",
+      "Beech tar creosote"
+    ]
+  },
+  "eryngium_facidum": {
+    "zh_name": "红细胞",
+    "aliases": [
+      "eryngium_facidum",
+      "红细胞"
+    ]
+  },
+  "lemon_flower": {
+    "zh_name": "柠檬花",
+    "aliases": [
+      "lemon_flower",
+      "柠檬花"
+    ]
+  },
+  "java_citronella_oil": {
+    "zh_name": "Java Citronella油",
+    "aliases": [
+      "java_citronella_oil",
+      "Java Citronella油"
+    ]
+  },
+  "alcoholic_beverage": {
+    "zh_name": "酒精饮料",
+    "aliases": [
+      "alcoholic_beverage",
+      "酒精饮料"
+    ]
+  },
+  "sapodilla_fruit": {
+    "zh_name": "sapodilla果实",
+    "aliases": [
+      "sapodilla_fruit",
+      "sapodilla果实"
+    ]
+  },
+  "shallot": {
+    "zh_name": "葱",
+    "aliases": [
+      "shallot",
+      "葱"
+    ]
+  },
+  "buchu_oil": {
+    "zh_name": "布丘油",
+    "aliases": [
+      "buchu_oil",
+      "布丘油"
+    ]
+  },
+  "udo": {
+    "zh_name": "UDO",
+    "aliases": [
+      "udo",
+      "UDO"
+    ]
+  },
+  "kola_nut": {
+    "zh_name": "kola螺母",
+    "aliases": [
+      "kola_nut",
+      "kola螺母"
+    ]
+  },
+  "rum_brandy": {
+    "zh_name": "朗姆酒白兰地",
+    "aliases": [
+      "rum_brandy",
+      "朗姆酒白兰地"
+    ]
+  },
+  "prune": {
+    "zh_name": "西梅干",
+    "aliases": [
+      "prune",
+      "西梅干"
+    ]
+  },
+  "malt_whiskey": {
+    "zh_name": "麦芽威士忌",
+    "aliases": [
+      "malt_whiskey",
+      "麦芽威士忌"
+    ]
+  },
+  "safflower_seed": {
+    "zh_name": "红花种子",
+    "aliases": [
+      "safflower_seed",
+      "红花种子"
+    ]
+  },
+  "camphor_oil": {
+    "zh_name": "樟脑油",
+    "aliases": [
+      "camphor_oil",
+      "樟脑油"
+    ]
+  },
+  "cowberry": {
+    "zh_name": "牛莓",
+    "aliases": [
+      "cowberry",
+      "牛莓"
+    ]
+  },
+  "melaleuca_bracteata_leaf": {
+    "zh_name": "Melaleuca bracteata叶",
+    "aliases": [
+      "melaleuca_bracteata_leaf",
+      "Melaleuca bracteata叶"
+    ]
+  },
+  "bilberry": {
+    "zh_name": "覆盆子",
+    "aliases": [
+      "bilberry",
+      "覆盆子"
+    ]
+  },
+  "uncured_pork": {
+    "zh_name": "未固定的猪肉",
+    "aliases": [
+      "uncured_pork",
+      "未固定的猪肉"
+    ]
+  },
+  "betel": {
+    "zh_name": "槟榔",
+    "aliases": [
+      "betel",
+      "槟榔"
+    ]
+  },
+  "raw_radish": {
+    "zh_name": "原始萝卜",
+    "aliases": [
+      "raw_radish",
+      "原始萝卜"
+    ]
+  },
+  "clove": {
+    "zh_name": "丁香",
+    "aliases": [
+      "clove",
+      "丁香"
+    ]
+  },
+  "hoary_basil": {
+    "zh_name": "HOARY BASIL",
+    "aliases": [
+      "hoary_basil",
+      "HOARY BASIL"
+    ]
+  },
+  "bone_oil": {
+    "zh_name": "骨油",
+    "aliases": [
+      "bone_oil",
+      "骨油"
+    ]
+  },
+  "thymbra_spicata_oil": {
+    "zh_name": "晶状体spicata油",
+    "aliases": [
+      "thymbra_spicata_oil",
+      "晶状体spicata油"
+    ]
+  },
+  "ginger_grass": {
+    "zh_name": "生姜草",
+    "aliases": [
+      "ginger_grass",
+      "生姜草"
+    ]
+  },
+  "chestnut_flower": {
+    "zh_name": "栗子花",
+    "aliases": [
+      "chestnut_flower",
+      "栗子花"
+    ]
+  },
+  "trifolium_incarnatum": {
+    "zh_name": "三叶tif",
+    "aliases": [
+      "trifolium_incarnatum",
+      "三叶tif"
+    ]
+  },
+  "rose_hip": {
+    "zh_name": "玫瑰臀部",
+    "aliases": [
+      "rose_hip",
+      "玫瑰臀部"
+    ]
+  },
+  "vervain": {
+    "zh_name": "Vervain",
+    "aliases": [
+      "vervain",
+      "Vervain"
+    ]
+  },
+  "salmon_oil": {
+    "zh_name": "鲑鱼油",
+    "aliases": [
+      "salmon_oil",
+      "鲑鱼油"
+    ]
+  },
+  "raw_potato": {
+    "zh_name": "生土豆",
+    "aliases": [
+      "raw_potato",
+      "生土豆"
+    ]
+  },
+  "russian_anise": {
+    "zh_name": "俄罗斯茴香",
+    "aliases": [
+      "russian_anise",
+      "俄罗斯茴香"
+    ]
+  },
+  "eucalyptus_bakeries_oil": {
+    "zh_name": "桉树面包油",
+    "aliases": [
+      "eucalyptus_bakeries_oil",
+      "桉树面包油"
+    ]
+  },
+  "jasminum_grandiflorum_oil": {
+    "zh_name": "茉莉花油",
+    "aliases": [
+      "jasminum_grandiflorum_oil",
+      "茉莉花油"
+    ]
+  },
+  "matsutake": {
+    "zh_name": "田园",
+    "aliases": [
+      "matsutake",
+      "田园"
+    ]
+  },
+  "tolu_balsam": {
+    "zh_name": "托卢香脂",
+    "aliases": [
+      "tolu_balsam",
+      "托卢香脂"
+    ]
+  },
+  "seaweed": {
+    "zh_name": "海藻",
+    "aliases": [
+      "seaweed",
+      "海藻"
+    ]
+  },
+  "sour_cherry": {
+    "zh_name": "酸樱桃",
+    "aliases": [
+      "sour_cherry",
+      "酸樱桃"
+    ]
+  },
+  "chicken": {
+    "zh_name": "鸡",
+    "aliases": [
+      "chicken",
+      "鸡"
+    ]
+  },
+  "rhus_typhia": {
+    "zh_name": "Rhus Typhia",
+    "aliases": [
+      "rhus_typhia",
+      "Rhus Typhia"
+    ]
+  },
+  "california_lemon_oil": {
+    "zh_name": "加利福尼亚柠檬油",
+    "aliases": [
+      "california_lemon_oil",
+      "加利福尼亚柠檬油"
+    ]
+  },
+  "alpinia_sessilis": {
+    "zh_name": "Alpinia Sessilis",
+    "aliases": [
+      "alpinia_sessilis",
+      "Alpinia Sessilis"
+    ]
+  },
+  "artemisae_oil": {
+    "zh_name": "Artemisae油",
+    "aliases": [
+      "artemisae_oil",
+      "Artemisae油"
+    ]
+  },
+  "bog_blueberry": {
+    "zh_name": "沼泽蓝莓",
+    "aliases": [
+      "bog_blueberry",
+      "沼泽蓝莓"
+    ]
+  },
+  "starch": {
+    "zh_name": "淀粉",
+    "aliases": [
+      "starch",
+      "淀粉"
+    ]
+  },
+  "raw_turkey": {
+    "zh_name": "生土耳其",
+    "aliases": [
+      "raw_turkey",
+      "生土耳其"
+    ]
+  },
+  "welsh_onion": {
+    "zh_name": "威尔士洋葱",
+    "aliases": [
+      "welsh_onion",
+      "威尔士洋葱"
+    ]
+  },
+  "piper_lowong": {
+    "zh_name": "吹笛者最低",
+    "aliases": [
+      "piper_lowong",
+      "吹笛者最低"
+    ]
+  },
+  "bean": {
+    "zh_name": "豆",
+    "aliases": [
+      "bean",
+      "豆"
+    ]
+  },
+  "picea_rubens": {
+    "zh_name": "Picea Rubens",
+    "aliases": [
+      "picea_rubens",
+      "Picea Rubens"
+    ]
+  },
+  "plum_wine": {
+    "zh_name": "梅酒",
+    "aliases": [
+      "plum_wine",
+      "梅酒"
+    ]
+  },
+  "bourbon_whiskey": {
+    "zh_name": "波旁威士忌",
+    "aliases": [
+      "bourbon_whiskey",
+      "波旁威士忌"
+    ]
+  },
+  "chicory_root": {
+    "zh_name": "菊苣根",
+    "aliases": [
+      "chicory_root",
+      "菊苣根"
+    ]
+  },
+  "tobacco": {
+    "zh_name": "烟草",
+    "aliases": [
+      "tobacco",
+      "烟草"
+    ]
+  },
+  "sea_bass": {
+    "zh_name": "鲈鱼",
+    "aliases": [
+      "sea_bass",
+      "鲈鱼"
+    ]
+  },
+  "rosemary_oil": {
+    "zh_name": "迷迭香油",
+    "aliases": [
+      "rosemary_oil",
+      "迷迭香油"
+    ]
+  },
+  "nutmeg": {
+    "zh_name": "肉豆蔻",
+    "aliases": [
+      "nutmeg",
+      "肉豆蔻"
+    ]
+  },
+  "honeydew": {
+    "zh_name": "甘露",
+    "aliases": [
+      "honeydew",
+      "甘露"
+    ]
+  },
+  "phellodendron_amurense_fruit": {
+    "zh_name": "Phellodendron Amurense水果",
+    "aliases": [
+      "phellodendron_amurense_fruit",
+      "Phellodendron Amurense水果"
+    ]
+  },
+  "baeckea_citriodora_oil": {
+    "zh_name": "Baeckea citriodora油",
+    "aliases": [
+      "baeckea_citriodora_oil",
+      "Baeckea citriodora油"
+    ]
+  },
+  "cupressaceae": {
+    "zh_name": "Cupressaceae",
+    "aliases": [
+      "cupressaceae",
+      "Cupressaceae"
+    ]
+  },
+  "apple_juice": {
+    "zh_name": "苹果汁",
+    "aliases": [
+      "apple_juice",
+      "苹果汁"
+    ]
+  },
+  "chamaecyparis_formosensis_oil": {
+    "zh_name": "chamaecyparis formosensis油",
+    "aliases": [
+      "chamaecyparis_formosensis_oil",
+      "chamaecyparis formosensis油"
+    ]
+  },
+  "roasted_spanish_peanut": {
+    "zh_name": "烤西班牙花生",
+    "aliases": [
+      "roasted_spanish_peanut",
+      "烤西班牙花生"
+    ]
+  },
+  "rose_flower_oil": {
+    "zh_name": "玫瑰花油",
+    "aliases": [
+      "rose_flower_oil",
+      "玫瑰花油"
+    ]
+  },
+  "furcraea_gigantean_flower_oil": {
+    "zh_name": "毛茸茸的gigantean花油",
+    "aliases": [
+      "furcraea_gigantean_flower_oil",
+      "毛茸茸的gigantean花油"
+    ]
+  },
+  "caprifoliaceae": {
+    "zh_name": "卡氏菌科",
+    "aliases": [
+      "caprifoliaceae",
+      "卡氏菌科"
+    ]
+  },
+  "orris_oil": {
+    "zh_name": "奥里斯油",
+    "aliases": [
+      "orris_oil",
+      "奥里斯油"
+    ]
+  },
+  "wheat_flake": {
+    "zh_name": "麦片",
+    "aliases": [
+      "wheat_flake",
+      "麦片"
+    ]
+  },
+  "mustard_greens_oil": {
+    "zh_name": "芥末绿油",
+    "aliases": [
+      "mustard_greens_oil",
+      "芥末绿油"
+    ]
+  },
+  "cauliflower": {
+    "zh_name": "菜花",
+    "aliases": [
+      "cauliflower",
+      "菜花"
+    ]
+  },
+  "finnish_pine_oil": {
+    "zh_name": "芬兰松油",
+    "aliases": [
+      "finnish_pine_oil",
+      "芬兰松油"
+    ]
+  },
+  "sassafras": {
+    "zh_name": "Sassafras",
+    "aliases": [
+      "sassafras",
+      "Sassafras"
+    ]
+  },
+  "prickly_pear": {
+    "zh_name": "刺梨",
+    "aliases": [
+      "prickly_pear",
+      "刺梨"
+    ]
+  },
+  "guinea_pepper": {
+    "zh_name": "几内亚胡椒",
+    "aliases": [
+      "guinea_pepper",
+      "几内亚胡椒"
+    ]
+  },
+  "black_raspberry": {
+    "zh_name": "黑色覆盆子",
+    "aliases": [
+      "black_raspberry",
+      "黑色覆盆子"
+    ]
+  },
+  "picea_alba_oil": {
+    "zh_name": "picea alba油",
+    "aliases": [
+      "picea_alba_oil",
+      "picea alba油"
+    ]
+  },
+  "grain": {
+    "zh_name": "粮食",
+    "aliases": [
+      "grain",
+      "粮食"
+    ]
+  },
+  "split_pea": {
+    "zh_name": "豌豆分裂",
+    "aliases": [
+      "split_pea",
+      "豌豆分裂"
+    ]
+  },
+  "marjoram": {
+    "zh_name": "Marjoram",
+    "aliases": [
+      "marjoram",
+      "Marjoram"
+    ]
+  },
+  "roasted_cocoa": {
+    "zh_name": "烤可可",
+    "aliases": [
+      "roasted_cocoa",
+      "烤可可"
+    ]
+  },
+  "litsea_cubeba": {
+    "zh_name": "Litsea Cubeba",
+    "aliases": [
+      "litsea_cubeba",
+      "Litsea Cubeba"
+    ]
+  },
+  "oregano": {
+    "zh_name": "牛至",
+    "aliases": [
+      "oregano",
+      "牛至"
+    ]
+  },
+  "parsnip_fruit": {
+    "zh_name": "脱身水果",
+    "aliases": [
+      "parsnip_fruit",
+      "脱身水果"
+    ]
+  },
+  "anise_seed_oil": {
+    "zh_name": "茴香籽油",
+    "aliases": [
+      "anise_seed_oil",
+      "茴香籽油"
+    ]
+  },
+  "rhizopus": {
+    "zh_name": "根茎",
+    "aliases": [
+      "rhizopus",
+      "根茎"
+    ]
+  },
+  "valerian_root_oil": {
+    "zh_name": "缬草根油",
+    "aliases": [
+      "valerian_root_oil",
+      "缬草根油"
+    ]
+  },
+  "neroli_oil": {
+    "zh_name": "Neroli油",
+    "aliases": [
+      "neroli_oil",
+      "Neroli油"
+    ]
+  },
+  "arnica_montana": {
+    "zh_name": "Arnica Montana",
+    "aliases": [
+      "arnica_montana",
+      "Arnica Montana"
+    ]
+  },
+  "tangerine_juice": {
+    "zh_name": "橘汁",
+    "aliases": [
+      "tangerine_juice",
+      "橘汁"
+    ]
+  },
+  "cured_pork": {
+    "zh_name": "腌猪肉",
+    "aliases": [
+      "cured_pork",
+      "腌猪肉"
+    ]
+  },
+  "verbenaceae": {
+    "zh_name": "玉米素科",
+    "aliases": [
+      "verbenaceae",
+      "玉米素科"
+    ]
+  },
+  "abies_alba": {
+    "zh_name": "阿比斯·阿尔巴（Abies Alba）",
+    "aliases": [
+      "abies_alba",
+      "阿比斯·阿尔巴（Abies Alba）"
+    ]
+  },
+  "hyacinth": {
+    "zh_name": "风信子",
+    "aliases": [
+      "hyacinth",
+      "风信子"
+    ]
+  },
+  "cypress": {
+    "zh_name": "柏",
+    "aliases": [
+      "cypress",
+      "柏"
+    ]
+  },
+  "fennel_oil": {
+    "zh_name": "茴香油",
+    "aliases": [
+      "fennel_oil",
+      "茴香油"
+    ]
+  },
+  "wood": {
+    "zh_name": "木头",
+    "aliases": [
+      "wood",
+      "木头"
+    ]
+  },
+  "satureia_montana": {
+    "zh_name": "蒙大拿州的Satureia",
+    "aliases": [
+      "satureia_montana",
+      "蒙大拿州的Satureia"
+    ]
+  },
+  "liquidambar_orientalis_storax": {
+    "zh_name": "Liquidambar Orientalis Storax",
+    "aliases": [
+      "liquidambar_orientalis_storax",
+      "Liquidambar Orientalis Storax"
+    ]
+  },
+  "vanilla": {
+    "zh_name": "香草",
+    "aliases": [
+      "vanilla",
+      "香草"
+    ]
+  },
+  "raw_leek": {
+    "zh_name": "生韭菜",
+    "aliases": [
+      "raw_leek",
+      "生韭菜"
+    ]
+  },
+  "chokeberry": {
+    "zh_name": "chrokerberry",
+    "aliases": [
+      "chokeberry",
+      "chrokerberry"
+    ]
+  },
+  "pork_liver": {
+    "zh_name": "猪肝",
+    "aliases": [
+      "pork_liver",
+      "猪肝"
+    ]
+  },
+  "salvia_triloba_oil": {
+    "zh_name": "Salvia Triloba油",
+    "aliases": [
+      "salvia_triloba_oil",
+      "Salvia Triloba油"
+    ]
+  },
+  "grapefruit_peel_oil": {
+    "zh_name": "葡萄柚皮油",
+    "aliases": [
+      "grapefruit_peel_oil",
+      "葡萄柚皮油"
+    ]
+  },
+  "naranjilla": {
+    "zh_name": "纳兰吉拉",
+    "aliases": [
+      "naranjilla",
+      "纳兰吉拉"
+    ]
+  },
+  "squid": {
+    "zh_name": "乌贼",
+    "aliases": [
+      "squid",
+      "乌贼"
+    ]
+  },
+  "wild_marjoram": {
+    "zh_name": "野马",
+    "aliases": [
+      "wild_marjoram",
+      "野马"
+    ]
+  },
+  "israeli_orange_oil": {
+    "zh_name": "以色列橙油",
+    "aliases": [
+      "israeli_orange_oil",
+      "以色列橙油"
+    ]
+  },
+  "roasted_filbert": {
+    "zh_name": "烤菲尔伯特",
+    "aliases": [
+      "roasted_filbert",
+      "烤菲尔伯特"
+    ]
+  },
+  "aristolochia_clematitis": {
+    "zh_name": "阿里斯洛希氏菌皮肤炎",
+    "aliases": [
+      "aristolochia_clematitis",
+      "阿里斯洛希氏菌皮肤炎"
+    ]
+  },
+  "sesame_seed": {
+    "zh_name": "芝麻种子",
+    "aliases": [
+      "sesame_seed",
+      "芝麻种子"
+    ]
+  },
+  "laurel_leaf": {
+    "zh_name": "月桂树叶",
+    "aliases": [
+      "laurel_leaf",
+      "月桂树叶"
+    ]
+  },
+  "guinea_orange_oil": {
+    "zh_name": "几内亚橙油",
+    "aliases": [
+      "guinea_orange_oil",
+      "几内亚橙油"
+    ]
+  },
+  "fenugreek": {
+    "zh_name": "胡芦巴",
+    "aliases": [
+      "fenugreek",
+      "胡芦巴"
+    ]
+  },
+  "balm": {
+    "zh_name": "香脂",
+    "aliases": [
+      "balm",
+      "香脂"
+    ]
+  },
+  "lilium_candidum_flower": {
+    "zh_name": "百合念珠花",
+    "aliases": [
+      "lilium_candidum_flower",
+      "百合念珠花"
+    ]
+  },
+  "black_currant_bud": {
+    "zh_name": "黑醋栗芽",
+    "aliases": [
+      "black_currant_bud",
+      "黑醋栗芽"
+    ]
+  },
+  "french_peppermint": {
+    "zh_name": "法国薄荷",
+    "aliases": [
+      "french_peppermint",
+      "法国薄荷"
+    ]
+  },
+  "whale": {
+    "zh_name": "鲸",
+    "aliases": [
+      "whale",
+      "鲸"
+    ]
+  },
+  "broccoli": {
+    "zh_name": "西兰花",
+    "aliases": [
+      "broccoli",
+      "西兰花"
+    ]
+  },
+  "feta_cheese": {
+    "zh_name": "羊奶酪",
+    "aliases": [
+      "feta_cheese",
+      "羊奶酪"
+    ]
+  },
+  "water_apple": {
+    "zh_name": "水苹果",
+    "aliases": [
+      "water_apple",
+      "水苹果"
+    ]
+  },
+  "crowberry": {
+    "zh_name": "克劳伯里",
+    "aliases": [
+      "crowberry",
+      "克劳伯里"
+    ]
+  },
+  "camphor": {
+    "zh_name": "樟",
+    "aliases": [
+      "camphor",
+      "樟"
+    ]
+  },
+  "hatsutake": {
+    "zh_name": "hatsutake",
+    "aliases": [
+      "hatsutake",
+      "hatsutake"
+    ]
+  },
+  "texas_sage": {
+    "zh_name": "德克萨斯鼠尾草",
+    "aliases": [
+      "texas_sage",
+      "德克萨斯鼠尾草"
+    ]
+  },
+  "white_wine": {
+    "zh_name": "白葡萄酒",
+    "aliases": [
+      "white_wine",
+      "白葡萄酒"
+    ]
+  },
+  "sweet_grass_oil": {
+    "zh_name": "甜草油",
+    "aliases": [
+      "sweet_grass_oil",
+      "甜草油"
+    ]
+  },
+  "cymbopogon_sennaarensis": {
+    "zh_name": "Cymbopogon Sennaarensis",
+    "aliases": [
+      "cymbopogon_sennaarensis",
+      "Cymbopogon Sennaarensis"
+    ]
+  },
+  "pinaceae": {
+    "zh_name": "皮纳纳科",
+    "aliases": [
+      "pinaceae",
+      "皮纳纳科"
+    ]
+  },
+  "azalea": {
+    "zh_name": "映山红",
+    "aliases": [
+      "azalea",
+      "映山红"
+    ]
+  },
+  "magnolia_fuscata": {
+    "zh_name": "木兰Fuscata",
+    "aliases": [
+      "magnolia_fuscata",
+      "木兰Fuscata"
+    ]
+  },
+  "jerusalem_artichoke": {
+    "zh_name": "耶路撒冷朝鲜蓟",
+    "aliases": [
+      "jerusalem_artichoke",
+      "耶路撒冷朝鲜蓟"
+    ]
+  },
+  "oat": {
+    "zh_name": "燕麦",
+    "aliases": [
+      "oat",
+      "燕麦"
+    ]
+  },
+  "nira": {
+    "zh_name": "尼拉",
+    "aliases": [
+      "nira",
+      "尼拉"
+    ]
+  },
+  "daffodil_flower": {
+    "zh_name": "水仙花花",
+    "aliases": [
+      "daffodil_flower",
+      "水仙花花"
+    ]
+  },
+  "malay_apple": {
+    "zh_name": "马来苹果",
+    "aliases": [
+      "malay_apple",
+      "马来苹果"
+    ]
+  },
+  "peated_malt": {
+    "zh_name": "麦芽麦芽",
+    "aliases": [
+      "peated_malt",
+      "麦芽麦芽"
+    ]
+  },
+  "berry_juice": {
+    "zh_name": "浆果汁",
+    "aliases": [
+      "berry_juice",
+      "浆果汁"
+    ]
+  },
+  "weinbrand": {
+    "zh_name": "Weinbrand",
+    "aliases": [
+      "weinbrand",
+      "Weinbrand"
+    ]
+  },
+  "cayenne_linaloe": {
+    "zh_name": "cayenne linaloe",
+    "aliases": [
+      "cayenne_linaloe",
+      "cayenne linaloe"
+    ]
+  },
+  "cruciferae_seed": {
+    "zh_name": "十字架种子",
+    "aliases": [
+      "cruciferae_seed",
+      "十字架种子"
+    ]
+  },
+  "raw_fatty_fish": {
+    "zh_name": "生脂鱼",
+    "aliases": [
+      "raw_fatty_fish",
+      "生脂鱼"
+    ]
+  },
+  "black_currant_juice": {
+    "zh_name": "黑醋栗汁",
+    "aliases": [
+      "black_currant_juice",
+      "黑醋栗汁"
+    ]
+  },
+  "lovage": {
+    "zh_name": "爱",
+    "aliases": [
+      "lovage",
+      "爱"
+    ]
+  },
+  "mindanaese_cinnamomum_oil": {
+    "zh_name": "棉兰老岛肉桂油",
+    "aliases": [
+      "mindanaese_cinnamomum_oil",
+      "棉兰老岛肉桂油"
+    ]
+  },
+  "lippia_scaberrima": {
+    "zh_name": "Lippia Scaberrima",
+    "aliases": [
+      "lippia_scaberrima",
+      "Lippia Scaberrima"
+    ]
+  },
+  "rhus_coriaria": {
+    "zh_name": "Rhus Coriaria",
+    "aliases": [
+      "rhus_coriaria",
+      "Rhus Coriaria"
+    ]
+  },
+  "strawberry_wine": {
+    "zh_name": "草莓葡萄酒",
+    "aliases": [
+      "strawberry_wine",
+      "草莓葡萄酒"
+    ]
+  },
+  "silkworm_chrysalis": {
+    "zh_name": "蚕蛹",
+    "aliases": [
+      "silkworm_chrysalis",
+      "蚕蛹"
+    ]
+  },
+  "pinus_jeffreyi_leaf_oil": {
+    "zh_name": "Pinus Jeffreyi叶油",
+    "aliases": [
+      "pinus_jeffreyi_leaf_oil",
+      "Pinus Jeffreyi叶油"
+    ]
+  },
+  "ceylon_tea_oil": {
+    "zh_name": "锡兰茶油",
+    "aliases": [
+      "ceylon_tea_oil",
+      "锡兰茶油"
+    ]
+  },
+  "wheaten_bread": {
+    "zh_name": "小麦面包",
+    "aliases": [
+      "wheaten_bread",
+      "小麦面包"
+    ]
+  },
+  "andropogon_intermedius": {
+    "zh_name": "Andropogon Intermedius",
+    "aliases": [
+      "andropogon_intermedius",
+      "Andropogon Intermedius"
+    ]
+  },
+  "blumea_eriantha_oil": {
+    "zh_name": "Blumea Eriantha油",
+    "aliases": [
+      "blumea_eriantha_oil",
+      "Blumea Eriantha油"
+    ]
+  },
+  "jasminum_grandiflorum": {
+    "zh_name": "茉莉花grandiflorum",
+    "aliases": [
+      "jasminum_grandiflorum",
+      "茉莉花grandiflorum"
+    ]
+  },
+  "achillea_millefolium": {
+    "zh_name": "阿基里亚千年",
+    "aliases": [
+      "achillea_millefolium",
+      "阿基里亚千年"
+    ]
+  },
+  "thuja_occidentalis_oil": {
+    "zh_name": "Thuja Occidentalis油",
+    "aliases": [
+      "thuja_occidentalis_oil",
+      "Thuja Occidentalis油"
+    ]
+  },
+  "lime_oil": {
+    "zh_name": "青柠油",
+    "aliases": [
+      "lime_oil",
+      "青柠油"
+    ]
+  },
+  "orthodon_asaroniferum_oil": {
+    "zh_name": "正极Asaroniferum油",
+    "aliases": [
+      "orthodon_asaroniferum_oil",
+      "正极Asaroniferum油"
+    ]
+  },
+  "barosma_venustum": {
+    "zh_name": "巴罗斯玛象牙",
+    "aliases": [
+      "barosma_venustum",
+      "巴罗斯玛象牙"
+    ]
+  },
+  "lippia_carviodora": {
+    "zh_name": "Lippia Carviodora",
+    "aliases": [
+      "lippia_carviodora",
+      "Lippia Carviodora"
+    ]
+  },
+  "leaf": {
+    "zh_name": "叶子",
+    "aliases": [
+      "leaf",
+      "叶子"
+    ]
+  },
+  "melaleuca_viridiflora": {
+    "zh_name": "Melaleuca viridiflora",
+    "aliases": [
+      "melaleuca_viridiflora",
+      "Melaleuca viridiflora"
+    ]
+  },
+  "parsnip_root": {
+    "zh_name": "隔行根",
+    "aliases": [
+      "parsnip_root",
+      "隔行根"
+    ]
+  },
+  "neroli_bigarade": {
+    "zh_name": "Neroli bigarade",
+    "aliases": [
+      "neroli_bigarade",
+      "Neroli bigarade"
+    ]
+  },
+  "truffle": {
+    "zh_name": "松露",
+    "aliases": [
+      "truffle",
+      "松露"
+    ]
+  },
+  "thymus_oil": {
+    "zh_name": "胸油",
+    "aliases": [
+      "thymus_oil",
+      "胸油"
+    ]
+  },
+  "pepper": {
+    "zh_name": "胡椒",
+    "aliases": [
+      "pepper",
+      "胡椒"
+    ]
+  },
+  "rangpur": {
+    "zh_name": "朗布尔",
+    "aliases": [
+      "rangpur",
+      "朗布尔"
+    ]
+  },
+  "oxidized_lard": {
+    "zh_name": "氧化的猪油",
+    "aliases": [
+      "oxidized_lard",
+      "氧化的猪油"
+    ]
+  },
+  "champagne_wine": {
+    "zh_name": "香槟酒",
+    "aliases": [
+      "champagne_wine",
+      "香槟酒"
+    ]
+  },
+  "roasted_chicken": {
+    "zh_name": "烤鸡",
+    "aliases": [
+      "roasted_chicken",
+      "烤鸡"
+    ]
+  },
+  "pike": {
+    "zh_name": "派克",
+    "aliases": [
+      "pike",
+      "派克"
+    ]
+  },
+  "ambergris_oil": {
+    "zh_name": "ambergris油",
+    "aliases": [
+      "ambergris_oil",
+      "ambergris油"
+    ]
+  },
+  "black_bean": {
+    "zh_name": "黑豆",
+    "aliases": [
+      "black_bean",
+      "黑豆"
+    ]
+  },
+  "ocotea_usambarensis_oil": {
+    "zh_name": "Ocotea usambarensis油",
+    "aliases": [
+      "ocotea_usambarensis_oil",
+      "Ocotea usambarensis油"
+    ]
+  },
+  "passiflora_edulis": {
+    "zh_name": "苏菲拉·埃利斯（Pastiflora Edulis）",
+    "aliases": [
+      "passiflora_edulis",
+      "苏菲拉·埃利斯（Pastiflora Edulis）"
+    ]
+  },
+  "cranberry": {
+    "zh_name": "蔓越莓",
+    "aliases": [
+      "cranberry",
+      "蔓越莓"
+    ]
+  },
+  "mandarin_peel": {
+    "zh_name": "普通话皮",
+    "aliases": [
+      "mandarin_peel",
+      "普通话皮"
+    ]
+  },
+  "citron": {
+    "zh_name": "香橼",
+    "aliases": [
+      "citron",
+      "香橼"
+    ]
+  },
+  "spanish_anise": {
+    "zh_name": "西班牙茴香",
+    "aliases": [
+      "spanish_anise",
+      "西班牙茴香"
+    ]
+  },
+  "chempedak": {
+    "zh_name": "chempedak",
+    "aliases": [
+      "chempedak",
+      "chempedak"
+    ]
+  },
+  "vitis_labrusca_oil": {
+    "zh_name": "葡萄酒葡萄酒",
+    "aliases": [
+      "vitis_labrusca_oil",
+      "葡萄酒葡萄酒"
+    ]
+  },
+  "plumcot": {
+    "zh_name": "羽绒",
+    "aliases": [
+      "plumcot",
+      "羽绒"
+    ]
+  },
+  "cocoa": {
+    "zh_name": "可可",
+    "aliases": [
+      "cocoa",
+      "可可"
+    ]
+  },
+  "dill_blossom": {
+    "zh_name": "莳萝开花",
+    "aliases": [
+      "dill_blossom",
+      "莳萝开花"
+    ]
+  },
+  "spirea_ulmaria_oil": {
+    "zh_name": "Spirea ulmaria油",
+    "aliases": [
+      "spirea_ulmaria_oil",
+      "Spirea ulmaria油"
+    ]
+  },
+  "maize": {
+    "zh_name": "玉米",
+    "aliases": [
+      "maize",
+      "玉米"
+    ]
+  },
+  "ruta_montana_oil": {
+    "zh_name": "ruta蒙大拿州油",
+    "aliases": [
+      "ruta_montana_oil",
+      "ruta蒙大拿州油"
+    ]
+  },
+  "rosa_rugosa": {
+    "zh_name": "罗莎·鲁戈萨（Rosa Rugosa）",
+    "aliases": [
+      "rosa_rugosa",
+      "罗莎·鲁戈萨（Rosa Rugosa）"
+    ]
+  },
+  "caviar": {
+    "zh_name": "鱼子酱",
+    "aliases": [
+      "caviar",
+      "鱼子酱"
+    ]
+  },
+  "beer": {
+    "zh_name": "啤酒",
+    "aliases": [
+      "beer",
+      "啤酒"
+    ]
+  },
+  "rose_apple": {
+    "zh_name": "玫瑰苹果",
+    "aliases": [
+      "rose_apple",
+      "玫瑰苹果"
+    ]
+  },
+  "sturgeon_caviar": {
+    "zh_name": "st鱼鱼子酱",
+    "aliases": [
+      "sturgeon_caviar",
+      "st鱼鱼子酱"
+    ]
+  },
+  "bitter_almond": {
+    "zh_name": "苦杏仁",
+    "aliases": [
+      "bitter_almond",
+      "苦杏仁"
+    ]
+  },
+  "valerian": {
+    "zh_name": "瓦莱里安",
+    "aliases": [
+      "valerian",
+      "瓦莱里安"
+    ]
+  },
+  "algerian_geranium_oil": {
+    "zh_name": "阿尔及利亚天鹅烷油",
+    "aliases": [
+      "algerian_geranium_oil",
+      "阿尔及利亚天鹅烷油"
+    ]
+  },
+  "thymus_mastichina": {
+    "zh_name": "百里香马斯蒂奇纳",
+    "aliases": [
+      "thymus_mastichina",
+      "百里香马斯蒂奇纳"
+    ]
+  },
+  "citrus_flower_oil": {
+    "zh_name": "柑橘花油",
+    "aliases": [
+      "citrus_flower_oil",
+      "柑橘花油"
+    ]
+  },
+  "lime_peel_oil": {
+    "zh_name": "青柠果油",
+    "aliases": [
+      "lime_peel_oil",
+      "青柠果油"
+    ]
+  },
+  "artemisia": {
+    "zh_name": "蒿",
+    "aliases": [
+      "artemisia",
+      "蒿"
+    ]
+  },
+  "compositae": {
+    "zh_name": "合作社",
+    "aliases": [
+      "compositae",
+      "合作社"
+    ]
+  },
+  "daffodil": {
+    "zh_name": "水仙花",
+    "aliases": [
+      "daffodil",
+      "水仙花"
+    ]
+  },
+  "valeriana_officinalis": {
+    "zh_name": "Valeriana officinalis",
+    "aliases": [
+      "valeriana_officinalis",
+      "Valeriana officinalis"
+    ]
+  },
+  "japanese_plum": {
+    "zh_name": "日本梅子",
+    "aliases": [
+      "japanese_plum",
+      "日本梅子"
+    ]
+  },
+  "origanum_floribundum": {
+    "zh_name": "Origanum Floribundum",
+    "aliases": [
+      "origanum_floribundum",
+      "Origanum Floribundum"
+    ]
+  },
+  "persea_pubescens": {
+    "zh_name": "Persea bubescens",
+    "aliases": [
+      "persea_pubescens",
+      "Persea bubescens"
+    ]
+  },
+  "condiment": {
+    "zh_name": "调味品",
+    "aliases": [
+      "condiment",
+      "调味品"
+    ]
+  },
+  "lilac_flower_oil": {
+    "zh_name": "淡紫色花油",
+    "aliases": [
+      "lilac_flower_oil",
+      "淡紫色花油"
+    ]
+  },
+  "white_currant_juice": {
+    "zh_name": "白醋栗汁",
+    "aliases": [
+      "white_currant_juice",
+      "白醋栗汁"
+    ]
+  },
+  "pouching_tea": {
+    "zh_name": "小袋茶",
+    "aliases": [
+      "pouching_tea",
+      "小袋茶"
+    ]
+  },
+  "raw_cabbage": {
+    "zh_name": "生菜",
+    "aliases": [
+      "raw_cabbage",
+      "生菜"
+    ]
+  },
+  "boiled_mutton": {
+    "zh_name": "煮羊肉",
+    "aliases": [
+      "boiled_mutton",
+      "煮羊肉"
+    ]
+  },
+  "filipendula_ulmaria_flower": {
+    "zh_name": "Filipendula ulmaria花",
+    "aliases": [
+      "filipendula_ulmaria_flower",
+      "Filipendula ulmaria花"
+    ]
+  },
+  "cascarilla": {
+    "zh_name": "卡斯卡里拉",
+    "aliases": [
+      "cascarilla",
+      "卡斯卡里拉"
+    ]
+  },
+  "cashew": {
+    "zh_name": "腰果",
+    "aliases": [
+      "cashew",
+      "腰果"
+    ]
+  },
+  "rue_oil": {
+    "zh_name": "Rue Oil",
+    "aliases": [
+      "rue_oil",
+      "Rue Oil"
+    ]
+  },
+  "roasted_coconut": {
+    "zh_name": "烤椰子",
+    "aliases": [
+      "roasted_coconut",
+      "烤椰子"
+    ]
+  },
+  "cajeput_oil": {
+    "zh_name": "Cajeput油",
+    "aliases": [
+      "cajeput_oil",
+      "Cajeput油"
+    ]
+  },
+  "star_anise": {
+    "zh_name": "八角",
+    "aliases": [
+      "star_anise",
+      "八角"
+    ]
+  },
+  "feijoa": {
+    "zh_name": "feijoa",
+    "aliases": [
+      "feijoa",
+      "feijoa"
+    ]
+  },
+  "tobacco_oil": {
+    "zh_name": "烟油",
+    "aliases": [
+      "tobacco_oil",
+      "烟油"
+    ]
+  },
+  "cinnamon_leaf": {
+    "zh_name": "肉桂叶",
+    "aliases": [
+      "cinnamon_leaf",
+      "肉桂叶"
+    ]
+  },
+  "green_tea": {
+    "zh_name": "绿茶",
+    "aliases": [
+      "green_tea",
+      "绿茶"
+    ]
+  },
+  "artemisia_porrecta_oil": {
+    "zh_name": "阿耳厄米porrecta油",
+    "aliases": [
+      "artemisia_porrecta_oil",
+      "阿耳厄米porrecta油"
+    ]
+  },
+  "munster_cheese": {
+    "zh_name": "芒斯特奶酪",
+    "aliases": [
+      "munster_cheese",
+      "芒斯特奶酪"
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  font-size: 16px;
+  color: #334155; 
+}
+
+.form-section {
+  padding: 1rem 1.25rem;
+  padding-bottom: 0;
+  flex-shrink: 0;
+  background: transparent;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* --- 底部操作区 --- */
+.card-footer {
+  padding: 0.75rem 1.25rem;
+  background: transparent; 
+  flex-shrink: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  position: relative;
+  z-index: 1;
+}
+
+/* --- 按钮通用样式 --- */
+.card-footer button, 
+.action-bar button {
+  width: 100%;
+  padding: 10px 1rem;
+  border: none;
+  border-radius: 8px;
+  
+  background: linear-gradient(135deg, var(--brand-color) 0%, #fb923c 100%);
+  color: white;
+  
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  
+  box-shadow: 0 4px 12px rgba(249, 115, 22, 0.3);
+  
+  position: relative;
+  overflow: hidden; /* 限制光效 */
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-sizing: border-box;
+}
+
+/* 按钮悬停效果 */
+.card-footer button:hover:not(:disabled),
+.action-bar button:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(249, 115, 22, 0.5);
+}
+
+/* 按钮禁用状态 */
+.card-footer button:disabled,
+.action-bar button:disabled {
+  background: #cbd5e1;
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
+}
+
+/* 按钮扫光动画 */
+.card-footer button::after, 
+.action-bar button::after {
+  content: "";
+  position: absolute;
+  top: 0; left: -100%;
+  width: 50%; height: 100%;
+  /* 一道斜向的白光 */
+  background: linear-gradient(
+    to right, 
+    rgba(255,255,255,0) 0%, 
+    rgba(255,255,255,0.3) 50%, 
+    rgba(255,255,255,0) 100%
+  );
+  transform: skewX(-25deg);
+  transition: 0.5s;
+}
+
+.card-footer button:hover::after, 
+.action-bar button:hover::after {
+  left: 150%;
+  transition: 0.7s ease-in-out;
+}
+
+/* --- 操作栏容器 --- */
+.action-bar {
+  padding-top: 8px;
+  padding-bottom: 1rem;
+}
+
+/* --- 结果显示区域 --- */
+.results-section {
+  padding: 1rem;
+  flex-grow: 1;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  
+  background: rgba(255, 255, 255, 0.3) !important;
+  box-shadow: inset 0 2px 6px rgba(0,0,0,0.02);
+}
+
+.input-group, fieldset { margin-bottom: 8px; }
+
+.input-group label, legend {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #475569;
+  font-size: 14px;
+}
+
+/* --- 输入框 --- */
+input[type="text"], select {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+  
+  background: rgba(255, 255, 255, 0.5) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(4px);
+  
+  transition: all 0.2s ease;
+  color: #1e293b;
+}
+
+input[type="text"]:focus, select:focus {
+  outline: none;
+  background: rgba(255, 255, 255, 0.9) !important;
+  border-color: var(--brand-color) !important;
+  box-shadow: 0 0 0 3px rgba(var(--brand-color-rgb, 249, 115, 22), 0.15) !important;
+}
+
+.radio-group { display: flex; gap: 1.5rem; margin-top: 0.5rem;}
+.custom-radio { font-size: 15px; display: flex; align-items: center; gap: 0.5rem; cursor: pointer;}
+
+/* --- 错误面板 --- */
+.error-panel {
+  margin: 1rem; padding: 1rem;
+  background-color: rgba(254, 226, 226, 0.8);
+  color: #b91c1c;
+  border-left: 4px solid #ef4444;
+  border-radius: 6px;
+  backdrop-filter: blur(4px);
+}
+
+/* --- 表格样式 --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+  table-layout: fixed;
+}
+
+th, td {
+  padding: 12px 1.25rem;
+  text-align: left;
+  font-size: 16px;
+  word-break: break-all;
+  height: 57px;
+  
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
+}
+
+th {
+  /* 表头半透明 */
+  background: rgba(255, 255, 255, 0.4) !important;
+  font-weight: 600;
+  color: #475569;
+}
+th:first-child, td:first-child { width: 220px; }
+th:nth-child(2), td:nth-child(2) { width: 90px; }
+
+tbody tr:last-child td { border-bottom: none !important; }
+
+tbody tr:hover td {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+/* --- 特殊内容卡片 (灵感/路径) --- */
+.idea-card { margin-bottom: 1.5rem; }
+
+.pairing-story { 
+  background: rgba(255, 255, 255, 0.6); 
+  padding: 1.25rem; 
+  border-radius: 12px; 
+  margin-bottom: 1rem; 
+  line-height: 1.7; 
+  border: 1px solid rgba(255,255,255,0.5);
+}
+
+.complementary-list { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+
+.complementary-list span { 
+  background: rgba(255, 255, 255, 0.8); 
+  padding: 0.35rem 0.85rem; 
+  border-radius: 99px; 
+  font-size: 0.85rem; 
+  border: 1px solid rgba(0,0,0,0.05);
+  color: #475569;
+}
+
+.path-container { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; padding-top: 0.5rem;}
+.path-node { 
+  background: rgba(224, 231, 255, 0.8);
+  color: #4338ca; 
+  padding: 0.5rem 1rem; 
+  border-radius: 99px; 
+  font-weight: 600; 
+  font-size: 0.95rem;
+  backdrop-filter: blur(4px);
+}
+.path-connector { 
+  flex: 1; height: 2px; 
+  background: rgba(0,0,0,0.1); 
+  min-width: 1.5rem; 
+}
+
+/* --- 加载动画 --- */
+.spinner {
+  width: 18px; height: 18px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+/* --- 图标按钮 --- */
+.action-cell { width: 44px; text-align: center; }
+
+.icon-button.flat-icon {
+  background: rgba(255,255,255,0.3);
+  border: 1px solid rgba(0,0,0,0.05);
+  cursor: pointer;
+  padding: 0; margin: 0 auto;
+  width: 34px; height: 34px;
+  display: inline-flex; align-items: center; justify-content: center;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.icon-button.flat-icon:hover {
+  background: rgba(255,255,255,0.8);
+  transform: scale(1.05);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.icon-button.flat-icon:focus,
+.icon-button.flat-icon:focus-visible {
+  outline: none; box-shadow: none;
+}
+
+.icon-button.flat-icon svg {
+  width: 20px; height: 20px;
+  fill: #94a3b8;
+  transition: fill 0.2s ease;
+}
+
+/* 状态颜色 */
+.like-button:hover svg { fill: #f87171; }
+.like-button.liked svg { fill: #ef4444; }
+.idea-button:hover svg { fill: var(--accent-color, #10b981); }
+
+/* 购物单和查找实例按钮 */
+.icon-button.flat-icon:not(.in-list):not(.liked):hover svg {
+   fill: var(--accent-color, #10b981);
+}
+.icon-button.flat-icon.in-list svg,
+.icon-button.flat-icon:disabled svg {
+  fill: #16a34a; cursor: default;
+}
+
+/* 搜索建议列表 */
+.suggestions-list {
+  background: rgba(255, 255, 255, 0.9) !important;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(0,0,0,0.05) !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1) !important;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }

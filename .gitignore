@@ -1,0 +1,37 @@
+# 1. 全局通用
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+.history/
+
+# 2. 后端通用
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv/
+env/
+venv/
+ENV/
+
+*.db
+*.sqlite3
+
+# 3. 前端通用
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 4. 项目特定路径
+
+backend/data/
+backend/cache/
+backend/food_app.db
+
+frontend/dist/
+frontend/.output/
