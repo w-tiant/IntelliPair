@@ -7,7 +7,7 @@ from src.api import users, recommend, creative, recipes
 
 # FastAPI 实例
 app = FastAPI(
-    title="智能美食搭配API (重构版)",
+    title="智能美食搭配API",
     version="9.0.0",
     lifespan=lifespan
 )
@@ -33,4 +33,4 @@ print("所有API路由加载完毕。")
 # 根路径用于测试
 @app.get("/")
 def read_root():
-    return {"message": "欢迎使用美食搭配API (重构版)"}
+    return {"message": "欢迎使用美食搭配API"}

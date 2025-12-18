@@ -126,7 +126,7 @@ def generate_concept_api(payload: CombinationPayload):
         raise HTTPException(status_code=400, detail="请至少提供两种食材来生成概念。")
 
     try:
-        model = genai.GenerativeModel('gemini-2.5-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash-lite')
         prompt = f"""
         你是一位富有创意的顶级大厨。请为以下食材组合设计一个菜谱概念。
         食材: {', '.join(ingredients)}
